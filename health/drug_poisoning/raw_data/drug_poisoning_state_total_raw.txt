@@ -1,0 +1,13 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate	Crude Rate Standard Error	Age Adjusted Rate	Age Adjusted Rate Standard Error
+	"North Carolina"	"37"	"2006"	"2006"	878	8917270	9.85	0.33	9.85	0.33
+	"North Carolina"	"37"	"2007"	"2007"	868	9118037	9.52	0.32	9.55	0.33
+	"North Carolina"	"37"	"2008"	"2008"	957	9309449	10.28	0.33	10.33	0.34
+	"North Carolina"	"37"	"2009"	"2009"	954	9449566	10.10	0.33	10.17	0.33
+	"North Carolina"	"37"	"2010"	"2010"	877	9535483	9.20	0.31	9.21	0.31
+	"North Carolina"	"37"	"2011"	"2011"	1071	9656401	11.09	0.34	11.14	0.34
+	"North Carolina"	"37"	"2012"	"2012"	1049	9752073	10.76	0.33	10.91	0.34
+	"North Carolina"	"37"	"2013"	"2013"	1027	9848060	10.43	0.33	10.58	0.33
+	"North Carolina"	"37"	"2014"	"2014"	1108	9943964	11.14	0.33	11.36	0.35
+	"North Carolina"	"37"	"2015"	"2015"	1327	10042802	13.21	0.36	13.52	0.38
+	"North Carolina"	"37"	"2016"	"2016"	1717	10146788	16.92	0.41	17.47	0.43
+	"North Carolina"	"37"	"2017"	"2017"	2171	10273419	21.13	0.45	21.87	0.48

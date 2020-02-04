@@ -1,0 +1,41 @@
+geo_description,year,type,subtype,estimate,se
+North Carolina,1992,Total Population,Life Expectancy,0.748,8e-4
+North Carolina,1992,Gender,Male,0.708,0.001
+North Carolina,1992,Gender,Female,0.787,8e-4
+North Carolina,1992,Race / Ethnicity,White,0.762,8e-4
+North Carolina,1992,Race / Ethnicity,African-American,0.699,0.0015
+"Durham County, NC",1992,Total Population,Life Expectancy,0.751,0.002
+"Durham County, NC",1992,Gender,Male,0.707,0.0031
+"Durham County, NC",1992,Gender,Female,0.791,0.0028
+"Durham County, NC",1992,Race / Ethnicity,White,0.774,0.0026
+"Durham County, NC",1992,Race / Ethnicity,African-American,0.712,0.0038
+"Forsyth County, NC",1992,Total Population,Life Expectancy,0.751,0.0018
+"Forsyth County, NC",1992,Gender,Male,0.711,0.0026
+"Forsyth County, NC",1992,Gender,Female,0.786,0.0026
+"Forsyth County, NC",1992,Race / Ethnicity,White,0.77,0.002
+"Forsyth County, NC",1992,Race / Ethnicity,African-American,0.691,0.0038
+"Guilford County, NC",1992,Total Population,Life Expectancy,0.752,0.0015
+"Guilford County, NC",1992,Gender,Male,0.713,0.002
+"Guilford County, NC",1992,Gender,Female,0.787,0.002
+"Guilford County, NC",1992,Race / Ethnicity,White,0.768,0.0015
+"Guilford County, NC",1992,Race / Ethnicity,African-American,0.701,0.0033
+North Carolina,2018,Total Population,Life Expectancy,0.776,5e-4
+North Carolina,2018,Gender,Male,0.748,5e-4
+North Carolina,2018,Gender,Female,0.803,8e-4
+North Carolina,2018,Race / Ethnicity,White,0.784,5e-4
+North Carolina,2018,Race / Ethnicity,African-American,0.752,0.0013
+"Durham County, NC",2018,Total Population,Life Expectancy,0.802,0.0015
+"Durham County, NC",2018,Gender,Male,0.775,0.0023
+"Durham County, NC",2018,Gender,Female,0.827,0.002
+"Durham County, NC",2018,Race / Ethnicity,White,0.824,0.002
+"Durham County, NC",2018,Race / Ethnicity,African-American,0.771,0.0028
+"Forsyth County, NC",2018,Total Population,Life Expectancy,0.779,0.0015
+"Forsyth County, NC",2018,Gender,Male,0.753,0.002
+"Forsyth County, NC",2018,Gender,Female,0.803,0.002
+"Forsyth County, NC",2018,Race / Ethnicity,White,0.791,0.0015
+"Forsyth County, NC",2018,Race / Ethnicity,African-American,0.755,0.0031
+"Guilford County, NC",2018,Total Population,Life Expectancy,0.783,0.0013
+"Guilford County, NC",2018,Gender,Male,0.755,0.0018
+"Guilford County, NC",2018,Gender,Female,0.808,0.0015
+"Guilford County, NC",2018,Race / Ethnicity,White,0.795,0.0015
+"Guilford County, NC",2018,Race / Ethnicity,African-American,0.759,0.0023

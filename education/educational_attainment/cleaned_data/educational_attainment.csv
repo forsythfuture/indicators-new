@@ -1,0 +1,99 @@
+geo_description,year,type,subtype,estimate,se
+"Durham County, NC",2012,Educational Attainment,Total Population,0.5206864483757948,0.014217581871976291
+"Durham County, NC",2013,Educational Attainment,Total Population,0.5255216577180514,0.01459201419915542
+"Durham County, NC",2014,Educational Attainment,Total Population,0.5241361264448213,0.014592642519912317
+"Durham County, NC",2015,Educational Attainment,Total Population,0.5255352025897058,0.01451572057130297
+"Durham County, NC",2016,Educational Attainment,Total Population,0.5472814308509372,0.0149986755628924
+"Durham County, NC",2017,Educational Attainment,Total Population,0.5385352110056767,0.014571901186479061
+"Durham County, NC",2018,Educational Attainment,Total Population,0.5514664307731592,0.01508623365162666
+"Forsyth County, NC",2012,Educational Attainment,Total Population,0.39288420749596753,0.009992489953867706
+"Forsyth County, NC",2013,Educational Attainment,Total Population,0.4073218969721857,0.01105269236987252
+"Forsyth County, NC",2014,Educational Attainment,Total Population,0.4029554085381224,0.010748610267435049
+"Forsyth County, NC",2015,Educational Attainment,Total Population,0.4196260689001161,0.011111768437488808
+"Forsyth County, NC",2016,Educational Attainment,Total Population,0.4310488133568967,0.010646164521687412
+"Forsyth County, NC",2017,Educational Attainment,Total Population,0.4206453248208861,0.010946361842211084
+"Forsyth County, NC",2018,Educational Attainment,Total Population,0.4146864433736643,0.010773673098236443
+"Guilford County, NC",2012,Educational Attainment,Total Population,0.39304122532957403,0.008655961378025238
+"Guilford County, NC",2013,Educational Attainment,Total Population,0.42165964950160134,0.009400924040560974
+"Guilford County, NC",2014,Educational Attainment,Total Population,0.4180347237400977,0.01005113608289268
+"Guilford County, NC",2015,Educational Attainment,Total Population,0.4227344674620422,0.01016897023483646
+"Guilford County, NC",2016,Educational Attainment,Total Population,0.4167857461178182,0.009971801906080553
+"Guilford County, NC",2017,Educational Attainment,Total Population,0.45151226030751984,0.010371867592682951
+"Guilford County, NC",2018,Educational Attainment,Total Population,0.45981048046928646,0.010923282081561729
+North Carolina,2012,Educational Attainment,Total Population,0.36023869767760064,0.0020753370676387627
+North Carolina,2013,Educational Attainment,Total Population,0.37144840753276054,0.0021081671310040585
+North Carolina,2014,Educational Attainment,Total Population,0.3793125032554346,0.0020845221780366524
+North Carolina,2015,Educational Attainment,Total Population,0.3866638551430476,0.0021151554912045936
+North Carolina,2016,Educational Attainment,Total Population,0.399287062947994,0.0021169411856602456
+North Carolina,2017,Educational Attainment,Total Population,0.4074993009053544,0.0021125243659256853
+North Carolina,2018,Educational Attainment,Total Population,0.4178762075226861,0.0022733114417024898
+United States,2012,Educational Attainment,Total Population,0.3705891671414153,3.812180350869712e-4
+United States,2013,Educational Attainment,Total Population,0.37680775336983396,4.0957528848386594e-4
+United States,2014,Educational Attainment,Total Population,0.382193559533133,4.042486579810744e-4
+United States,2015,Educational Attainment,Total Population,0.38830863770665364,4.101010870088553e-4
+United States,2016,Educational Attainment,Total Population,0.3963562318297687,4.1150941648249807e-4
+United States,2017,Educational Attainment,Total Population,0.4046401826660558,4.3502242768925025e-4
+United States,2018,Educational Attainment,Total Population,0.4119403655101337,4.4842738747740893e-4
+"Forsyth County, NC",2012,Race / Ethnicity,African American,0.25656757995698015,0.01819492979528784
+"Forsyth County, NC",2012,Race / Ethnicity,Hispanic / Latino,0.13042846064366034,NA
+"Forsyth County, NC",2012,Race / Ethnicity,"White, non-Hispanic",0.4664997074927859,0.013035723368627078
+"Forsyth County, NC",2013,Race / Ethnicity,African American,0.289833185786943,0.020806179071854544
+"Forsyth County, NC",2013,Race / Ethnicity,Hispanic / Latino,0.1125876168224299,0.025416343972332913
+"Forsyth County, NC",2013,Race / Ethnicity,"White, non-Hispanic",0.4853168469860896,0.013822181327667202
+"Forsyth County, NC",2014,Race / Ethnicity,African American,0.2942889252145484,0.020977681229458388
+"Forsyth County, NC",2014,Race / Ethnicity,Hispanic / Latino,0.141320110399027,NA
+"Forsyth County, NC",2014,Race / Ethnicity,"White, non-Hispanic",0.47592441173798494,0.013954884004298507
+"Forsyth County, NC",2015,Race / Ethnicity,African American,0.30204609161253504,0.023219614964244677
+"Forsyth County, NC",2015,Race / Ethnicity,Hispanic / Latino,0.17407510949585314,NA
+"Forsyth County, NC",2015,Race / Ethnicity,"White, non-Hispanic",0.49703413977102007,0.013223994614669336
+"Forsyth County, NC",2016,Race / Ethnicity,African American,0.3121632787968931,0.02283197841509122
+"Forsyth County, NC",2016,Race / Ethnicity,Hispanic / Latino,0.1720647773279352,NA
+"Forsyth County, NC",2016,Race / Ethnicity,"White, non-Hispanic",0.5028609745194457,0.013410749560547648
+"Forsyth County, NC",2017,Race / Ethnicity,African American,0.3039214120277933,0.021831560263624292
+"Forsyth County, NC",2017,Race / Ethnicity,Hispanic / Latino,0.1482150727192596,NA
+"Forsyth County, NC",2017,Race / Ethnicity,"White, non-Hispanic",0.4979716728178922,0.013819863695010376
+"Forsyth County, NC",2018,Race / Ethnicity,African American,0.27495015551479385,0.021890410743394245
+"Forsyth County, NC",2018,Race / Ethnicity,Hispanic / Latino,0.18017656500802567,0.03120452167559041
+"Forsyth County, NC",2018,Race / Ethnicity,"White, non-Hispanic",0.49383650178126676,0.01354833088829441
+"Forsyth County, NC",2012,Gender,Female,0.40931137890380825,0.013354125219572117
+"Forsyth County, NC",2012,Gender,Male,0.3739801864801865,0.015003960979369572
+"Forsyth County, NC",2013,Gender,Female,0.4147711797800898,0.014933017190472013
+"Forsyth County, NC",2013,Gender,Male,0.3986309204971538,0.01640872289671699
+"Forsyth County, NC",2014,Gender,Female,0.42273259865675183,0.015257276779182823
+"Forsyth County, NC",2014,Gender,Male,0.37977705577195786,0.014981556391195187
+"Forsyth County, NC",2015,Gender,Female,0.4239629235678468,0.015535576848397155
+"Forsyth County, NC",2015,Gender,Male,0.41457566534541335,0.015849298754493524
+"Forsyth County, NC",2016,Gender,Female,0.44978310142447575,0.01548278947453577
+"Forsyth County, NC",2016,Gender,Male,0.4092670157068063,0.014343469677182556
+"Forsyth County, NC",2017,Gender,Female,0.4326734714919064,0.014869220791041624
+"Forsyth County, NC",2017,Gender,Male,0.40665084356551023,0.016111029289573708
+"Forsyth County, NC",2018,Gender,Female,0.43595572751582984,0.015319031352292333
+"Forsyth County, NC",2018,Gender,Male,0.38982300131173236,0.015017633237598301
+"Forsyth County, NC",2012,Age,25 to 34 years,0.38545454545454544,0.025886015075595497
+"Forsyth County, NC",2012,Age,35 to 44 years,0.41417155034629727,0.02353365808100995
+"Forsyth County, NC",2012,Age,45 to 64 years,0.4324626032596562,0.016676989171486488
+"Forsyth County, NC",2012,Age,65 years and over,0.303571792831936,0.01710175225450131
+"Forsyth County, NC",2013,Age,25 to 34 years,0.41766725717910025,0.023822778695810516
+"Forsyth County, NC",2013,Age,35 to 44 years,0.44721668488628813,0.025539074487192417
+"Forsyth County, NC",2013,Age,45 to 64 years,0.43579250660291674,0.0168743952446817
+"Forsyth County, NC",2013,Age,65 years and over,0.30706914651296374,0.019013410173441835
+"Forsyth County, NC",2014,Age,25 to 34 years,0.40381304871750734,0.028102181221497165
+"Forsyth County, NC",2014,Age,35 to 44 years,0.44715412309274816,0.025936509736479964
+"Forsyth County, NC",2014,Age,45 to 64 years,0.41973558985393306,0.01572025607059464
+"Forsyth County, NC",2014,Age,65 years and over,0.33159619106010385,0.01955409085950502
+"Forsyth County, NC",2015,Age,25 to 34 years,0.47719759260829026,0.029944227082085155
+"Forsyth County, NC",2015,Age,35 to 44 years,0.4443860110439127,0.026606138462123095
+"Forsyth County, NC",2015,Age,45 to 64 years,0.4248961626681545,0.016406583899287723
+"Forsyth County, NC",2015,Age,65 years and over,0.34046225969400734,0.018229604450343762
+"Forsyth County, NC",2016,Age,25 to 34 years,0.42494745691467,0.02893023812670712
+"Forsyth County, NC",2016,Age,35 to 44 years,0.46915135840130867,0.026975886978340413
+"Forsyth County, NC",2016,Age,45 to 64 years,0.4566298787610263,0.016776494952816193
+"Forsyth County, NC",2016,Age,65 years and over,0.3597286286052731,0.018809732950753142
+"Forsyth County, NC",2017,Age,25 to 34 years,0.4356370916668369,0.02729614062534213
+"Forsyth County, NC",2017,Age,35 to 44 years,0.4307491004252535,0.025883978419178888
+"Forsyth County, NC",2017,Age,45 to 64 years,0.44885269576379977,0.01818321272275236
+"Forsyth County, NC",2017,Age,65 years and over,0.35148420925539436,0.01804630542299372
+"Forsyth County, NC",2018,Age,25 to 34 years,0.43938902186701284,0.026882180133307256
+"Forsyth County, NC",2018,Age,35 to 44 years,0.46233657058159855,0.027960295077336605
+"Forsyth County, NC",2018,Age,45 to 64 years,0.417674950128813,0.01603178303543761
+"Forsyth County, NC",2018,Age,65 years and over,0.3539123954624493,0.019715318061308402

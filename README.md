@@ -1,2 +1,2 @@
-# indicators-new
-Latest update of indicators
+# indicators-update
+Update of indicators

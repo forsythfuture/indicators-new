@@ -1,0 +1,65 @@
+year,geo_description,type,subtype,success,trials,estimate
+2006,"Durham County, NC",Comparison Community,Total,372,4194,0.08869814020028613
+2006,"Forsyth County, NC",Comparison Community,Total,538,4996,0.1076861489191353
+2006,"Guilford County, NC",Comparison Community,Total,573,6119,0.0936427520836738
+2006,North Carolina,Comparison Community,Total,11595,127646,0.09083715901790891
+2007,"Durham County, NC",Comparison Community,Total,420,4375,0.096
+2007,"Forsyth County, NC",Comparison Community,Total,521,5134,0.10148032723022984
+2007,"Guilford County, NC",Comparison Community,Total,620,6296,0.09847522236340533
+2007,North Carolina,Comparison Community,Total,12100,130886,0.09244686215485232
+2008,"Durham County, NC",Comparison Community,Total,440,4624,0.09515570934256055
+2008,"Forsyth County, NC",Comparison Community,Total,543,5096,0.1065541601255887
+2008,"Guilford County, NC",Comparison Community,Total,595,6381,0.09324557279423287
+2009,"Durham County, NC",Comparison Community,Total,421,4423,0.09518426407415781
+2009,"Forsyth County, NC",Comparison Community,Total,479,4834,0.0990897807199007
+2009,"Guilford County, NC",Comparison Community,Total,592,6150,0.09626016260162602
+2009,North Carolina,Comparison Community,Total,11484,126785,0.09057853847063928
+2010,"Durham County, NC",Comparison Community,Total,412,4257,0.09678177120037586
+2010,"Forsyth County, NC",Comparison Community,Total,482,4693,0.10270615810782016
+2010,"Guilford County, NC",Comparison Community,Total,564,6003,0.09395302348825588
+2010,North Carolina,Comparison Community,Total,11152,122302,0.09118411800297624
+2011,"Durham County, NC",Comparison Community,Total,392,4231,0.09264949184589931
+2011,"Forsyth County, NC",Comparison Community,Total,503,4581,0.10980135341628465
+2011,"Guilford County, NC",Comparison Community,Total,598,6049,0.09885931558935361
+2011,North Carolina,Comparison Community,Total,10939,120403,0.09085321794307451
+2012,"Durham County, NC",Comparison Community,Total,398,4321,0.0921083082619764
+2012,"Forsyth County, NC",Comparison Community,Total,470,4624,0.10164359861591696
+2012,"Guilford County, NC",Comparison Community,Total,573,6164,0.09295911745619727
+2012,North Carolina,Comparison Community,Total,10616,119767,0.08863877361877645
+2013,"Durham County, NC",Comparison Community,Total,356,4192,0.08492366412213741
+2013,"Forsyth County, NC",Comparison Community,Total,470,4522,0.10393631136665192
+2013,"Guilford County, NC",Comparison Community,Total,581,6169,0.09418058032095963
+2013,North Carolina,Comparison Community,Total,10509,118983,0.0883235420186077
+2014,North Carolina,Comparison Community,Total,10808,120948,0.08936071700234811
+2014,"Durham County, NC",Comparison Community,Total,399,4503,0.08860759493670886
+2014,"Forsyth County, NC",Comparison Community,Total,434,4548,0.09542656112576957
+2014,"Guilford County, NC",Comparison Community,Total,599,6085,0.09843878389482334
+2015,"Forsyth County, NC",Comparison Community,Total,478,4340,0.11013824884792627
+2016,"Forsyth County, NC",Comparison Community,Total,462,4495,0.10278086763070078
+2016,"Forsyth County, NC",Comparison Community,Total,462,4495,0.10278086763070078
+2017,"Forsyth County, NC",Comparison Community,Total,499,4372,0.11413540713632205
+2018,"Forsyth County, NC",Comparison Community,Total,452,4330,0.10438799076212471
+2018,"Forsyth County, NC",Race / Ethnicity,White,128,2049,0.06246949731576379
+2018,"Forsyth County, NC",Race / Ethnicity,African American,222,1246,0.1781701444622793
+2018,"Forsyth County, NC",Race / Ethnicity,Hispanic / Latino,85,874,0.09725400457665904
+2018,"Forsyth County, NC",Education,Less than high school,60,587,0.10221465076660988
+2018,"Forsyth County, NC",Education,HIgh School or GED,119,872,0.13646788990825687
+2018,"Forsyth County, NC",Education,Some College,160,1189,0.1345668629100084
+2018,"Forsyth County, NC",Education,Bachelors degree or above,113,1400,0.08071428571428571
+2018,"Forsyth County, NC",Age,20 and under,44,384,0.11458333333333333
+2018,"Forsyth County, NC",Age,21 - 24,82,730,0.11232876712328767
+2018,"Forsyth County, NC",Age,25 - 29,130,1269,0.1024428684003152
+2018,"Forsyth County, NC",Age,30 - 34,119,1219,0.09762100082034454
+2018,"Forsyth County, NC",Age,35 and above,77,728,0.10576923076923077
+2015,"Guilford County, NC",Comparison Community,Total,620,6095,0.10172272354388844
+2015,"Durham County, NC",Comparison Community,Total,381,4231,0.09004963365634602
+2015,North Carolina,Comparison Community,Total,11119,120826,0.09202489530399087
+2016,"Guilford County, NC",Comparison Community,Total,571,6258,0.09124320869287313
+2016,"Durham County, NC",Comparison Community,Total,375,4346,0.08628624022089278
+2016,North Carolina,Comparison Community,Total,11156,120765,0.09237775845650643
+2017,"Guilford County, NC",Comparison Community,Total,647,6218,0.1040527500804117
+2017,"Durham County, NC",Comparison Community,Total,377,4182,0.09014825442372071
+2017,North Carolina,Comparison Community,Total,11311,120099,0.09418063431002756
+2018,"Guilford County, NC",Comparison Community,Total,592,6115,0.09681112019623876
+2018,"Durham County, NC",Comparison Community,Total,362,4151,0.08720790171043122
+2018,North Carolina,Comparison Community,Total,11019,118957,0.09263011003976226

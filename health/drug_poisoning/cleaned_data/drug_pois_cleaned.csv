@@ -1,0 +1,65 @@
+geo_description,year,type,subtype,estimate,se
+"Durham County, NC",2006,Drug Poisoning,Total Population,8.62,1.9
+"Durham County, NC",2007,Drug Poisoning,Total Population,8.87,1.91
+"Durham County, NC",2008,Drug Poisoning,Total Population,7.18,1.59
+"Durham County, NC",2009,Drug Poisoning,Total Population,NA,1.28
+"Durham County, NC",2010,Drug Poisoning,Total Population,NA,1.44
+"Durham County, NC",2011,Drug Poisoning,Total Population,8.07,1.75
+"Durham County, NC",2012,Drug Poisoning,Total Population,NA,1.45
+"Durham County, NC",2013,Drug Poisoning,Total Population,6.2,1.41
+"Durham County, NC",2014,Drug Poisoning,Total Population,7.17,1.58
+"Durham County, NC",2015,Drug Poisoning,Total Population,6.62,1.5
+"Durham County, NC",2016,Drug Poisoning,Total Population,7.75,1.55
+"Durham County, NC",2017,Drug Poisoning,Total Population,14.37,2.13
+"Forsyth County, NC",2006,Drug Poisoning,Total Population,10.93,1.83
+"Forsyth County, NC",2007,Drug Poisoning,Total Population,8.09,1.54
+"Forsyth County, NC",2008,Drug Poisoning,Total Population,8.81,1.59
+"Forsyth County, NC",2009,Drug Poisoning,Total Population,9.54,1.67
+"Forsyth County, NC",2010,Drug Poisoning,Total Population,NA,1.2
+"Forsyth County, NC",2011,Drug Poisoning,Total Population,11.92,1.84
+"Forsyth County, NC",2012,Drug Poisoning,Total Population,10.56,1.71
+"Forsyth County, NC",2013,Drug Poisoning,Total Population,8.78,1.57
+"Forsyth County, NC",2014,Drug Poisoning,Total Population,12.73,1.87
+"Forsyth County, NC",2015,Drug Poisoning,Total Population,16.34,2.18
+"Forsyth County, NC",2016,Drug Poisoning,Total Population,17.43,2.25
+"Forsyth County, NC",2017,Drug Poisoning,Total Population,22.29,2.53
+"Guilford County, NC",2006,Drug Poisoning,Total Population,8.13,1.32
+"Guilford County, NC",2007,Drug Poisoning,Total Population,8.72,1.37
+"Guilford County, NC",2008,Drug Poisoning,Total Population,5.84,1.11
+"Guilford County, NC",2009,Drug Poisoning,Total Population,7.63,1.25
+"Guilford County, NC",2010,Drug Poisoning,Total Population,5.32,1.05
+"Guilford County, NC",2011,Drug Poisoning,Total Population,8.64,1.33
+"Guilford County, NC",2012,Drug Poisoning,Total Population,9.11,1.36
+"Guilford County, NC",2013,Drug Poisoning,Total Population,5.88,1.09
+"Guilford County, NC",2014,Drug Poisoning,Total Population,9.32,1.37
+"Guilford County, NC",2015,Drug Poisoning,Total Population,10.58,1.44
+"Guilford County, NC",2016,Drug Poisoning,Total Population,17.13,1.83
+"Guilford County, NC",2017,Drug Poisoning,Total Population,21.59,2.09
+North Carolina,2006,Drug Poisoning,Total Population,9.85,0.33
+North Carolina,2007,Drug Poisoning,Total Population,9.55,0.33
+North Carolina,2008,Drug Poisoning,Total Population,10.33,0.34
+North Carolina,2009,Drug Poisoning,Total Population,10.17,0.33
+North Carolina,2010,Drug Poisoning,Total Population,9.21,0.31
+North Carolina,2011,Drug Poisoning,Total Population,11.14,0.34
+North Carolina,2012,Drug Poisoning,Total Population,10.91,0.34
+North Carolina,2013,Drug Poisoning,Total Population,10.58,0.33
+North Carolina,2014,Drug Poisoning,Total Population,11.36,0.35
+North Carolina,2015,Drug Poisoning,Total Population,13.52,0.38
+North Carolina,2016,Drug Poisoning,Total Population,17.47,0.43
+North Carolina,2017,Drug Poisoning,Total Population,21.87,0.48
+"Durham County, NC",2013 - 2017,Race / Ethnicity,African American,9.36,1.27
+"Durham County, NC",2013 - 2017,Race / Ethnicity,"White, non-Hispanic",10.3,1.29
+"Forsyth County, NC",2013 - 2017,Race / Ethnicity,African American,7.75,1.31
+"Forsyth County, NC",2013 - 2017,Race / Ethnicity,"White, non-Hispanic",22.45,1.52
+"Guilford County, NC",2013 - 2017,Race / Ethnicity,African American,6.98,0.89
+"Guilford County, NC",2013 - 2017,Race / Ethnicity,"White, non-Hispanic",20.81,1.32
+North Carolina,2013 - 2017,Race / Ethnicity,African American,7.91,0.27
+North Carolina,2013 - 2017,Race / Ethnicity,"White, non-Hispanic",19.93,0.26
+"Durham County, NC",2013 - 2017,Gender,Female,5.27,0.82
+"Durham County, NC",2013 - 2017,Gender,Male,12.06,1.28
+"Forsyth County, NC",2013 - 2017,Gender,Female,10.37,1.07
+"Forsyth County, NC",2013 - 2017,Gender,Male,21.28,1.59
+"Guilford County, NC",2013 - 2017,Gender,Female,7.67,0.76
+"Guilford County, NC",2013 - 2017,Gender,Male,18.8,1.26
+North Carolina,2013 - 2017,Gender,Female,10.46,0.21
+North Carolina,2013 - 2017,Gender,Male,19.68,0.29

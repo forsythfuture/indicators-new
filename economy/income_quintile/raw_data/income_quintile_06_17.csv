@@ -1,0 +1,301 @@
+geo_description,label,year,description,estimate,moe,se,cv
+United States,HD01_VD02,2006,Estimate; Quintile Upper Limits: - Lowest Quintile,20264,17.87,9.12,0.05
+North Carolina,HD01_VD02,2006,Estimate; Quintile Upper Limits: - Lowest Quintile,18176,256.17,130.7,0.72
+"Durham County, NC",HD01_VD02,2006,Estimate; Quintile Upper Limits: - Lowest Quintile,19983,1388.09,708.21,3.54
+"Forsyth County, NC",HD01_VD02,2006,Estimate; Quintile Upper Limits: - Lowest Quintile,19486,1809.87,923.4,4.74
+"Guilford County, NC",HD01_VD02,2006,Estimate; Quintile Upper Limits: - Lowest Quintile,19145,1491.74,761.09,3.98
+United States,HD01_VD03,2006,Estimate; Quintile Upper Limits: - Second Quintile,38200,57.19,29.18,0.08
+North Carolina,HD01_VD03,2006,Estimate; Quintile Upper Limits: - Second Quintile,33619,495.66,252.89,0.75
+"Durham County, NC",HD01_VD03,2006,Estimate; Quintile Upper Limits: - Second Quintile,37564,2707.06,1381.15,3.68
+"Forsyth County, NC",HD01_VD03,2006,Estimate; Quintile Upper Limits: - Second Quintile,36236,1691.91,863.22,2.38
+"Guilford County, NC",HD01_VD03,2006,Estimate; Quintile Upper Limits: - Second Quintile,34336,2044.6,1043.16,3.04
+United States,HD01_VD04,2006,Estimate; Quintile Upper Limits: - Third Quintile,60224,90.55,46.2,0.08
+North Carolina,HD01_VD04,2006,Estimate; Quintile Upper Limits: - Third Quintile,52687,604.09,308.21,0.58
+"Durham County, NC",HD01_VD04,2006,Estimate; Quintile Upper Limits: - Third Quintile,57645,3722.21,1899.09,3.29
+"Forsyth County, NC",HD01_VD04,2006,Estimate; Quintile Upper Limits: - Third Quintile,54733,1756.26,896.05,1.64
+"Guilford County, NC",HD01_VD04,2006,Estimate; Quintile Upper Limits: - Third Quintile,56118,2288.85,1167.78,2.08
+United States,HD01_VD05,2006,Estimate; Quintile Upper Limits: - Fourth Quintile,94150,120.34,61.4,0.07
+North Carolina,HD01_VD05,2006,Estimate; Quintile Upper Limits: - Fourth Quintile,82457,630.3,321.58,0.39
+"Durham County, NC",HD01_VD05,2006,Estimate; Quintile Upper Limits: - Fourth Quintile,92090,8881.36,4531.31,4.92
+"Forsyth County, NC",HD01_VD05,2006,Estimate; Quintile Upper Limits: - Fourth Quintile,87915,5884.77,3002.43,3.42
+"Guilford County, NC",HD01_VD05,2006,Estimate; Quintile Upper Limits: - Fourth Quintile,87310,4285.79,2186.63,2.5
+United States,HD01_VD06,2006,Estimate; Lower Limit of Top 5 Percent,170715,369.36,188.45,0.11
+North Carolina,HD01_VD06,2006,Estimate; Lower Limit of Top 5 Percent,147928,3144.34,1604.26,1.08
+"Durham County, NC",HD01_VD06,2006,Estimate; Lower Limit of Top 5 Percent,166569,18757.62,9570.21,5.75
+"Forsyth County, NC",HD01_VD06,2006,Estimate; Lower Limit of Top 5 Percent,161060,10925.96,5574.47,3.46
+"Guilford County, NC",HD01_VD06,2006,Estimate; Lower Limit of Top 5 Percent,153912,9446.13,4819.45,3.13
+United States,HD01_VD02,2007,Estimate; Quintile Upper Limits: - Lowest Quintile,21204,67.91,34.65,0.16
+North Carolina,HD01_VD02,2007,Estimate; Quintile Upper Limits: - Lowest Quintile,18567,359.83,183.59,0.99
+"Durham County, NC",HD01_VD02,2007,Estimate; Quintile Upper Limits: - Lowest Quintile,18714,1828.94,933.13,4.99
+"Forsyth County, NC",HD01_VD02,2007,Estimate; Quintile Upper Limits: - Lowest Quintile,19953,2261.45,1153.8,5.78
+"Guilford County, NC",HD01_VD02,2007,Estimate; Quintile Upper Limits: - Lowest Quintile,19297,1862.3,950.15,4.92
+United States,HD01_VD03,2007,Estimate; Quintile Upper Limits: - Second Quintile,40253,96.51,49.24,0.12
+North Carolina,HD01_VD03,2007,Estimate; Quintile Upper Limits: - Second Quintile,35340,331.23,168.99,0.48
+"Durham County, NC",HD01_VD03,2007,Estimate; Quintile Upper Limits: - Second Quintile,36728,3435.06,1752.58,4.77
+"Forsyth County, NC",HD01_VD03,2007,Estimate; Quintile Upper Limits: - Second Quintile,35742,2329.36,1188.45,3.33
+"Guilford County, NC",HD01_VD03,2007,Estimate; Quintile Upper Limits: - Second Quintile,35714,1292.77,659.58,1.85
+United States,HD01_VD04,2007,Estimate; Quintile Upper Limits: - Third Quintile,62601,96.51,49.24,0.08
+North Carolina,HD01_VD04,2007,Estimate; Quintile Upper Limits: - Third Quintile,55351,636.26,324.62,0.59
+"Durham County, NC",HD01_VD04,2007,Estimate; Quintile Upper Limits: - Third Quintile,57045,5286.64,2697.27,4.73
+"Forsyth County, NC",HD01_VD04,2007,Estimate; Quintile Upper Limits: - Third Quintile,58108,3083.57,1573.25,2.71
+"Guilford County, NC",HD01_VD04,2007,Estimate; Quintile Upper Limits: - Third Quintile,58395,3906.89,1993.31,3.41
+United States,HD01_VD05,2007,Estimate; Quintile Upper Limits: - Fourth Quintile,99069,270.47,137.99,0.14
+North Carolina,HD01_VD05,2007,Estimate; Quintile Upper Limits: - Fourth Quintile,86786,928.17,473.56,0.55
+"Durham County, NC",HD01_VD05,2007,Estimate; Quintile Upper Limits: - Fourth Quintile,93437,5582.13,2848.03,3.05
+"Forsyth County, NC",HD01_VD05,2007,Estimate; Quintile Upper Limits: - Fourth Quintile,93945,4205.96,2145.9,2.28
+"Guilford County, NC",HD01_VD05,2007,Estimate; Quintile Upper Limits: - Fourth Quintile,92377,2825.02,1441.34,1.56
+United States,HD01_VD06,2007,Estimate; Lower Limit of Top 5 Percent,181130,442.04,225.53,0.12
+North Carolina,HD01_VD06,2007,Estimate; Lower Limit of Top 5 Percent,160082,2722.55,1389.06,0.87
+"Durham County, NC",HD01_VD06,2007,Estimate; Lower Limit of Top 5 Percent,166601,26041.19,13286.32,7.97
+"Forsyth County, NC",HD01_VD06,2007,Estimate; Lower Limit of Top 5 Percent,183224,4589.62,2341.64,1.28
+"Guilford County, NC",HD01_VD06,2007,Estimate; Lower Limit of Top 5 Percent,177199,11114.21,5670.52,3.2
+United States,HD01_VD02,2008,Estimate; Quintile Upper Limits: - Lowest Quintile,21769,94.13,48.03,0.22
+North Carolina,HD01_VD02,2008,Estimate; Quintile Upper Limits: - Lowest Quintile,20002,324.09,165.35,0.83
+"Durham County, NC",HD01_VD02,2008,Estimate; Quintile Upper Limits: - Lowest Quintile,23987,2621.28,1337.39,5.58
+"Forsyth County, NC",HD01_VD02,2008,Estimate; Quintile Upper Limits: - Lowest Quintile,21143,1359.49,693.62,3.28
+"Guilford County, NC",HD01_VD02,2008,Estimate; Quintile Upper Limits: - Lowest Quintile,20494,753.02,384.19,1.87
+United States,HD01_VD03,2008,Estimate; Quintile Upper Limits: - Second Quintile,41121,58.38,29.79,0.07
+North Carolina,HD01_VD03,2008,Estimate; Quintile Upper Limits: - Second Quintile,36856,401.53,204.86,0.56
+"Durham County, NC",HD01_VD03,2008,Estimate; Quintile Upper Limits: - Second Quintile,40987,3443.4,1756.84,4.29
+"Forsyth County, NC",HD01_VD03,2008,Estimate; Quintile Upper Limits: - Second Quintile,37294,2030.3,1035.87,2.78
+"Guilford County, NC",HD01_VD03,2008,Estimate; Quintile Upper Limits: - Second Quintile,38302,1811.06,924.01,2.41
+United States,HD01_VD04,2008,Estimate; Quintile Upper Limits: - Third Quintile,64979,71.49,36.47,0.06
+North Carolina,HD01_VD04,2008,Estimate; Quintile Upper Limits: - Third Quintile,57451,750.64,382.98,0.67
+"Durham County, NC",HD01_VD04,2008,Estimate; Quintile Upper Limits: - Third Quintile,63598,4078.47,2080.85,3.27
+"Forsyth County, NC",HD01_VD04,2008,Estimate; Quintile Upper Limits: - Third Quintile,58755,3136,1600,2.72
+"Guilford County, NC",HD01_VD04,2008,Estimate; Quintile Upper Limits: - Third Quintile,58597,2564.09,1308.21,2.23
+United States,HD01_VD05,2008,Estimate; Quintile Upper Limits: - Fourth Quintile,102106,61.96,31.61,0.03
+North Carolina,HD01_VD05,2008,Estimate; Quintile Upper Limits: - Fourth Quintile,90007,751.83,383.59,0.43
+"Durham County, NC",HD01_VD05,2008,Estimate; Quintile Upper Limits: - Fourth Quintile,103840,4414.47,2252.28,2.17
+"Forsyth County, NC",HD01_VD05,2008,Estimate; Quintile Upper Limits: - Fourth Quintile,93345,4830.3,2464.44,2.64
+"Guilford County, NC",HD01_VD05,2008,Estimate; Quintile Upper Limits: - Fourth Quintile,91087,3867.57,1973.25,2.17
+United States,HD01_VD06,2008,Estimate; Lower Limit of Top 5 Percent,187285,675.57,344.68,0.18
+North Carolina,HD01_VD06,2008,Estimate; Lower Limit of Top 5 Percent,163736,2330.55,1189.06,0.73
+"Durham County, NC",HD01_VD06,2008,Estimate; Lower Limit of Top 5 Percent,175930,15154.55,7731.91,4.39
+"Forsyth County, NC",HD01_VD06,2008,Estimate; Lower Limit of Top 5 Percent,167182,17006.13,8676.6,5.19
+"Guilford County, NC",HD01_VD06,2008,Estimate; Lower Limit of Top 5 Percent,172055,11987.57,6116.11,3.55
+United States,HD01_VD02,2009,Estimate; Quintile Upper Limits: - Lowest Quintile,20826,89.36,45.59,0.22
+North Carolina,HD01_VD02,2009,Estimate; Quintile Upper Limits: - Lowest Quintile,18433,413.45,210.94,1.14
+"Durham County, NC",HD01_VD02,2009,Estimate; Quintile Upper Limits: - Lowest Quintile,19924,1165.28,594.53,2.98
+"Forsyth County, NC",HD01_VD02,2009,Estimate; Quintile Upper Limits: - Lowest Quintile,19071,994.89,507.6,2.66
+"Guilford County, NC",HD01_VD02,2009,Estimate; Quintile Upper Limits: - Lowest Quintile,18835,2254.3,1150.15,6.11
+United States,HD01_VD03,2009,Estimate; Quintile Upper Limits: - Second Quintile,39856,1.19,0.61,0
+North Carolina,HD01_VD03,2009,Estimate; Quintile Upper Limits: - Second Quintile,34548,531.4,271.12,0.78
+"Durham County, NC",HD01_VD03,2009,Estimate; Quintile Upper Limits: - Second Quintile,38047,2914.38,1486.93,3.91
+"Forsyth County, NC",HD01_VD03,2009,Estimate; Quintile Upper Limits: - Second Quintile,35863,2436.6,1243.16,3.47
+"Guilford County, NC",HD01_VD03,2009,Estimate; Quintile Upper Limits: - Second Quintile,34867,1801.53,919.15,2.64
+United States,HD01_VD04,2009,Estimate; Quintile Upper Limits: - Third Quintile,62629,189.45,96.66,0.15
+North Carolina,HD01_VD04,2009,Estimate; Quintile Upper Limits: - Third Quintile,54803,352.68,179.94,0.33
+"Durham County, NC",HD01_VD04,2009,Estimate; Quintile Upper Limits: - Third Quintile,60251,2919.15,1489.36,2.47
+"Forsyth County, NC",HD01_VD04,2009,Estimate; Quintile Upper Limits: - Third Quintile,54803,2510.47,1280.85,2.34
+"Guilford County, NC",HD01_VD04,2009,Estimate; Quintile Upper Limits: - Third Quintile,55968,2921.53,1490.58,2.66
+United States,HD01_VD05,2009,Estimate; Quintile Upper Limits: - Fourth Quintile,99715,84.6,43.16,0.04
+North Carolina,HD01_VD05,2009,Estimate; Quintile Upper Limits: - Fourth Quintile,87251,878.13,448.03,0.51
+"Durham County, NC",HD01_VD05,2009,Estimate; Quintile Upper Limits: - Fourth Quintile,99945,3613.79,1843.77,1.84
+"Forsyth County, NC",HD01_VD05,2009,Estimate; Quintile Upper Limits: - Fourth Quintile,87500,4316.77,2202.43,2.52
+"Guilford County, NC",HD01_VD05,2009,Estimate; Quintile Upper Limits: - Fourth Quintile,93216,3984.34,2032.83,2.18
+United States,HD01_VD06,2009,Estimate; Lower Limit of Top 5 Percent,181481,545.7,278.42,0.15
+North Carolina,HD01_VD06,2009,Estimate; Lower Limit of Top 5 Percent,155539,2198.3,1121.58,0.72
+"Durham County, NC",HD01_VD06,2009,Estimate; Lower Limit of Top 5 Percent,166918,25347.74,12932.52,7.75
+"Forsyth County, NC",HD01_VD06,2009,Estimate; Lower Limit of Top 5 Percent,155390,10094.3,5150.15,3.31
+"Guilford County, NC",HD01_VD06,2009,Estimate; Lower Limit of Top 5 Percent,166841,11923.23,6083.28,3.65
+United States,HD01_VD02,2010,Estimate; Quintile Upper Limits: - Lowest Quintile,20699,50.04,25.53,0.12
+North Carolina,HD01_VD02,2010,Estimate; Quintile Upper Limits: - Lowest Quintile,18251,365.79,186.63,1.02
+"Durham County, NC",HD01_VD02,2010,Estimate; Quintile Upper Limits: - Lowest Quintile,20559,2275.74,1161.09,5.65
+"Forsyth County, NC",HD01_VD02,2010,Estimate; Quintile Upper Limits: - Lowest Quintile,19204,1898.04,968.39,5.04
+"Guilford County, NC",HD01_VD02,2010,Estimate; Quintile Upper Limits: - Lowest Quintile,18825,1332.09,679.64,3.61
+United States,HD01_VD03,2010,Estimate; Quintile Upper Limits: - Second Quintile,39211,82.21,41.94,0.11
+North Carolina,HD01_VD03,2010,Estimate; Quintile Upper Limits: - Second Quintile,34388,399.15,203.65,0.59
+"Durham County, NC",HD01_VD03,2010,Estimate; Quintile Upper Limits: - Second Quintile,39132,2757.11,1406.69,3.59
+"Forsyth County, NC",HD01_VD03,2010,Estimate; Quintile Upper Limits: - Second Quintile,35148,1986.21,1013.37,2.88
+"Guilford County, NC",HD01_VD03,2010,Estimate; Quintile Upper Limits: - Second Quintile,32359,1992.17,1016.41,3.14
+United States,HD01_VD04,2010,Estimate; Quintile Upper Limits: - Third Quintile,62150,88.17,44.98,0.07
+North Carolina,HD01_VD04,2010,Estimate; Quintile Upper Limits: - Third Quintile,54000,540.94,275.99,0.51
+"Durham County, NC",HD01_VD04,2010,Estimate; Quintile Upper Limits: - Third Quintile,60233,4444.26,2267.48,3.76
+"Forsyth County, NC",HD01_VD04,2010,Estimate; Quintile Upper Limits: - Third Quintile,55877,2193.53,1119.15,2
+"Guilford County, NC",HD01_VD04,2010,Estimate; Quintile Upper Limits: - Third Quintile,52800,2621.28,1337.39,2.53
+United States,HD01_VD05,2010,Estimate; Quintile Upper Limits: - Fourth Quintile,99891,188.26,96.05,0.1
+North Carolina,HD01_VD05,2010,Estimate; Quintile Upper Limits: - Fourth Quintile,85303,748.26,381.77,0.45
+"Durham County, NC",HD01_VD05,2010,Estimate; Quintile Upper Limits: - Fourth Quintile,94238,4657.53,2376.29,2.52
+"Forsyth County, NC",HD01_VD05,2010,Estimate; Quintile Upper Limits: - Fourth Quintile,84640,2510.47,1280.85,1.51
+"Guilford County, NC",HD01_VD05,2010,Estimate; Quintile Upper Limits: - Fourth Quintile,85064,5781.11,2949.55,3.47
+United States,HD01_VD06,2010,Estimate; Lower Limit of Top 5 Percent,181314,425.36,217.02,0.12
+North Carolina,HD01_VD06,2010,Estimate; Lower Limit of Top 5 Percent,155178,2554.55,1303.34,0.84
+"Durham County, NC",HD01_VD06,2010,Estimate; Lower Limit of Top 5 Percent,160870,10741.28,5480.24,3.41
+"Forsyth County, NC",HD01_VD06,2010,Estimate; Lower Limit of Top 5 Percent,167783,12392.68,6322.8,3.77
+"Guilford County, NC",HD01_VD06,2010,Estimate; Lower Limit of Top 5 Percent,161579,11882.72,6062.61,3.75
+United States,HD01_VD02,2011,Estimate; Quintile Upper Limits: - Lowest Quintile,20585,57.19,29.18,0.14
+North Carolina,HD01_VD02,2011,Estimate; Quintile Upper Limits: - Lowest Quintile,18332,365.79,186.63,1.02
+"Durham County, NC",HD01_VD02,2011,Estimate; Quintile Upper Limits: - Lowest Quintile,19658,2160.17,1102.13,5.61
+"Forsyth County, NC",HD01_VD02,2011,Estimate; Quintile Upper Limits: - Lowest Quintile,18851,1060.43,541.04,2.87
+"Guilford County, NC",HD01_VD02,2011,Estimate; Quintile Upper Limits: - Lowest Quintile,17190,1359.49,693.62,4.04
+United States,HD01_VD03,2011,Estimate; Quintile Upper Limits: - Second Quintile,39466,106.04,54.1,0.14
+North Carolina,HD01_VD03,2011,Estimate; Quintile Upper Limits: - Second Quintile,34435,508.77,259.58,0.75
+"Durham County, NC",HD01_VD03,2011,Estimate; Quintile Upper Limits: - Second Quintile,35770,4730.21,2413.37,6.75
+"Forsyth County, NC",HD01_VD03,2011,Estimate; Quintile Upper Limits: - Second Quintile,33969,1831.32,934.35,2.75
+"Guilford County, NC",HD01_VD03,2011,Estimate; Quintile Upper Limits: - Second Quintile,33393,1696.68,865.65,2.59
+United States,HD01_VD04,2011,Estimate; Quintile Upper Limits: - Third Quintile,63001,141.79,72.34,0.11
+North Carolina,HD01_VD04,2011,Estimate; Quintile Upper Limits: - Third Quintile,55062,682.72,348.33,0.63
+"Durham County, NC",HD01_VD04,2011,Estimate; Quintile Upper Limits: - Third Quintile,56664,3311.15,1689.36,2.98
+"Forsyth County, NC",HD01_VD04,2011,Estimate; Quintile Upper Limits: - Third Quintile,54378,3175.32,1620.06,2.98
+"Guilford County, NC",HD01_VD04,2011,Estimate; Quintile Upper Limits: - Third Quintile,55795,2266.21,1156.23,2.07
+United States,HD01_VD05,2011,Estimate; Quintile Upper Limits: - Fourth Quintile,101685,128.68,65.65,0.06
+North Carolina,HD01_VD05,2011,Estimate; Quintile Upper Limits: - Fourth Quintile,89167,1299.91,663.22,0.74
+"Durham County, NC",HD01_VD05,2011,Estimate; Quintile Upper Limits: - Fourth Quintile,95578,7148.94,3647.42,3.82
+"Forsyth County, NC",HD01_VD05,2011,Estimate; Quintile Upper Limits: - Fourth Quintile,91179,4648,2371.43,2.6
+"Guilford County, NC",HD01_VD05,2011,Estimate; Quintile Upper Limits: - Fourth Quintile,90847,4254.81,2170.82,2.39
+United States,HD01_VD06,2011,Estimate; Lower Limit of Top 5 Percent,187087,519.49,265.05,0.14
+North Carolina,HD01_VD06,2011,Estimate; Lower Limit of Top 5 Percent,161906,2723.74,1389.66,0.86
+"Durham County, NC",HD01_VD06,2011,Estimate; Lower Limit of Top 5 Percent,173579,21190.64,10811.55,6.23
+"Forsyth County, NC",HD01_VD06,2011,Estimate; Lower Limit of Top 5 Percent,174360,7629.11,3892.4,2.23
+"Guilford County, NC",HD01_VD06,2011,Estimate; Lower Limit of Top 5 Percent,164128,9655.83,4926.44,3
+United States,HD01_VD02,2012,Estimate; Quintile Upper Limits: - Lowest Quintile,20968,48.85,24.92,0.12
+North Carolina,HD01_VD02,2012,Estimate; Quintile Upper Limits: - Lowest Quintile,18795,314.55,160.48,0.85
+"Durham County, NC",HD01_VD02,2012,Estimate; Quintile Upper Limits: - Lowest Quintile,20537,1845.62,941.64,4.59
+"Forsyth County, NC",HD01_VD02,2012,Estimate; Quintile Upper Limits: - Lowest Quintile,17816,1137.87,580.55,3.26
+"Guilford County, NC",HD01_VD02,2012,Estimate; Quintile Upper Limits: - Lowest Quintile,19615,1360.68,694.22,3.54
+United States,HD01_VD03,2012,Estimate; Quintile Upper Limits: - Second Quintile,40352,66.72,34.04,0.08
+North Carolina,HD01_VD03,2012,Estimate; Quintile Upper Limits: - Second Quintile,35412,364.6,186.02,0.53
+"Durham County, NC",HD01_VD03,2012,Estimate; Quintile Upper Limits: - Second Quintile,41257,2328.17,1187.84,2.88
+"Forsyth County, NC",HD01_VD03,2012,Estimate; Quintile Upper Limits: - Second Quintile,32838,1936.17,987.84,3.01
+"Guilford County, NC",HD01_VD03,2012,Estimate; Quintile Upper Limits: - Second Quintile,35295,1610.89,821.88,2.33
+United States,HD01_VD04,2012,Estimate; Quintile Upper Limits: - Third Quintile,64536,109.62,55.93,0.09
+North Carolina,HD01_VD04,2012,Estimate; Quintile Upper Limits: - Third Quintile,56147,543.32,277.2,0.49
+"Durham County, NC",HD01_VD04,2012,Estimate; Quintile Upper Limits: - Third Quintile,63574,3286.13,1676.6,2.64
+"Forsyth County, NC",HD01_VD04,2012,Estimate; Quintile Upper Limits: - Third Quintile,53716,2766.64,1411.55,2.63
+"Guilford County, NC",HD01_VD04,2012,Estimate; Quintile Upper Limits: - Third Quintile,55019,2769.02,1412.77,2.57
+United States,HD01_VD05,2012,Estimate; Quintile Upper Limits: - Fourth Quintile,103093,201.36,102.73,0.1
+North Carolina,HD01_VD05,2012,Estimate; Quintile Upper Limits: - Fourth Quintile,89874,980.6,500.31,0.56
+"Durham County, NC",HD01_VD05,2012,Estimate; Quintile Upper Limits: - Fourth Quintile,105147,6734.3,3435.87,3.27
+"Forsyth County, NC",HD01_VD05,2012,Estimate; Quintile Upper Limits: - Fourth Quintile,92841,4968.51,2534.95,2.73
+"Guilford County, NC",HD01_VD05,2012,Estimate; Quintile Upper Limits: - Fourth Quintile,87714,3456.51,1763.53,2.01
+United States,HD01_VD06,2012,Estimate; Lower Limit of Top 5 Percent,191770,449.19,229.18,0.12
+North Carolina,HD01_VD06,2012,Estimate; Lower Limit of Top 5 Percent,164247,3211.06,1638.3,1
+"Durham County, NC",HD01_VD06,2012,Estimate; Lower Limit of Top 5 Percent,183825,14287.15,7289.36,3.97
+"Forsyth County, NC",HD01_VD06,2012,Estimate; Lower Limit of Top 5 Percent,182104,30069.62,15341.64,8.42
+"Guilford County, NC",HD01_VD06,2012,Estimate; Lower Limit of Top 5 Percent,162212,11027.23,5626.14,3.47
+United States,HD01_VD02,2013,Estimate; Quintile Upper Limits: - Lowest Quintile,21433,56,28.57,0.13
+North Carolina,HD01_VD02,2013,Estimate; Quintile Upper Limits: - Lowest Quintile,19468,294.3,150.15,0.77
+"Durham County, NC",HD01_VD02,2013,Estimate; Quintile Upper Limits: - Lowest Quintile,22697,1955.23,997.57,4.4
+"Forsyth County, NC",HD01_VD02,2013,Estimate; Quintile Upper Limits: - Lowest Quintile,18758,1914.72,976.9,5.21
+"Guilford County, NC",HD01_VD02,2013,Estimate; Quintile Upper Limits: - Lowest Quintile,19420,1520.34,775.68,3.99
+United States,HD01_VD03,2013,Estimate; Quintile Upper Limits: - Second Quintile,41110,76.26,38.91,0.09
+North Carolina,HD01_VD03,2013,Estimate; Quintile Upper Limits: - Second Quintile,36093,362.21,184.8,0.51
+"Durham County, NC",HD01_VD03,2013,Estimate; Quintile Upper Limits: - Second Quintile,40937,2417.53,1233.43,3.01
+"Forsyth County, NC",HD01_VD03,2013,Estimate; Quintile Upper Limits: - Second Quintile,33776,1971.91,1006.08,2.98
+"Guilford County, NC",HD01_VD03,2013,Estimate; Quintile Upper Limits: - Second Quintile,35912,1581.11,806.69,2.25
+United States,HD01_VD04,2013,Estimate; Quintile Upper Limits: - Third Quintile,65953,112,57.14,0.09
+North Carolina,HD01_VD04,2013,Estimate; Quintile Upper Limits: - Third Quintile,57032,558.81,285.11,0.5
+"Durham County, NC",HD01_VD04,2013,Estimate; Quintile Upper Limits: - Third Quintile,66138,5073.36,2588.45,3.91
+"Forsyth County, NC",HD01_VD04,2013,Estimate; Quintile Upper Limits: - Third Quintile,56685,2304.34,1175.68,2.07
+"Guilford County, NC",HD01_VD04,2013,Estimate; Quintile Upper Limits: - Third Quintile,57720,2881.02,1469.91,2.55
+United States,HD01_VD05,2013,Estimate; Quintile Upper Limits: - Fourth Quintile,106101,169.19,86.32,0.08
+North Carolina,HD01_VD05,2013,Estimate; Quintile Upper Limits: - Fourth Quintile,91701,629.11,320.97,0.35
+"Durham County, NC",HD01_VD05,2013,Estimate; Quintile Upper Limits: - Fourth Quintile,110040,6569.87,3351.97,3.05
+"Forsyth County, NC",HD01_VD05,2013,Estimate; Quintile Upper Limits: - Fourth Quintile,93322,4652.77,2373.86,2.54
+"Guilford County, NC",HD01_VD05,2013,Estimate; Quintile Upper Limits: - Fourth Quintile,94562,3576.85,1824.92,1.93
+United States,HD01_VD06,2013,Estimate; Lower Limit of Top 5 Percent,200234,328.85,167.78,0.08
+North Carolina,HD01_VD06,2013,Estimate; Lower Limit of Top 5 Percent,171855,2294.81,1170.82,0.68
+"Durham County, NC",HD01_VD06,2013,Estimate; Lower Limit of Top 5 Percent,215966,19393.87,9894.83,4.58
+"Forsyth County, NC",HD01_VD06,2013,Estimate; Lower Limit of Top 5 Percent,181072,12060.26,6153.19,3.4
+"Guilford County, NC",HD01_VD06,2013,Estimate; Lower Limit of Top 5 Percent,176701,11393.02,5812.77,3.29
+United States,HD01_VD02,2014,Estimate; Quintile Upper Limits: - Lowest Quintile,21909,48.85,24.92,0.11
+North Carolina,HD01_VD02,2014,Estimate; Quintile Upper Limits: - Lowest Quintile,19916,347.91,177.51,0.89
+"Durham County, NC",HD01_VD02,2014,Estimate; Quintile Upper Limits: - Lowest Quintile,20540,1825.36,931.31,4.53
+"Forsyth County, NC",HD01_VD02,2014,Estimate; Quintile Upper Limits: - Lowest Quintile,19067,1339.23,683.28,3.58
+"Guilford County, NC",HD01_VD02,2014,Estimate; Quintile Upper Limits: - Lowest Quintile,19800,1490.55,760.48,3.84
+United States,HD01_VD03,2014,Estimate; Quintile Upper Limits: - Second Quintile,42004,64.34,32.83,0.08
+North Carolina,HD01_VD03,2014,Estimate; Quintile Upper Limits: - Second Quintile,36751,396.77,202.43,0.55
+"Durham County, NC",HD01_VD03,2014,Estimate; Quintile Upper Limits: - Second Quintile,39944,2087.49,1065.05,2.67
+"Forsyth County, NC",HD01_VD03,2014,Estimate; Quintile Upper Limits: - Second Quintile,36646,2309.11,1178.12,3.21
+"Guilford County, NC",HD01_VD03,2014,Estimate; Quintile Upper Limits: - Second Quintile,35963,1364.26,696.05,1.94
+United States,HD01_VD04,2014,Estimate; Quintile Upper Limits: - Third Quintile,67650,132.26,67.48,0.1
+North Carolina,HD01_VD04,2014,Estimate; Quintile Upper Limits: - Third Quintile,58159,682.72,348.33,0.6
+"Durham County, NC",HD01_VD04,2014,Estimate; Quintile Upper Limits: - Third Quintile,62585,3207.49,1636.47,2.61
+"Forsyth County, NC",HD01_VD04,2014,Estimate; Quintile Upper Limits: - Third Quintile,57051,2746.38,1401.21,2.46
+"Guilford County, NC",HD01_VD04,2014,Estimate; Quintile Upper Limits: - Third Quintile,55950,2037.45,1039.52,1.86
+United States,HD01_VD05,2014,Estimate; Quintile Upper Limits: - Fourth Quintile,109108,203.74,103.95,0.1
+North Carolina,HD01_VD05,2014,Estimate; Quintile Upper Limits: - Fourth Quintile,93418,1060.43,541.04,0.58
+"Durham County, NC",HD01_VD05,2014,Estimate; Quintile Upper Limits: - Fourth Quintile,103865,7384.85,3767.78,3.63
+"Forsyth County, NC",HD01_VD05,2014,Estimate; Quintile Upper Limits: - Fourth Quintile,91502,4115.4,2099.69,2.29
+"Guilford County, NC",HD01_VD05,2014,Estimate; Quintile Upper Limits: - Fourth Quintile,92256,3618.55,1846.2,2
+United States,HD01_VD06,2014,Estimate; Lower Limit of Top 5 Percent,203671,421.79,215.2,0.11
+North Carolina,HD01_VD06,2014,Estimate; Lower Limit of Top 5 Percent,173969,2429.45,1239.52,0.71
+"Durham County, NC",HD01_VD06,2014,Estimate; Lower Limit of Top 5 Percent,189993,28357.45,14468.09,7.62
+"Forsyth County, NC",HD01_VD06,2014,Estimate; Lower Limit of Top 5 Percent,166984,15099.74,7703.95,4.61
+"Guilford County, NC",HD01_VD06,2014,Estimate; Lower Limit of Top 5 Percent,172245,10663.83,5440.73,3.16
+United States,HD01_VD02,2015,Estimate; Quintile Upper Limits: - Lowest Quintile,22824,72.68,37.08,0.16
+North Carolina,HD01_VD02,2015,Estimate; Quintile Upper Limits: - Lowest Quintile,20399,297.87,151.97,0.74
+"Durham County, NC",HD01_VD02,2015,Estimate; Quintile Upper Limits: - Lowest Quintile,21477,2744,1400,6.52
+"Forsyth County, NC",HD01_VD02,2015,Estimate; Quintile Upper Limits: - Lowest Quintile,20070,1552.51,792.1,3.95
+"Guilford County, NC",HD01_VD02,2015,Estimate; Quintile Upper Limits: - Lowest Quintile,21426,1372.6,700.31,3.27
+United States,HD01_VD03,2015,Estimate; Quintile Upper Limits: - Second Quintile,43576,119.15,60.79,0.14
+North Carolina,HD01_VD03,2015,Estimate; Quintile Upper Limits: - Second Quintile,37496,512.34,261.4,0.7
+"Durham County, NC",HD01_VD03,2015,Estimate; Quintile Upper Limits: - Second Quintile,42054,2682.04,1368.39,3.25
+"Forsyth County, NC",HD01_VD03,2015,Estimate; Quintile Upper Limits: - Second Quintile,35987,2434.21,1241.94,3.45
+"Guilford County, NC",HD01_VD03,2015,Estimate; Quintile Upper Limits: - Second Quintile,37337,2539.06,1295.44,3.47
+United States,HD01_VD04,2015,Estimate; Quintile Upper Limits: - Third Quintile,70323,109.62,55.93,0.08
+North Carolina,HD01_VD04,2015,Estimate; Quintile Upper Limits: - Third Quintile,60250,517.11,263.83,0.44
+"Durham County, NC",HD01_VD04,2015,Estimate; Quintile Upper Limits: - Third Quintile,68538,3908.09,1993.92,2.91
+"Forsyth County, NC",HD01_VD04,2015,Estimate; Quintile Upper Limits: - Third Quintile,59995,3719.83,1897.87,3.16
+"Guilford County, NC",HD01_VD04,2015,Estimate; Quintile Upper Limits: - Third Quintile,58537,3818.72,1948.33,3.33
+United States,HD01_VD05,2015,Estimate; Quintile Upper Limits: - Fourth Quintile,112145,132.26,67.48,0.06
+North Carolina,HD01_VD05,2015,Estimate; Quintile Upper Limits: - Fourth Quintile,97313,856.68,437.08,0.45
+"Durham County, NC",HD01_VD05,2015,Estimate; Quintile Upper Limits: - Fourth Quintile,110940,6996.43,3569.61,3.22
+"Forsyth County, NC",HD01_VD05,2015,Estimate; Quintile Upper Limits: - Fourth Quintile,96721,4251.23,2168.99,2.24
+"Guilford County, NC",HD01_VD05,2015,Estimate; Quintile Upper Limits: - Fourth Quintile,95737,4021.28,2051.67,2.14
+United States,HD01_VD06,2015,Estimate; Lower Limit of Top 5 Percent,210737,440.85,224.92,0.11
+North Carolina,HD01_VD06,2015,Estimate; Lower Limit of Top 5 Percent,181181,1881.36,959.88,0.53
+"Durham County, NC",HD01_VD06,2015,Estimate; Lower Limit of Top 5 Percent,201227,7782.81,3970.82,1.97
+"Forsyth County, NC",HD01_VD06,2015,Estimate; Lower Limit of Top 5 Percent,190674,17743.66,9052.89,4.75
+"Guilford County, NC",HD01_VD06,2015,Estimate; Lower Limit of Top 5 Percent,191697,16249.53,8290.58,4.32
+United States,HD01_VD02,2016,Estimate; Quintile Upper Limits: - Lowest Quintile,23638,85.79,43.77,0.19
+North Carolina,HD01_VD02,2016,Estimate; Quintile Upper Limits: - Lowest Quintile,21208,322.89,164.74,0.78
+"Durham County, NC",HD01_VD02,2016,Estimate; Quintile Upper Limits: - Lowest Quintile,24229,3716.26,1896.05,7.83
+"Forsyth County, NC",HD01_VD02,2016,Estimate; Quintile Upper Limits: - Lowest Quintile,20257,1688.34,861.4,4.25
+"Guilford County, NC",HD01_VD02,2016,Estimate; Quintile Upper Limits: - Lowest Quintile,19388,1699.06,866.87,4.47
+United States,HD01_VD03,2016,Estimate; Quintile Upper Limits: - Second Quintile,45325,94.13,48.03,0.11
+North Carolina,HD01_VD03,2016,Estimate; Quintile Upper Limits: - Second Quintile,40144,357.45,182.37,0.45
+"Durham County, NC",HD01_VD03,2016,Estimate; Quintile Upper Limits: - Second Quintile,42444,2069.62,1055.93,2.49
+"Forsyth County, NC",HD01_VD03,2016,Estimate; Quintile Upper Limits: - Second Quintile,37845,2657.02,1355.62,3.58
+"Guilford County, NC",HD01_VD03,2016,Estimate; Quintile Upper Limits: - Second Quintile,36871,2056.51,1049.24,2.85
+United States,HD01_VD04,2016,Estimate; Quintile Upper Limits: - Third Quintile,72384,102.47,52.28,0.07
+North Carolina,HD01_VD04,2016,Estimate; Quintile Upper Limits: - Third Quintile,62826,713.7,364.13,0.58
+"Durham County, NC",HD01_VD04,2016,Estimate; Quintile Upper Limits: - Third Quintile,68974,4476.43,2283.89,3.31
+"Forsyth County, NC",HD01_VD04,2016,Estimate; Quintile Upper Limits: - Third Quintile,60195,2319.83,1183.59,1.97
+"Guilford County, NC",HD01_VD04,2016,Estimate; Quintile Upper Limits: - Third Quintile,59185,2836.94,1447.42,2.45
+United States,HD01_VD05,2016,Estimate; Quintile Upper Limits: - Fourth Quintile,116614,166.81,85.11,0.07
+North Carolina,HD01_VD05,2016,Estimate; Quintile Upper Limits: - Fourth Quintile,100454,718.47,366.57,0.36
+"Durham County, NC",HD01_VD05,2016,Estimate; Quintile Upper Limits: - Fourth Quintile,110839,7539.74,3846.81,3.47
+"Forsyth County, NC",HD01_VD05,2016,Estimate; Quintile Upper Limits: - Fourth Quintile,97453,3431.49,1750.76,1.8
+"Guilford County, NC",HD01_VD05,2016,Estimate; Quintile Upper Limits: - Fourth Quintile,99455,5648.85,2882.07,2.9
+United States,HD01_VD06,2016,Estimate; Lower Limit of Top 5 Percent,219851,704.17,359.27,0.16
+North Carolina,HD01_VD06,2016,Estimate; Lower Limit of Top 5 Percent,188222,3485.11,1778.12,0.94
+"Durham County, NC",HD01_VD06,2016,Estimate; Lower Limit of Top 5 Percent,204583,12247.32,6248.63,3.05
+"Forsyth County, NC",HD01_VD06,2016,Estimate; Lower Limit of Top 5 Percent,200361,20485.28,10451.67,5.22
+"Guilford County, NC",HD01_VD06,2016,Estimate; Lower Limit of Top 5 Percent,194052,15820.6,8071.73,4.16
+United States,HD01_VD02,2017,Estimate; Quintile Upper Limits: - Lowest Quintile,24625,84.6,43.16,0.18
+North Carolina,HD01_VD02,2017,Estimate; Quintile Upper Limits: - Lowest Quintile,22302,324.09,165.35,0.74
+"Durham County, NC",HD01_VD02,2017,Estimate; Quintile Upper Limits: - Lowest Quintile,25021,2083.91,1063.22,4.25
+"Forsyth County, NC",HD01_VD02,2017,Estimate; Quintile Upper Limits: - Lowest Quintile,20273,1838.47,937.99,4.63
+"Guilford County, NC",HD01_VD02,2017,Estimate; Quintile Upper Limits: - Lowest Quintile,22845,1869.45,953.8,4.18
+United States,HD01_VD03,2017,Estimate; Quintile Upper Limits: - Second Quintile,47169,113.19,57.75,0.12
+North Carolina,HD01_VD03,2017,Estimate; Quintile Upper Limits: - Second Quintile,41739,427.74,218.23,0.52
+"Durham County, NC",HD01_VD03,2017,Estimate; Quintile Upper Limits: - Second Quintile,46864,3208.68,1637.08,3.49
+"Forsyth County, NC",HD01_VD03,2017,Estimate; Quintile Upper Limits: - Second Quintile,38981,2155.4,1099.69,2.82
+"Guilford County, NC",HD01_VD03,2017,Estimate; Quintile Upper Limits: - Second Quintile,41254,1784.85,910.64,2.21
+United States,HD01_VD04,2017,Estimate; Quintile Upper Limits: - Third Quintile,75494,138.21,70.52,0.09
+North Carolina,HD01_VD04,2017,Estimate; Quintile Upper Limits: - Third Quintile,66158,579.06,295.44,0.45
+"Durham County, NC",HD01_VD04,2017,Estimate; Quintile Upper Limits: - Third Quintile,76767,5191.32,2648.63,3.45
+"Forsyth County, NC",HD01_VD04,2017,Estimate; Quintile Upper Limits: - Third Quintile,63466,3598.3,1835.87,2.89
+"Guilford County, NC",HD01_VD04,2017,Estimate; Quintile Upper Limits: - Third Quintile,65373,2788.09,1422.49,2.18
+United States,HD01_VD05,2017,Estimate; Quintile Upper Limits: - Fourth Quintile,121116,157.28,80.24,0.07
+North Carolina,HD01_VD05,2017,Estimate; Quintile Upper Limits: - Fourth Quintile,105929,1044.94,533.13,0.5
+"Durham County, NC",HD01_VD05,2017,Estimate; Quintile Upper Limits: - Fourth Quintile,124086,5887.15,3003.65,2.42
+"Forsyth County, NC",HD01_VD05,2017,Estimate; Quintile Upper Limits: - Fourth Quintile,103501,6003.91,3063.22,2.96
+"Guilford County, NC",HD01_VD05,2017,Estimate; Quintile Upper Limits: - Fourth Quintile,102688,4771.91,2434.65,2.37
+United States,HD01_VD06,2017,Estimate; Lower Limit of Top 5 Percent,228190,617.19,314.89,0.14
+North Carolina,HD01_VD06,2017,Estimate; Lower Limit of Top 5 Percent,198193,3137.19,1600.61,0.81
+"Durham County, NC",HD01_VD06,2017,Estimate; Lower Limit of Top 5 Percent,225366,19592.85,9996.35,4.44
+"Forsyth County, NC",HD01_VD06,2017,Estimate; Lower Limit of Top 5 Percent,201795,16373.45,8353.8,4.14
+"Guilford County, NC",HD01_VD06,2017,Estimate; Lower Limit of Top 5 Percent,191193,10165.79,5186.63,2.71

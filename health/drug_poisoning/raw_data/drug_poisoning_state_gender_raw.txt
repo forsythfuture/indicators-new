@@ -1,0 +1,4 @@
+"Notes"	"State"	"State Code"	"Gender"	"Gender Code"	Deaths	Population	Crude Rate	Crude Rate Standard Error	Age Adjusted Rate	Age Adjusted Rate Standard Error
+	"North Carolina"	"37"	"Female"	"F"	2638	25783413	10.23	0.20	10.46	0.21
+	"North Carolina"	"37"	"Male"	"M"	4712	24471620	19.25	0.28	19.68	0.29
+"Total"	"North Carolina"	"37"			7350	50255033	14.63	0.17	15.02	0.18

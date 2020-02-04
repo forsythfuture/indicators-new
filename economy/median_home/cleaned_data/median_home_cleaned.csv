@@ -1,0 +1,36 @@
+year,geo_description,type,subtype,estimate,se
+2012,United States,Comparison Community,Total,188011,155
+2013,United States,Comparison Community,Total,187451,135
+2014,United States,Comparison Community,Total,192215,204
+2015,United States,Comparison Community,Total,206077,175
+2016,United States,Comparison Community,Total,214478,283
+2017,United States,Comparison Community,Total,222899,265
+2018,United States,Comparison Community,Total,229700,221
+2012,North Carolina,Comparison Community,Total,164168,685
+2013,North Carolina,Comparison Community,Total,166324,677
+2014,North Carolina,Comparison Community,Total,164422,658
+2015,North Carolina,Comparison Community,Total,169629,626
+2016,North Carolina,Comparison Community,Total,173047,632
+2017,North Carolina,Comparison Community,Total,175369,617
+2018,North Carolina,Comparison Community,Total,180600,826
+2012,"Durham County, NC",Comparison Community,Total,193152,4275
+2012,"Forsyth County, NC",Comparison Community,Total,168215,2261
+2012,"Guilford County, NC",Comparison Community,Total,161543,2031
+2013,"Durham County, NC",Comparison Community,Total,192948,5355
+2013,"Forsyth County, NC",Comparison Community,Total,161365,2828
+2013,"Guilford County, NC",Comparison Community,Total,171605,2376
+2014,"Durham County, NC",Comparison Community,Total,192957,4974
+2014,"Forsyth County, NC",Comparison Community,Total,153708,2497
+2014,"Guilford County, NC",Comparison Community,Total,164104,2640
+2015,"Durham County, NC",Comparison Community,Total,206818,4347
+2015,"Forsyth County, NC",Comparison Community,Total,160623,2364
+2015,"Guilford County, NC",Comparison Community,Total,170265,3021
+2016,"Durham County, NC",Comparison Community,Total,203806,4835
+2016,"Forsyth County, NC",Comparison Community,Total,160283,2742
+2016,"Guilford County, NC",Comparison Community,Total,168339,2573
+2017,"Durham County, NC",Comparison Community,Total,232733,5313
+2017,"Forsyth County, NC",Comparison Community,Total,160311,2271
+2017,"Guilford County, NC",Comparison Community,Total,168506,2512
+2018,"Durham County, NC",Comparison Community,Total,233300,4476
+2018,"Forsyth County, NC",Comparison Community,Total,163200,2503
+2018,"Guilford County, NC",Comparison Community,Total,170300,3289

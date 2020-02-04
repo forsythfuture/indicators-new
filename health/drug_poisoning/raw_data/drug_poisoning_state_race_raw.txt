@@ -1,0 +1,16 @@
+"Notes"	"State"	"State Code"	"Hispanic Origin"	"Hispanic Origin Code"	"Race"	"Race Code"	Deaths	Population	Crude Rate	Crude Rate Standard Error	Age Adjusted Rate	Age Adjusted Rate Standard Error
+	"North Carolina"	"37"	"Hispanic or Latino"	"2135-2"	"American Indian or Alaska Native"	"1002-5"	Suppressed	232950	Suppressed	Suppressed	Suppressed	Suppressed
+	"North Carolina"	"37"	"Hispanic or Latino"	"2135-2"	"Asian or Pacific Islander"	"A-PI"	Suppressed	86568	Suppressed	Suppressed	Suppressed	Suppressed
+	"North Carolina"	"37"	"Hispanic or Latino"	"2135-2"	"Black or African American"	"2054-5"	Suppressed	431120	Suppressed	Suppressed	Suppressed	Suppressed
+	"North Carolina"	"37"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	129	3837694	3.36	0.30	3.30	0.30
+"Total"	"North Carolina"	"37"	"Hispanic or Latino"	"2135-2"			136	4588332	2.96	0.25	2.94	0.26
+	"North Carolina"	"37"	"Not Hispanic or Latino"	"2186-2"	"American Indian or Alaska Native"	"1002-5"	106	603305	17.57	1.71	18.00	1.76
+	"North Carolina"	"37"	"Not Hispanic or Latino"	"2186-2"	"Asian or Pacific Islander"	"A-PI"	28	1480179	1.89	0.36	1.73	0.33
+	"North Carolina"	"37"	"Not Hispanic or Latino"	"2186-2"	"Black or African American"	"2054-5"	877	11084798	7.91	0.27	7.91	0.27
+	"North Carolina"	"37"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	6175	32498419	19.00	0.24	19.93	0.26
+"Total"	"North Carolina"	"37"	"Not Hispanic or Latino"	"2186-2"			7186	45666701	15.74	0.19	16.17	0.19
+	"North Carolina"	"37"	"Not Stated"	"NS"	"American Indian or Alaska Native"	"1002-5"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Not Stated"	"NS"	"Asian or Pacific Islander"	"A-PI"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Not Stated"	"NS"	"Black or African American"	"2054-5"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"Not Stated"	"NS"	"White"	"2106-3"	18	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+"Total"	"North Carolina"	"37"	"Not Stated"	"NS"			28	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable

@@ -1,0 +1,193 @@
+year,year_concat,geo_description,type,subtype,estimate,trials,success
+2014,2013 - 2014,North Carolina,Comparison Community,Total,0.593,94214,55869
+2014,2013 - 2014,North Carolina,Gender,Female,0.631,47700,30099
+2014,2013 - 2014,North Carolina,Gender,Male,0.5529999999999999,46514,25722
+2014,2013 - 2014,North Carolina,Race / Ethnicity,African American,0.349,24032,8387
+2014,2013 - 2014,North Carolina,Race / Ethnicity,Hispanic / Latino,0.45399999999999996,10047,4561
+2014,2013 - 2014,North Carolina,Race / Ethnicity,"White, non-hispanic",0.725,52918,38366
+2014,2013 - 2014,North Carolina,Economic Status,Economically Disadvantaged,0.405,39696,16077
+2014,2013 - 2014,North Carolina,Economic Status,Non-economically Disadvantaged,0.73,54518,39798
+2014,2013 - 2014,"Durham County, NC",Comparison Community,Total,0.498,2065,1028
+2014,2013 - 2014,"Durham County, NC",Gender,Female,0.541,1064,576
+2014,2013 - 2014,"Durham County, NC",Gender,Male,0.45299999999999996,1001,453
+2014,2013 - 2014,"Durham County, NC",Race / Ethnicity,African American,0.375,1169,438
+2014,2013 - 2014,"Durham County, NC",Race / Ethnicity,Hispanic / Latino,0.41600000000000004,339,141
+2014,2013 - 2014,"Durham County, NC",Race / Ethnicity,"White, non-hispanic",0.8440000000000001,435,367
+2014,2013 - 2014,"Durham County, NC",Economic Status,Economically Disadvantaged,0.32799999999999996,997,327
+2014,2013 - 2014,"Durham County, NC",Economic Status,Non-economically Disadvantaged,0.657,1068,702
+2014,2013 - 2014,"Forsyth County, NC",Comparison Community,Total,0.606,3481,2109
+2014,2013 - 2014,"Forsyth County, NC",Gender,Female,0.62,1739,1078
+2014,2013 - 2014,"Forsyth County, NC",Gender,Male,0.593,1742,1033
+2014,2013 - 2014,"Forsyth County, NC",Race / Ethnicity,African American,0.39299999999999996,1031,405
+2014,2013 - 2014,"Forsyth County, NC",Race / Ethnicity,Hispanic / Latino,0.374,524,196
+2014,2013 - 2014,"Forsyth County, NC",Race / Ethnicity,"White, non-hispanic",0.7979999999999999,1719,1372
+2014,2013 - 2014,"Forsyth County, NC",Economic Status,Economically Disadvantaged,0.385,1444,556
+2014,2013 - 2014,"Forsyth County, NC",Economic Status,Non-economically Disadvantaged,0.763,2037,1554
+2014,2013 - 2014,"Guilford County, NC",Comparison Community,Total,0.5870000000000001,5020,2947
+2014,2013 - 2014,"Guilford County, NC",Gender,Female,0.61,2567,1566
+2014,2013 - 2014,"Guilford County, NC",Gender,Male,0.564,2453,1383
+2014,2013 - 2014,"Guilford County, NC",Race / Ethnicity,African American,0.37,1939,717
+2014,2013 - 2014,"Guilford County, NC",Race / Ethnicity,Hispanic / Latino,0.47,445,209
+2014,2013 - 2014,"Guilford County, NC",Race / Ethnicity,"White, non-hispanic",0.804,2107,1694
+2014,2013 - 2014,"Guilford County, NC",Economic Status,Economically Disadvantaged,0.384,2333,896
+2014,2013 - 2014,"Guilford County, NC",Economic Status,Non-economically Disadvantaged,0.763,2687,2050
+2015,2014 - 2015,North Carolina,Comparison Community,Total,0.597,97170,58010
+2015,2014 - 2015,North Carolina,Gender,Female,0.636,48973,31147
+2015,2014 - 2015,North Carolina,Gender,Male,0.557,48197,26846
+2015,2014 - 2015,North Carolina,Race / Ethnicity,African American,0.35,24273,8496
+2015,2014 - 2015,North Carolina,Race / Ethnicity,Hispanic / Latino,0.449,11021,4948
+2015,2014 - 2015,North Carolina,Race / Ethnicity,"White, non-hispanic",0.735,54114,39774
+2015,2014 - 2015,North Carolina,Economic Status,Economically Disadvantaged,0.413,37259,15388
+2015,2014 - 2015,North Carolina,Economic Status,Non-economically Disadvantaged,0.711,59911,42597
+2015,2014 - 2015,"Durham County, NC",Comparison Community,Total,0.48700000000000004,2043,995
+2015,2014 - 2015,"Durham County, NC",Gender,Female,0.532,1074,571
+2015,2014 - 2015,"Durham County, NC",Gender,Male,0.43700000000000006,969,423
+2015,2014 - 2015,"Durham County, NC",Race / Ethnicity,African American,0.379,1107,420
+2015,2014 - 2015,"Durham County, NC",Race / Ethnicity,Hispanic / Latino,0.35,400,140
+2015,2014 - 2015,"Durham County, NC",Race / Ethnicity,"White, non-hispanic",0.8370000000000001,412,345
+2015,2014 - 2015,"Durham County, NC",Economic Status,Economically Disadvantaged,0.324,995,322
+2015,2014 - 2015,"Durham County, NC",Economic Status,Non-economically Disadvantaged,0.642,1048,673
+2015,2014 - 2015,"Forsyth County, NC",Comparison Community,Total,0.59,3604,2126
+2015,2014 - 2015,"Forsyth County, NC",Gender,Female,0.624,1759,1098
+2015,2014 - 2015,"Forsyth County, NC",Gender,Male,0.557,1845,1028
+2015,2014 - 2015,"Forsyth County, NC",Race / Ethnicity,African American,0.355,1085,385
+2015,2014 - 2015,"Forsyth County, NC",Race / Ethnicity,Hispanic / Latino,0.318,573,182
+2015,2014 - 2015,"Forsyth County, NC",Race / Ethnicity,"White, non-hispanic",0.8190000000000001,1681,1377
+2015,2014 - 2015,"Forsyth County, NC",Economic Status,Economically Disadvantaged,0.332,1504,499
+2015,2014 - 2015,"Forsyth County, NC",Economic Status,Non-economically Disadvantaged,0.775,2100,1628
+2015,2014 - 2015,"Guilford County, NC",Comparison Community,Total,0.615,5273,3243
+2015,2014 - 2015,"Guilford County, NC",Gender,Female,0.649,2669,1732
+2015,2014 - 2015,"Guilford County, NC",Gender,Male,0.58,2604,1510
+2015,2014 - 2015,"Guilford County, NC",Race / Ethnicity,African American,0.41100000000000003,2059,846
+2015,2014 - 2015,"Guilford County, NC",Race / Ethnicity,Hispanic / Latino,0.46399999999999997,474,220
+2015,2014 - 2015,"Guilford County, NC",Race / Ethnicity,"White, non-hispanic",0.835,2201,1838
+2015,2014 - 2015,"Guilford County, NC",Economic Status,Economically Disadvantaged,0.41700000000000004,2135,890
+2015,2014 - 2015,"Guilford County, NC",Economic Status,Non-economically Disadvantaged,0.75,3138,2354
+2016,2015 - 2016,North Carolina,Comparison Community,Total,0.599,98844,59208
+2016,2015 - 2016,North Carolina,Gender,Female,0.636,50261,31966
+2016,2015 - 2016,North Carolina,Gender,Male,0.56,48583,27206
+2016,2015 - 2016,North Carolina,Race / Ethnicity,African American,0.369,24868,9176
+2016,2015 - 2016,North Carolina,Race / Ethnicity,Hispanic / Latino,0.465,12045,5601
+2016,2015 - 2016,North Carolina,Race / Ethnicity,"White, non-hispanic",0.73,54198,39565
+2016,2015 - 2016,North Carolina,Economic Status,Economically Disadvantaged,0.41600000000000004,38660,16083
+2016,2015 - 2016,North Carolina,Economic Status,Non-economically Disadvantaged,0.7170000000000001,60184,43152
+2016,2015 - 2016,"Durham County, NC",Comparison Community,Total,0.529,2191,1159
+2016,2015 - 2016,"Durham County, NC",Gender,Female,0.5489999999999999,1156,635
+2016,2015 - 2016,"Durham County, NC",Gender,Male,0.507,1035,525
+2016,2015 - 2016,"Durham County, NC",Race / Ethnicity,African American,0.429,1146,492
+2016,2015 - 2016,"Durham County, NC",Race / Ethnicity,Hispanic / Latino,0.419,473,198
+2016,2015 - 2016,"Durham County, NC",Race / Ethnicity,"White, non-hispanic",0.847,444,376
+2016,2015 - 2016,"Durham County, NC",Economic Status,Economically Disadvantaged,0.384,1047,402
+2016,2015 - 2016,"Durham County, NC",Economic Status,Non-economically Disadvantaged,0.662,1144,757
+2016,2015 - 2016,"Forsyth County, NC",Comparison Community,Total,0.5670000000000001,3728,2114
+2016,2015 - 2016,"Forsyth County, NC",Gender,Female,0.596,1909,1138
+2016,2015 - 2016,"Forsyth County, NC",Gender,Male,0.5379999999999999,1819,979
+2016,2015 - 2016,"Forsyth County, NC",Race / Ethnicity,African American,0.322,1094,352
+2016,2015 - 2016,"Forsyth County, NC",Race / Ethnicity,Hispanic / Latino,0.382,717,274
+2016,2015 - 2016,"Forsyth County, NC",Race / Ethnicity,"White, non-hispanic",0.79,1685,1331
+2016,2015 - 2016,"Forsyth County, NC",Economic Status,Economically Disadvantaged,0.326,1493,487
+2016,2015 - 2016,"Forsyth County, NC",Economic Status,Non-economically Disadvantaged,0.728,2235,1627
+2016,2015 - 2016,"Guilford County, NC",Comparison Community,Total,0.609,5245,3194
+2016,2015 - 2016,"Guilford County, NC",Gender,Female,0.65,2691,1749
+2016,2015 - 2016,"Guilford County, NC",Gender,Male,0.5660000000000001,2554,1446
+2016,2015 - 2016,"Guilford County, NC",Race / Ethnicity,African American,0.43200000000000005,2072,895
+2016,2015 - 2016,"Guilford County, NC",Race / Ethnicity,Hispanic / Latino,0.508,512,260
+2016,2015 - 2016,"Guilford County, NC",Race / Ethnicity,"White, non-hispanic",0.815,2047,1668
+2016,2015 - 2016,"Guilford County, NC",Economic Status,Economically Disadvantaged,0.43,2207,949
+2016,2015 - 2016,"Guilford County, NC",Economic Status,Non-economically Disadvantaged,0.7390000000000001,3038,2245
+2017,2016 - 2017,North Carolina,Comparison Community,Total,0.588,101925,59932
+2017,2016 - 2017,North Carolina,Gender,Female,0.622,51592,32090
+2017,2016 - 2017,North Carolina,Gender,Male,0.5539999999999999,50333,27884
+2017,2016 - 2017,North Carolina,Race / Ethnicity,African American,0.34700000000000003,25262,8766
+2017,2016 - 2017,North Carolina,Race / Ethnicity,Hispanic / Latino,0.442,13718,6063
+2017,2016 - 2017,North Carolina,Race / Ethnicity,"White, non-hispanic",0.73,54806,40008
+2017,2016 - 2017,North Carolina,Economic Status,Economically Disadvantaged,0.39799999999999996,40445,16097
+2017,2016 - 2017,North Carolina,Economic Status,Non-economically Disadvantaged,0.713,61480,43835
+2017,2016 - 2017,"Durham County, NC",Comparison Community,Total,0.47100000000000003,2266,1067
+2017,2016 - 2017,"Durham County, NC",Gender,Female,0.498,1131,563
+2017,2016 - 2017,"Durham County, NC",Gender,Male,0.445,1135,505
+2017,2016 - 2017,"Durham County, NC",Race / Ethnicity,African American,0.354,1109,393
+2017,2016 - 2017,"Durham County, NC",Race / Ethnicity,Hispanic / Latino,0.36,570,205
+2017,2016 - 2017,"Durham County, NC",Race / Ethnicity,"White, non-hispanic",0.81,459,372
+2017,2016 - 2017,"Durham County, NC",Economic Status,Economically Disadvantaged,0.311,1092,340
+2017,2016 - 2017,"Durham County, NC",Economic Status,Non-economically Disadvantaged,0.62,1174,728
+2017,2016 - 2017,"Forsyth County, NC",Comparison Community,Total,0.584,3855,2251
+2017,2016 - 2017,"Forsyth County, NC",Gender,Female,0.6,1934,1160
+2017,2016 - 2017,"Forsyth County, NC",Gender,Male,0.569,1921,1093
+2017,2016 - 2017,"Forsyth County, NC",Race / Ethnicity,African American,0.36200000000000004,1081,391
+2017,2016 - 2017,"Forsyth County, NC",Race / Ethnicity,Hispanic / Latino,0.373,735,274
+2017,2016 - 2017,"Forsyth County, NC",Race / Ethnicity,"White, non-hispanic",0.795,1781,1416
+2017,2016 - 2017,"Forsyth County, NC",Economic Status,Economically Disadvantaged,0.342,1538,526
+2017,2016 - 2017,"Forsyth County, NC",Economic Status,Non-economically Disadvantaged,0.745,2317,1726
+2017,2016 - 2017,"Guilford County, NC",Comparison Community,Total,0.594,5335,3169
+2017,2016 - 2017,"Guilford County, NC",Gender,Female,0.622,2767,1721
+2017,2016 - 2017,"Guilford County, NC",Gender,Male,0.563,2568,1446
+2017,2016 - 2017,"Guilford County, NC",Race / Ethnicity,African American,0.39,2074,809
+2017,2016 - 2017,"Guilford County, NC",Race / Ethnicity,Hispanic / Latino,0.45299999999999996,594,269
+2017,2016 - 2017,"Guilford County, NC",Race / Ethnicity,"White, non-hispanic",0.828,2111,1748
+2017,2016 - 2017,"Guilford County, NC",Economic Status,Economically Disadvantaged,0.38299999999999995,2136,818
+2017,2016 - 2017,"Guilford County, NC",Economic Status,Non-economically Disadvantaged,0.735,3199,2351
+2018,2017 - 2018,North Carolina,Comparison Community,Total,0.579,103562,59962
+2018,2017 - 2018,North Carolina,Gender,Female,0.613,52433,32141
+2018,2017 - 2018,North Carolina,Gender,Male,0.544,51129,27814
+2018,2017 - 2018,North Carolina,Race / Ethnicity,African American,0.344,25045,8615
+2018,2017 - 2018,North Carolina,Race / Ethnicity,Hispanic / Latino,0.42700000000000005,15398,6575
+2018,2017 - 2018,North Carolina,Race / Ethnicity,"White, non-hispanic",0.723,54596,39473
+2018,2017 - 2018,North Carolina,Economic Status,Economically Disadvantaged,0.387,36741,14219
+2018,2017 - 2018,"Durham County, NC",Comparison Community,Total,0.514,2295,1180
+2018,2017 - 2018,"Durham County, NC",Gender,Female,0.5579999999999999,1202,671
+2018,2017 - 2018,"Durham County, NC",Gender,Male,0.466,1093,509
+2018,2017 - 2018,"Durham County, NC",Race / Ethnicity,African American,0.41,1074,440
+2018,2017 - 2018,"Durham County, NC",Race / Ethnicity,Hispanic / Latino,0.391,621,243
+2018,2017 - 2018,"Durham County, NC",Race / Ethnicity,"White, non-hispanic",0.861,466,401
+2018,2017 - 2018,"Durham County, NC",Economic Status,Economically Disadvantaged,0.35100000000000003,1049,368
+2018,2017 - 2018,"Forsyth County, NC",Comparison Community,Total,0.5710000000000001,3823,2183
+2018,2017 - 2018,"Forsyth County, NC",Gender,Female,0.597,1899,1134
+2018,2017 - 2018,"Forsyth County, NC",Gender,Male,0.546,1924,1051
+2018,2017 - 2018,"Forsyth County, NC",Race / Ethnicity,African American,0.33299999999999996,1052,350
+2018,2017 - 2018,"Forsyth County, NC",Race / Ethnicity,Hispanic / Latino,0.384,810,311
+2018,2017 - 2018,"Forsyth County, NC",Race / Ethnicity,"White, non-hispanic",0.797,1696,1352
+2018,2017 - 2018,"Forsyth County, NC",Economic Status,Economically Disadvantaged,0.363,1343,488
+2018,2017 - 2018,"Guilford County, NC",Comparison Community,Total,0.5670000000000001,5170,2931
+2018,2017 - 2018,"Guilford County, NC",Gender,Female,0.58,2595,1505
+2018,2017 - 2018,"Guilford County, NC",Gender,Male,0.555,2575,1429
+2018,2017 - 2018,"Guilford County, NC",Race / Ethnicity,African American,0.368,1963,722
+2018,2017 - 2018,"Guilford County, NC",Race / Ethnicity,Hispanic / Latino,0.40700000000000003,666,271
+2018,2017 - 2018,"Guilford County, NC",Race / Ethnicity,"White, non-hispanic",0.807,1961,1583
+2018,2017 - 2018,"Guilford County, NC",Economic Status,Economically Disadvantaged,0.361,2065,745
+2018,2017 - 2018,North Carolina,Economic Status,Non-economically Disadvantaged,0.685,66821,45772
+2018,2017 - 2018,"Durham County, NC",Economic Status,Non-economically Disadvantaged,0.6509999999999999,1246,811
+2018,2017 - 2018,"Forsyth County, NC",Economic Status,Non-economically Disadvantaged,0.684,2480,1696
+2018,2017 - 2018,"Guilford County, NC",Economic Status,Non-economically Disadvantaged,0.7040000000000001,3105,2186
+2019,2018 - 2019,North Carolina,Comparison Community,Total,0.5579999999999999,101541,56660
+2019,2018 - 2019,North Carolina,Gender,Female,0.59,51510,30391
+2019,2018 - 2019,North Carolina,Gender,Male,0.525,50031,26266
+2019,2018 - 2019,North Carolina,Race / Ethnicity,African American,0.32,24028,7689
+2019,2018 - 2019,North Carolina,Race / Ethnicity,Hispanic / Latino,0.402,16121,6481
+2019,2018 - 2019,North Carolina,Race / Ethnicity,"White, non-hispanic",0.703,52649,37012
+2019,2018 - 2019,North Carolina,Economic Status,Economically Disadvantaged,0.358,38455,13767
+2019,2018 - 2019,"Durham County, NC",Comparison Community,Total,0.467,2343,1094
+2019,2018 - 2019,"Durham County, NC",Gender,Female,0.496,1254,622
+2019,2018 - 2019,"Durham County, NC",Gender,Male,0.434,1089,473
+2019,2018 - 2019,"Durham County, NC",Race / Ethnicity,African American,0.37,1142,423
+2019,2018 - 2019,"Durham County, NC",Race / Ethnicity,Hispanic / Latino,0.359,588,211
+2019,2018 - 2019,"Durham County, NC",Race / Ethnicity,"White, non-hispanic",0.799,473,378
+2019,2018 - 2019,"Durham County, NC",Economic Status,Economically Disadvantaged,0.295,1124,332
+2019,2018 - 2019,"Forsyth County, NC",Comparison Community,Total,0.539,3704,1996
+2019,2018 - 2019,"Forsyth County, NC",Gender,Female,0.557,1935,1078
+2019,2018 - 2019,"Forsyth County, NC",Gender,Male,0.52,1769,920
+2019,2018 - 2019,"Forsyth County, NC",Race / Ethnicity,African American,0.314,1028,323
+2019,2018 - 2019,"Forsyth County, NC",Race / Ethnicity,Hispanic / Latino,0.316,822,260
+2019,2018 - 2019,"Forsyth County, NC",Race / Ethnicity,"White, non-hispanic",0.773,1599,1236
+2019,2018 - 2019,"Forsyth County, NC",Economic Status,Economically Disadvantaged,0.303,1272,385
+2019,2018 - 2019,"Guilford County, NC",Comparison Community,Total,0.561,4978,2793
+2019,2018 - 2019,"Guilford County, NC",Gender,Female,0.5920000000000001,2582,1529
+2019,2018 - 2019,"Guilford County, NC",Gender,Male,0.527,2396,1263
+2019,2018 - 2019,"Guilford County, NC",Race / Ethnicity,African American,0.36200000000000004,1842,667
+2019,2018 - 2019,"Guilford County, NC",Race / Ethnicity,Hispanic / Latino,0.445,672,299
+2019,2018 - 2019,"Guilford County, NC",Race / Ethnicity,"White, non-hispanic",0.784,1882,1475
+2019,2018 - 2019,"Guilford County, NC",Economic Status,Economically Disadvantaged,0.35600000000000004,2135,760
+2019,2018 - 2019,North Carolina,Economic Status,Non-economically Disadvantaged,0.68,63086,42898
+2019,2018 - 2019,"Durham County, NC",Economic Status,Non-economically Disadvantaged,0.626,1219,763
+2019,2018 - 2019,"Forsyth County, NC",Economic Status,Non-economically Disadvantaged,0.662,2432,1610
+2019,2018 - 2019,"Guilford County, NC",Economic Status,Non-economically Disadvantaged,0.715,2843,2033

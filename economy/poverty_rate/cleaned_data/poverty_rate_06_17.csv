@@ -1,0 +1,541 @@
+geo_description,year,type,subtype,estimate,se
+United States,2006,Poverty Rate,Total Population,0.133,6e-4
+North Carolina,2006,Poverty Rate,Total Population,0.147,0.0018
+"Durham County, NC",2006,Poverty Rate,Total Population,0.156,0.0115
+"Forsyth County, NC",2006,Poverty Rate,Total Population,0.134,0.0097
+"Guilford County, NC",2006,Poverty Rate,Total Population,0.14800000000000002,0.0079
+United States,2007,Poverty Rate,Total Population,0.13,6e-4
+North Carolina,2007,Poverty Rate,Total Population,0.14300000000000002,0.0018
+"Durham County, NC",2007,Poverty Rate,Total Population,0.162,0.013999999999999999
+"Forsyth County, NC",2007,Poverty Rate,Total Population,0.141,0.0104
+"Guilford County, NC",2007,Poverty Rate,Total Population,0.157,0.0097
+United States,2008,Poverty Rate,Total Population,0.132,6e-4
+North Carolina,2008,Poverty Rate,Total Population,0.146,0.0024
+"Durham County, NC",2008,Poverty Rate,Total Population,0.136,0.0109
+"Forsyth County, NC",2008,Poverty Rate,Total Population,0.153,0.0128
+"Guilford County, NC",2008,Poverty Rate,Total Population,0.133,0.0097
+United States,2009,Poverty Rate,Total Population,0.14300000000000002,6e-4
+North Carolina,2009,Poverty Rate,Total Population,0.163,0.0018
+"Durham County, NC",2009,Poverty Rate,Total Population,0.17,0.0134
+"Forsyth County, NC",2009,Poverty Rate,Total Population,0.166,0.0115
+"Guilford County, NC",2009,Poverty Rate,Total Population,0.174,0.0146
+United States,2010,Poverty Rate,Total Population,0.153,6e-4
+North Carolina,2010,Poverty Rate,Total Population,0.175,0.0018
+"Durham County, NC",2010,Poverty Rate,Total Population,0.188,0.0128
+"Forsyth County, NC",2010,Poverty Rate,Total Population,0.16399999999999998,0.0109
+"Guilford County, NC",2010,Poverty Rate,Total Population,0.177,0.0091
+United States,2011,Poverty Rate,Total Population,0.159,6e-4
+North Carolina,2011,Poverty Rate,Total Population,0.179,0.0024
+"Durham County, NC",2011,Poverty Rate,Total Population,0.204,0.0182
+"Forsyth County, NC",2011,Poverty Rate,Total Population,0.18899999999999997,0.0134
+"Guilford County, NC",2011,Poverty Rate,Total Population,0.187,0.0097
+United States,2012,Poverty Rate,Total Population,0.159,6e-4
+North Carolina,2012,Poverty Rate,Total Population,0.18,0.0018
+"Durham County, NC",2012,Poverty Rate,Total Population,0.198,0.0128
+"Forsyth County, NC",2012,Poverty Rate,Total Population,0.215,0.0104
+"Guilford County, NC",2012,Poverty Rate,Total Population,0.17800000000000002,0.0085
+United States,2013,Poverty Rate,Total Population,0.158,6e-4
+North Carolina,2013,Poverty Rate,Total Population,0.179,0.0018
+"Durham County, NC",2013,Poverty Rate,Total Population,0.166,0.0104
+"Forsyth County, NC",2013,Poverty Rate,Total Population,0.20800000000000002,0.0128
+"Guilford County, NC",2013,Poverty Rate,Total Population,0.19,0.0085
+United States,2014,Poverty Rate,Total Population,0.155,6e-4
+North Carolina,2014,Poverty Rate,Total Population,0.172,0.0018
+"Durham County, NC",2014,Poverty Rate,Total Population,0.16399999999999998,0.0115
+"Forsyth County, NC",2014,Poverty Rate,Total Population,0.201,0.0121
+"Guilford County, NC",2014,Poverty Rate,Total Population,0.171,0.0085
+United States,2015,Poverty Rate,Total Population,0.147,6e-4
+North Carolina,2015,Poverty Rate,Total Population,0.16399999999999998,0.0018
+"Durham County, NC",2015,Poverty Rate,Total Population,0.17300000000000001,0.0128
+"Forsyth County, NC",2015,Poverty Rate,Total Population,0.183,0.0097
+"Guilford County, NC",2015,Poverty Rate,Total Population,0.154,0.0085
+United States,2016,Poverty Rate,Total Population,0.14,6e-4
+North Carolina,2016,Poverty Rate,Total Population,0.154,0.0018
+"Durham County, NC",2016,Poverty Rate,Total Population,0.163,0.0115
+"Forsyth County, NC",2016,Poverty Rate,Total Population,0.18,0.0128
+"Guilford County, NC",2016,Poverty Rate,Total Population,0.18600000000000003,0.0097
+United States,2017,Poverty Rate,Total Population,0.134,6e-4
+North Carolina,2017,Poverty Rate,Total Population,0.147,0.0024
+"Durham County, NC",2017,Poverty Rate,Total Population,0.161,0.0128
+"Forsyth County, NC",2017,Poverty Rate,Total Population,0.16699999999999998,0.0091
+"Guilford County, NC",2017,Poverty Rate,Total Population,0.142,0.0085
+United States,2006,Race and Ethnicity,African American,0.253,0.0012
+North Carolina,2006,Race and Ethnicity,African American,0.261,0.0060999999999999995
+"Durham County, NC",2006,Race and Ethnicity,African American,0.23199999999999998,0.0207
+"Forsyth County, NC",2006,Race and Ethnicity,African American,0.27399999999999997,0.026099999999999998
+"Guilford County, NC",2006,Race and Ethnicity,African American,0.26,0.0177
+United States,2006,Race and Ethnicity,Hispanic / Latino,0.215,0.0012
+North Carolina,2006,Race and Ethnicity,Hispanic / Latino,0.255,0.0128
+"Durham County, NC",2006,Race and Ethnicity,Hispanic / Latino,NA,NA
+"Forsyth County, NC",2006,Race and Ethnicity,Hispanic / Latino,0.287,0.0462
+"Guilford County, NC",2006,Race and Ethnicity,Hispanic / Latino,0.344,0.048600000000000004
+United States,2006,Race and Ethnicity,"White, non-Hispanic",0.09300000000000001,6e-4
+North Carolina,2006,Race and Ethnicity,"White, non-Hispanic",0.099,0.0018
+"Durham County, NC",2006,Race and Ethnicity,"White, non-Hispanic",0.071,0.0091
+"Forsyth County, NC",2006,Race and Ethnicity,"White, non-Hispanic",0.055,0.0073
+"Guilford County, NC",2006,Race and Ethnicity,"White, non-Hispanic",0.07400000000000001,0.0067
+United States,2007,Race and Ethnicity,African American,0.247,0.0012
+North Carolina,2007,Race and Ethnicity,African American,0.247,0.0055000000000000005
+"Durham County, NC",2007,Race and Ethnicity,African American,0.205,0.023700000000000002
+"Forsyth County, NC",2007,Race and Ethnicity,African American,0.239,0.0286
+"Guilford County, NC",2007,Race and Ethnicity,African American,0.255,0.0225
+United States,2007,Race and Ethnicity,Hispanic / Latino,0.207,0.0012
+North Carolina,2007,Race and Ethnicity,Hispanic / Latino,0.258,0.0109
+"Durham County, NC",2007,Race and Ethnicity,Hispanic / Latino,0.237,0.0541
+"Forsyth County, NC",2007,Race and Ethnicity,Hispanic / Latino,0.321,0.052300000000000006
+"Guilford County, NC",2007,Race and Ethnicity,Hispanic / Latino,0.257,0.048
+United States,2007,Race and Ethnicity,"White, non-Hispanic",0.09,6e-4
+North Carolina,2007,Race and Ethnicity,"White, non-Hispanic",0.096,0.0018
+"Durham County, NC",2007,Race and Ethnicity,"White, non-Hispanic",0.095,0.0128
+"Forsyth County, NC",2007,Race and Ethnicity,"White, non-Hispanic",0.071,0.0091
+"Guilford County, NC",2007,Race and Ethnicity,"White, non-Hispanic",0.08900000000000001,0.0091
+United States,2008,Race and Ethnicity,African American,0.24100000000000002,0.0012
+North Carolina,2008,Race and Ethnicity,African American,0.243,0.0055000000000000005
+"Durham County, NC",2008,Race and Ethnicity,African American,0.193,0.0194
+"Forsyth County, NC",2008,Race and Ethnicity,African American,0.21600000000000003,0.0292
+"Guilford County, NC",2008,Race and Ethnicity,African American,0.212,0.0207
+United States,2008,Race and Ethnicity,Hispanic / Latino,0.213,0.0012
+North Carolina,2008,Race and Ethnicity,Hispanic / Latino,0.282,0.0121
+"Durham County, NC",2008,Race and Ethnicity,Hispanic / Latino,0.282,0.057800000000000004
+"Forsyth County, NC",2008,Race and Ethnicity,Hispanic / Latino,0.375,0.06570000000000001
+"Guilford County, NC",2008,Race and Ethnicity,Hispanic / Latino,0.182,0.0395
+United States,2008,Race and Ethnicity,"White, non-Hispanic",0.09300000000000001,6e-4
+North Carolina,2008,Race and Ethnicity,"White, non-Hispanic",0.098,0.0024
+"Durham County, NC",2008,Race and Ethnicity,"White, non-Hispanic",0.06,0.0104
+"Forsyth County, NC",2008,Race and Ethnicity,"White, non-Hispanic",0.079,0.0079
+"Guilford County, NC",2008,Race and Ethnicity,"White, non-Hispanic",0.075,0.0079
+United States,2009,Race and Ethnicity,African American,0.258,0.0012
+North Carolina,2009,Race and Ethnicity,African American,0.262,0.0055000000000000005
+"Durham County, NC",2009,Race and Ethnicity,African American,0.243,0.0255
+"Forsyth County, NC",2009,Race and Ethnicity,African American,0.231,0.0255
+"Guilford County, NC",2009,Race and Ethnicity,African American,0.273,0.023700000000000002
+United States,2009,Race and Ethnicity,Hispanic / Latino,0.235,0.0012
+North Carolina,2009,Race and Ethnicity,Hispanic / Latino,0.35200000000000004,0.0121
+"Durham County, NC",2009,Race and Ethnicity,Hispanic / Latino,0.35700000000000004,0.0602
+"Forsyth County, NC",2009,Race and Ethnicity,Hispanic / Latino,0.415,0.0571
+"Guilford County, NC",2009,Race and Ethnicity,Hispanic / Latino,0.36200000000000004,0.0565
+United States,2009,Race and Ethnicity,"White, non-Hispanic",0.1,6e-4
+North Carolina,2009,Race and Ethnicity,"White, non-Hispanic",0.107,0.0018
+"Durham County, NC",2009,Race and Ethnicity,"White, non-Hispanic",0.055999999999999994,0.0079
+"Forsyth County, NC",2009,Race and Ethnicity,"White, non-Hispanic",0.09699999999999999,0.0115
+"Guilford County, NC",2009,Race and Ethnicity,"White, non-Hispanic",0.096,0.0134
+United States,2010,Race and Ethnicity,African American,0.271,0.0018
+North Carolina,2010,Race and Ethnicity,African American,0.27699999999999997,0.0055000000000000005
+"Durham County, NC",2010,Race and Ethnicity,African American,0.26,0.023700000000000002
+"Forsyth County, NC",2010,Race and Ethnicity,African American,0.248,0.024300000000000002
+"Guilford County, NC",2010,Race and Ethnicity,African American,0.27399999999999997,0.018799999999999997
+United States,2010,Race and Ethnicity,Hispanic / Latino,0.248,0.0012
+North Carolina,2010,Race and Ethnicity,Hispanic / Latino,0.33899999999999997,0.0115
+"Durham County, NC",2010,Race and Ethnicity,Hispanic / Latino,0.251,0.051100000000000007
+"Forsyth County, NC",2010,Race and Ethnicity,Hispanic / Latino,0.35100000000000003,0.0547
+"Guilford County, NC",2010,Race and Ethnicity,Hispanic / Latino,0.293,0.0529
+United States,2010,Race and Ethnicity,"White, non-Hispanic",0.106,6e-4
+North Carolina,2010,Race and Ethnicity,"White, non-Hispanic",0.11800000000000001,0.0018
+"Durham County, NC",2010,Race and Ethnicity,"White, non-Hispanic",0.091,0.0104
+"Forsyth County, NC",2010,Race and Ethnicity,"White, non-Hispanic",0.09,0.0104
+"Guilford County, NC",2010,Race and Ethnicity,"White, non-Hispanic",0.10300000000000001,0.0079
+United States,2011,Race and Ethnicity,African American,0.281,0.0012
+North Carolina,2011,Race and Ethnicity,African American,0.28,0.0060999999999999995
+"Durham County, NC",2011,Race and Ethnicity,African American,0.267,0.0286
+"Forsyth County, NC",2011,Race and Ethnicity,African American,0.311,0.027999999999999997
+"Guilford County, NC",2011,Race and Ethnicity,African American,0.249,0.0213
+United States,2011,Race and Ethnicity,Hispanic / Latino,0.258,0.0012
+North Carolina,2011,Race and Ethnicity,Hispanic / Latino,0.349,0.0121
+"Durham County, NC",2011,Race and Ethnicity,Hispanic / Latino,0.39799999999999996,0.076
+"Forsyth County, NC",2011,Race and Ethnicity,Hispanic / Latino,0.385,0.0693
+"Guilford County, NC",2011,Race and Ethnicity,Hispanic / Latino,0.452,0.059000000000000004
+United States,2011,Race and Ethnicity,"White, non-Hispanic",0.11,6e-4
+North Carolina,2011,Race and Ethnicity,"White, non-Hispanic",0.121,0.0024
+"Durham County, NC",2011,Race and Ethnicity,"White, non-Hispanic",0.091,0.0152
+"Forsyth County, NC",2011,Race and Ethnicity,"White, non-Hispanic",0.09300000000000001,0.0097
+"Guilford County, NC",2011,Race and Ethnicity,"White, non-Hispanic",0.102,0.0104
+United States,2012,Race and Ethnicity,African American,0.281,0.0012
+North Carolina,2012,Race and Ethnicity,African American,0.284,0.0055000000000000005
+"Durham County, NC",2012,Race and Ethnicity,African American,0.258,0.0225
+"Forsyth County, NC",2012,Race and Ethnicity,African American,0.335,0.026099999999999998
+"Guilford County, NC",2012,Race and Ethnicity,African American,0.28300000000000003,0.020099999999999996
+United States,2012,Race and Ethnicity,Hispanic / Latino,0.254,0.0012
+North Carolina,2012,Race and Ethnicity,Hispanic / Latino,0.33899999999999997,0.0115
+"Durham County, NC",2012,Race and Ethnicity,Hispanic / Latino,0.39399999999999996,0.0462
+"Forsyth County, NC",2012,Race and Ethnicity,Hispanic / Latino,0.466,0.0432
+"Guilford County, NC",2012,Race and Ethnicity,Hispanic / Latino,0.319,0.0535
+United States,2012,Race and Ethnicity,"White, non-Hispanic",0.11,6e-4
+North Carolina,2012,Race and Ethnicity,"White, non-Hispanic",0.122,0.0018
+"Durham County, NC",2012,Race and Ethnicity,"White, non-Hispanic",0.08800000000000001,0.0109
+"Forsyth County, NC",2012,Race and Ethnicity,"White, non-Hispanic",0.107,0.0121
+"Guilford County, NC",2012,Race and Ethnicity,"White, non-Hispanic",0.09,0.0085
+United States,2013,Race and Ethnicity,African American,0.276,0.0012
+North Carolina,2013,Race and Ethnicity,African American,0.28,0.0055000000000000005
+"Durham County, NC",2013,Race and Ethnicity,African American,0.193,0.018799999999999997
+"Forsyth County, NC",2013,Race and Ethnicity,African American,0.33,0.0298
+"Guilford County, NC",2013,Race and Ethnicity,African American,0.305,0.0207
+United States,2013,Race and Ethnicity,Hispanic / Latino,0.248,0.0012
+North Carolina,2013,Race and Ethnicity,Hispanic / Latino,0.325,0.0104
+"Durham County, NC",2013,Race and Ethnicity,Hispanic / Latino,0.35100000000000003,0.0644
+"Forsyth County, NC",2013,Race and Ethnicity,Hispanic / Latino,0.52,0.051100000000000007
+"Guilford County, NC",2013,Race and Ethnicity,Hispanic / Latino,0.301,0.050499999999999996
+United States,2013,Race and Ethnicity,"White, non-Hispanic",0.111,6e-4
+North Carolina,2013,Race and Ethnicity,"White, non-Hispanic",0.12300000000000001,0.0018
+"Durham County, NC",2013,Race and Ethnicity,"White, non-Hispanic",0.079,0.0104
+"Forsyth County, NC",2013,Race and Ethnicity,"White, non-Hispanic",0.092,0.0091
+"Guilford County, NC",2013,Race and Ethnicity,"White, non-Hispanic",0.102,0.0085
+United States,2014,Race and Ethnicity,African American,0.27,0.0012
+North Carolina,2014,Race and Ethnicity,African American,0.265,0.0048
+"Durham County, NC",2014,Race and Ethnicity,African American,0.214,0.024300000000000002
+"Forsyth County, NC",2014,Race and Ethnicity,African American,0.27899999999999997,0.027999999999999997
+"Guilford County, NC",2014,Race and Ethnicity,African American,0.26899999999999996,0.0177
+United States,2014,Race and Ethnicity,Hispanic / Latino,0.24100000000000002,0.0012
+North Carolina,2014,Race and Ethnicity,Hispanic / Latino,0.336,0.0109
+"Durham County, NC",2014,Race and Ethnicity,Hispanic / Latino,0.292,0.045599999999999995
+"Forsyth County, NC",2014,Race and Ethnicity,Hispanic / Latino,0.47,0.0565
+"Guilford County, NC",2014,Race and Ethnicity,Hispanic / Latino,0.287,0.0462
+United States,2014,Race and Ethnicity,"White, non-Hispanic",0.10800000000000001,6e-4
+North Carolina,2014,Race and Ethnicity,"White, non-Hispanic",0.11599999999999999,0.0018
+"Durham County, NC",2014,Race and Ethnicity,"White, non-Hispanic",0.083,0.0097
+"Forsyth County, NC",2014,Race and Ethnicity,"White, non-Hispanic",0.10800000000000001,0.0104
+"Guilford County, NC",2014,Race and Ethnicity,"White, non-Hispanic",0.08800000000000001,0.0067
+United States,2015,Race and Ethnicity,African American,0.254,0.0012
+North Carolina,2015,Race and Ethnicity,African American,0.253,0.0055000000000000005
+"Durham County, NC",2015,Race and Ethnicity,African American,0.218,0.024300000000000002
+"Forsyth County, NC",2015,Race and Ethnicity,African American,0.261,0.024300000000000002
+"Guilford County, NC",2015,Race and Ethnicity,African American,0.23800000000000002,0.018799999999999997
+United States,2015,Race and Ethnicity,Hispanic / Latino,0.226,0.0012
+North Carolina,2015,Race and Ethnicity,Hispanic / Latino,0.308,0.0085
+"Durham County, NC",2015,Race and Ethnicity,Hispanic / Latino,0.35100000000000003,0.0559
+"Forsyth County, NC",2015,Race and Ethnicity,Hispanic / Latino,0.409,0.045599999999999995
+"Guilford County, NC",2015,Race and Ethnicity,Hispanic / Latino,0.22899999999999998,0.0438
+United States,2015,Race and Ethnicity,"White, non-Hispanic",0.10400000000000001,6e-4
+North Carolina,2015,Race and Ethnicity,"White, non-Hispanic",0.113,0.0018
+"Durham County, NC",2015,Race and Ethnicity,"White, non-Hispanic",0.083,0.0109
+"Forsyth County, NC",2015,Race and Ethnicity,"White, non-Hispanic",0.09699999999999999,0.0104
+"Guilford County, NC",2015,Race and Ethnicity,"White, non-Hispanic",0.091,0.0097
+United States,2016,Race and Ethnicity,African American,0.239,0.0012
+North Carolina,2016,Race and Ethnicity,African American,0.235,0.0048
+"Durham County, NC",2016,Race and Ethnicity,African American,0.228,0.0219
+"Forsyth County, NC",2016,Race and Ethnicity,African American,0.266,0.0255
+"Guilford County, NC",2016,Race and Ethnicity,African American,0.272,0.020099999999999996
+United States,2016,Race and Ethnicity,Hispanic / Latino,0.21,0.0012
+North Carolina,2016,Race and Ethnicity,Hispanic / Latino,0.273,0.0104
+"Durham County, NC",2016,Race and Ethnicity,Hispanic / Latino,0.184,0.0334
+"Forsyth County, NC",2016,Race and Ethnicity,Hispanic / Latino,0.306,0.0547
+"Guilford County, NC",2016,Race and Ethnicity,Hispanic / Latino,0.375,0.0444
+United States,2016,Race and Ethnicity,"White, non-Hispanic",0.1,6e-4
+North Carolina,2016,Race and Ethnicity,"White, non-Hispanic",0.10800000000000001,0.0018
+"Durham County, NC",2016,Race and Ethnicity,"White, non-Hispanic",0.08900000000000001,0.0121
+"Forsyth County, NC",2016,Race and Ethnicity,"White, non-Hispanic",0.115,0.0097
+"Guilford County, NC",2016,Race and Ethnicity,"White, non-Hispanic",0.095,0.0079
+United States,2017,Race and Ethnicity,African American,0.23,0.0012
+North Carolina,2017,Race and Ethnicity,African American,0.22,0.0055000000000000005
+"Durham County, NC",2017,Race and Ethnicity,African American,0.22699999999999998,0.027999999999999997
+"Forsyth County, NC",2017,Race and Ethnicity,African American,0.23800000000000002,0.023700000000000002
+"Guilford County, NC",2017,Race and Ethnicity,African American,0.20199999999999999,0.018799999999999997
+United States,2017,Race and Ethnicity,Hispanic / Latino,0.19399999999999998,0.0012
+North Carolina,2017,Race and Ethnicity,Hispanic / Latino,0.271,0.0091
+"Durham County, NC",2017,Race and Ethnicity,Hispanic / Latino,0.29100000000000004,0.048
+"Forsyth County, NC",2017,Race and Ethnicity,Hispanic / Latino,0.363,0.050499999999999996
+"Guilford County, NC",2017,Race and Ethnicity,Hispanic / Latino,0.299,0.050499999999999996
+United States,2017,Race and Ethnicity,"White, non-Hispanic",0.096,6e-4
+North Carolina,2017,Race and Ethnicity,"White, non-Hispanic",0.102,0.0024
+"Durham County, NC",2017,Race and Ethnicity,"White, non-Hispanic",0.068,0.0091
+"Forsyth County, NC",2017,Race and Ethnicity,"White, non-Hispanic",0.09,0.0104
+"Guilford County, NC",2017,Race and Ethnicity,"White, non-Hispanic",0.076,0.0067
+"Durham County, NC",2006,Age,18 to 34 years,0.20298468471410377,0.016996987750342783
+"Durham County, NC",2006,Age,35 to 64 years,0.10884753372637056,0.010506300698098757
+"Durham County, NC",2006,Age,5 to 17 years,0.20624361561651344,0.021897726295096735
+"Durham County, NC",2006,Age,65 years and over,0.07519940983908895,0.015230839562724275
+"Durham County, NC",2006,Age,Under 5 years,0.23160139387319914,0.03895756770845191
+"Durham County, NC",2007,Age,18 to 34 years,0.22689328539069553,0.02250961984502259
+"Durham County, NC",2007,Age,35 to 64 years,0.11985048751891453,0.012206507093901212
+"Durham County, NC",2007,Age,5 to 17 years,0.17620825052111105,0.022743661716929087
+"Durham County, NC",2007,Age,65 years and over,0.08486000691323885,0.015360848041093923
+"Durham County, NC",2007,Age,Under 5 years,0.22587319572392728,0.037719901434148544
+"Durham County, NC",2008,Age,18 to 34 years,0.1961417084172803,0.02521145153895071
+"Durham County, NC",2008,Age,35 to 64 years,0.09764726351808534,0.010371782946512474
+"Durham County, NC",2008,Age,5 to 17 years,0.1522892012690767,0.020495764509616696
+"Durham County, NC",2008,Age,65 years and over,0.07892512345953641,0.014887433170705396
+"Durham County, NC",2008,Age,Under 5 years,0.19551573803478178,0.036226737970655745
+"Durham County, NC",2009,Age,18 to 34 years,0.2224232231439999,0.01825047495259816
+"Durham County, NC",2009,Age,35 to 64 years,0.10305323726089886,0.009654550091288619
+"Durham County, NC",2009,Age,5 to 17 years,0.21284584980237153,0.02460541979544272
+"Durham County, NC",2009,Age,65 years and over,0.0975710851363674,0.017017995010498773
+"Durham County, NC",2009,Age,Under 5 years,0.29549129649005995,0.03623192948883422
+"Durham County, NC",2010,Age,18 to 34 years,0.2737095000882277,0.019346434169771404
+"Durham County, NC",2010,Age,35 to 64 years,0.11942118526949029,0.012457788323175208
+"Durham County, NC",2010,Age,5 to 17 years,0.22704620960434915,0.022486868316596718
+"Durham County, NC",2010,Age,65 years and over,0.06700083542188805,0.019327702912378127
+"Durham County, NC",2010,Age,Under 5 years,0.2796101564503719,0.035841037688053266
+"Durham County, NC",2011,Age,18 to 34 years,0.270240849095115,0.02262934102852574
+"Durham County, NC",2011,Age,35 to 64 years,0.1316046339659847,0.011926304072877814
+"Durham County, NC",2011,Age,5 to 17 years,0.2899015622704344,0.02828303636424879
+"Durham County, NC",2011,Age,65 years and over,0.09608596752686485,0.0177215109511573
+"Durham County, NC",2011,Age,Under 5 years,0.28821420033468803,0.03877183136596417
+"Durham County, NC",2012,Age,18 to 34 years,0.26013838300407566,0.01747489284506785
+"Durham County, NC",2012,Age,35 to 64 years,0.1264376816984955,0.00994723409699852
+"Durham County, NC",2012,Age,5 to 17 years,0.2644545949400043,0.02359959801003631
+"Durham County, NC",2012,Age,65 years and over,0.10106906737937825,0.016663109655543042
+"Durham County, NC",2012,Age,Under 5 years,0.3300604978676981,0.029017217739082474
+"Durham County, NC",2013,Age,18 to 34 years,0.23208244827314925,0.01732656409838873
+"Durham County, NC",2013,Age,35 to 64 years,0.12384676255643998,0.011013683594001587
+"Durham County, NC",2013,Age,5 to 17 years,0.20328184874344687,0.02419869103318478
+"Durham County, NC",2013,Age,65 years and over,0.08126740474088161,0.015717270327430165
+"Durham County, NC",2013,Age,Under 5 years,0.1875,0.041032471666286055
+"Durham County, NC",2014,Age,18 to 34 years,0.22317053896001265,0.015815852883950075
+"Durham County, NC",2014,Age,35 to 64 years,0.12258672392393481,0.01055915288621245
+"Durham County, NC",2014,Age,5 to 17 years,0.22382679821622495,0.025005245206989338
+"Durham County, NC",2014,Age,65 years and over,0.0801176394544632,0.016818497606055135
+"Durham County, NC",2014,Age,Under 5 years,0.17196566441279432,0.03307334699161664
+"Durham County, NC",2015,Age,18 to 34 years,0.20776414293432122,0.017024120165517388
+"Durham County, NC",2015,Age,35 to 64 years,0.1142705804458177,0.012512217907082046
+"Durham County, NC",2015,Age,5 to 17 years,0.2435478007997092,0.025881610175243326
+"Durham County, NC",2015,Age,65 years and over,0.085506146607983,0.01740652740967711
+"Durham County, NC",2015,Age,Under 5 years,0.36015998439176666,0.0400063213549955
+"Durham County, NC",2016,Age,18 to 34 years,0.20634355859404782,0.016805326016248585
+"Durham County, NC",2016,Age,35 to 64 years,0.11394823084067927,0.010901285417727995
+"Durham County, NC",2016,Age,5 to 17 years,0.2739710789766407,0.024784230969346593
+"Durham County, NC",2016,Age,65 years and over,0.06551684881602915,0.012911393349024651
+"Durham County, NC",2016,Age,Under 5 years,0.19734251968503938,0.03536791377018205
+"Durham County, NC",2017,Age,18 to 34 years,0.18038803741156517,0.017988963079843868
+"Durham County, NC",2017,Age,35 to 64 years,0.11098296512720625,0.009931153154411019
+"Durham County, NC",2017,Age,5 to 17 years,0.28710429557887185,0.0280593869470784
+"Durham County, NC",2017,Age,65 years and over,0.09115260170795099,0.015187856814394602
+"Durham County, NC",2017,Age,Under 5 years,0.22777943664775555,0.0354348126084443
+"Forsyth County, NC",2006,Age,18 to 34 years,0.1941416992855376,0.0174414791660246
+"Forsyth County, NC",2006,Age,35 to 64 years,0.07430312808102536,0.007007539286250672
+"Forsyth County, NC",2006,Age,5 to 17 years,0.17556701212323825,0.015953913084697714
+"Forsyth County, NC",2006,Age,65 years and over,0.08102948104435793,0.011292151474386856
+"Forsyth County, NC",2006,Age,Under 5 years,0.29128086419753085,0.03079368436541251
+"Forsyth County, NC",2007,Age,18 to 34 years,0.18722852893973527,0.015304904120199905
+"Forsyth County, NC",2007,Age,35 to 64 years,0.08658917544496912,0.007823527314834143
+"Forsyth County, NC",2007,Age,5 to 17 years,0.23639729416446081,0.021084788992893268
+"Forsyth County, NC",2007,Age,65 years and over,0.06623942322134882,0.009938632758603815
+"Forsyth County, NC",2007,Age,Under 5 years,0.22013007868957765,0.028381074320625754
+"Forsyth County, NC",2008,Age,18 to 34 years,0.20806739851927494,0.017934953631517078
+"Forsyth County, NC",2008,Age,35 to 64 years,0.09990923890337546,0.00907090024079223
+"Forsyth County, NC",2008,Age,5 to 17 years,0.20679320679320679,0.021990989259584683
+"Forsyth County, NC",2008,Age,65 years and over,0.08665362991933513,0.011256909896685877
+"Forsyth County, NC",2008,Age,Under 5 years,0.272969696969697,0.03980956702256349
+"Forsyth County, NC",2009,Age,18 to 34 years,0.22648922857488865,0.018601710377018008
+"Forsyth County, NC",2009,Age,35 to 64 years,0.11785409407055991,0.008455966044994108
+"Forsyth County, NC",2009,Age,5 to 17 years,0.20447377832688493,0.01838053969276244
+"Forsyth County, NC",2009,Age,65 years and over,0.06186159628565112,0.010734112025970115
+"Forsyth County, NC",2009,Age,Under 5 years,0.34398091133004927,0.030852086896577757
+"Forsyth County, NC",2010,Age,18 to 34 years,0.2313918040305393,0.01910762863229682
+"Forsyth County, NC",2010,Age,35 to 64 years,0.11087294702960006,0.008939190942000194
+"Forsyth County, NC",2010,Age,5 to 17 years,0.23035749361618543,0.01855374604247022
+"Forsyth County, NC",2010,Age,65 years and over,0.06778913144449605,0.010440607417055894
+"Forsyth County, NC",2010,Age,Under 5 years,0.2695137420718816,0.032913672962368114
+"Forsyth County, NC",2011,Age,18 to 34 years,0.24674604998175356,0.016935384497781786
+"Forsyth County, NC",2011,Age,35 to 64 years,0.13319837767079878,0.009502629810232446
+"Forsyth County, NC",2011,Age,5 to 17 years,0.25886340783028966,0.022381798764233633
+"Forsyth County, NC",2011,Age,65 years and over,0.06620346093340325,0.009191104566173983
+"Forsyth County, NC",2011,Age,Under 5 years,0.387918270654427,0.03512776094103745
+"Forsyth County, NC",2012,Age,18 to 34 years,0.2890065978998234,0.01712987785703801
+"Forsyth County, NC",2012,Age,35 to 64 years,0.14776549050903495,0.009027224355117486
+"Forsyth County, NC",2012,Age,5 to 17 years,0.3302607877184726,0.019006956379879838
+"Forsyth County, NC",2012,Age,65 years and over,0.06801018154279824,0.009210667595344273
+"Forsyth County, NC",2012,Age,Under 5 years,0.36941536890477406,0.02831798804075404
+"Forsyth County, NC",2013,Age,18 to 34 years,0.29031959974125754,0.017704211691893852
+"Forsyth County, NC",2013,Age,35 to 64 years,0.13413355994617945,0.008864083806926685
+"Forsyth County, NC",2013,Age,5 to 17 years,0.28282631621643545,0.02108625552476744
+"Forsyth County, NC",2013,Age,65 years and over,0.09418878337797257,0.01101626991253716
+"Forsyth County, NC",2013,Age,Under 5 years,0.43179168286047415,0.025402313108212154
+"Forsyth County, NC",2014,Age,18 to 34 years,0.261474160138794,0.01630016137065592
+"Forsyth County, NC",2014,Age,35 to 64 years,0.1575820147068119,0.009370082062119443
+"Forsyth County, NC",2014,Age,5 to 17 years,0.2754797575300732,0.01983354445266063
+"Forsyth County, NC",2014,Age,65 years and over,0.08498155560788007,0.010752538362805831
+"Forsyth County, NC",2014,Age,Under 5 years,0.31624950337703617,0.03333338792258699
+"Forsyth County, NC",2015,Age,18 to 34 years,0.2177913317654356,0.016277178835600942
+"Forsyth County, NC",2015,Age,35 to 64 years,0.12482583510739874,0.007706605686019605
+"Forsyth County, NC",2015,Age,5 to 17 years,0.29550946912858744,0.0200452374919976
+"Forsyth County, NC",2015,Age,65 years and over,0.09775456336666791,0.010695369902168208
+"Forsyth County, NC",2015,Age,Under 5 years,0.314005042162914,0.03171978803896102
+"Forsyth County, NC",2016,Age,18 to 34 years,0.21584853285847092,0.018897458588533016
+"Forsyth County, NC",2016,Age,35 to 64 years,0.14516185063468795,0.009728950990292048
+"Forsyth County, NC",2016,Age,5 to 17 years,0.2448420298656203,0.021754394227952053
+"Forsyth County, NC",2016,Age,65 years and over,0.0984174719894376,0.009772299193798531
+"Forsyth County, NC",2016,Age,Under 5 years,0.2909147067908044,0.03592192069119983
+"Forsyth County, NC",2017,Age,18 to 34 years,0.20840592053475798,0.01637091215859407
+"Forsyth County, NC",2017,Age,35 to 64 years,0.11886492465090558,0.008652310106854487
+"Forsyth County, NC",2017,Age,5 to 17 years,0.24823545909225472,0.018488443431009798
+"Forsyth County, NC",2017,Age,65 years and over,0.092078894631368,0.009867941918766207
+"Forsyth County, NC",2017,Age,Under 5 years,0.29531577305343854,0.0325142183677701
+"Guilford County, NC",2006,Age,18 to 34 years,0.20481612491366138,0.012652340015599636
+"Guilford County, NC",2006,Age,35 to 64 years,0.10309407422729797,0.006853422656129689
+"Guilford County, NC",2006,Age,5 to 17 years,0.19356446029581453,0.014571275716075869
+"Guilford County, NC",2006,Age,65 years and over,0.07408855439350992,0.01107098141229918
+"Guilford County, NC",2006,Age,Under 5 years,0.2582119878090078,0.026367008937759395
+"Guilford County, NC",2007,Age,18 to 34 years,0.22630617835041086,0.01421147133604991
+"Guilford County, NC",2007,Age,35 to 64 years,0.10378996511658405,0.008411153384364939
+"Guilford County, NC",2007,Age,5 to 17 years,0.19140422190986336,0.01656375759253487
+"Guilford County, NC",2007,Age,65 years and over,0.09918310727496918,0.01195365676419936
+"Guilford County, NC",2007,Age,Under 5 years,0.27442510068857995,0.03451021369956041
+"Guilford County, NC",2008,Age,18 to 34 years,0.1828257849676358,0.014337434096964799
+"Guilford County, NC",2008,Age,35 to 64 years,0.09268232014136839,0.007105918543269377
+"Guilford County, NC",2008,Age,5 to 17 years,0.1822217775721271,0.015116994316597835
+"Guilford County, NC",2008,Age,65 years and over,0.06903589417117606,0.009870891902949078
+"Guilford County, NC",2008,Age,Under 5 years,0.2014588732124004,0.02448755242249788
+"Guilford County, NC",2009,Age,18 to 34 years,0.23932683629468232,0.01754377325384057
+"Guilford County, NC",2009,Age,35 to 64 years,0.12961528392911523,0.012667747058761935
+"Guilford County, NC",2009,Age,5 to 17 years,0.2021935036640919,0.014905270599695215
+"Guilford County, NC",2009,Age,65 years and over,0.09792562786180102,0.012216000757455462
+"Guilford County, NC",2009,Age,Under 5 years,0.2803611599026224,0.02748200742244611
+"Guilford County, NC",2010,Age,18 to 34 years,0.2387618630978421,0.01534173973716281
+"Guilford County, NC",2010,Age,35 to 64 years,0.12038815796305334,0.008300606310254973
+"Guilford County, NC",2010,Age,5 to 17 years,0.2510997818514903,0.0165255832906309
+"Guilford County, NC",2010,Age,65 years and over,0.060293365171413954,0.008432104049641327
+"Guilford County, NC",2010,Age,Under 5 years,0.3241545734025321,0.02726139864566129
+"Guilford County, NC",2011,Age,18 to 34 years,0.27190177546153166,0.014808509824924638
+"Guilford County, NC",2011,Age,35 to 64 years,0.1345100175783057,0.007728361837291609
+"Guilford County, NC",2011,Age,5 to 17 years,0.2159481618619413,0.014481024354029376
+"Guilford County, NC",2011,Age,65 years and over,0.10469146448649276,0.012884163990259961
+"Guilford County, NC",2011,Age,Under 5 years,0.2913608688497614,0.029153128496493205
+"Guilford County, NC",2012,Age,18 to 34 years,0.25208034684101954,0.01290135467368924
+"Guilford County, NC",2012,Age,35 to 64 years,0.1252272703927027,0.00714281723983226
+"Guilford County, NC",2012,Age,5 to 17 years,0.23401752490697394,0.01588928906032421
+"Guilford County, NC",2012,Age,65 years and over,0.08665277799533215,0.01002080773411923
+"Guilford County, NC",2012,Age,Under 5 years,0.28239256982144023,0.022557086746982227
+"Guilford County, NC",2013,Age,18 to 34 years,0.24700246109111293,0.013309929693645872
+"Guilford County, NC",2013,Age,35 to 64 years,0.14185203718024533,0.007918159889945292
+"Guilford County, NC",2013,Age,5 to 17 years,0.2867501647989453,0.01820836697940613
+"Guilford County, NC",2013,Age,65 years and over,0.08530480173387466,0.009965821432501777
+"Guilford County, NC",2013,Age,Under 5 years,0.25319392256167295,0.025545611902246596
+"Guilford County, NC",2014,Age,18 to 34 years,0.22943628752208461,0.012533896013657076
+"Guilford County, NC",2014,Age,35 to 64 years,0.11775322135064831,0.007694628619348367
+"Guilford County, NC",2014,Age,5 to 17 years,0.24039594065649056,0.016423444606736646
+"Guilford County, NC",2014,Age,65 years and over,0.08626866108113641,0.009724698981972488
+"Guilford County, NC",2014,Age,Under 5 years,0.2951826810557795,0.02711473265658787
+"Guilford County, NC",2015,Age,18 to 34 years,0.19644384541613746,0.014465450630951681
+"Guilford County, NC",2015,Age,35 to 64 years,0.1098492078640962,0.007334253766886694
+"Guilford County, NC",2015,Age,5 to 17 years,0.2209290034646779,0.014190572547746194
+"Guilford County, NC",2015,Age,65 years and over,0.08329835753658468,0.01041224732264801
+"Guilford County, NC",2015,Age,Under 5 years,0.2618412167593813,0.027711854074356758
+"Guilford County, NC",2016,Age,18 to 34 years,0.23541435547130915,0.015906775326006255
+"Guilford County, NC",2016,Age,35 to 64 years,0.13686328688130706,0.008284071049424744
+"Guilford County, NC",2016,Age,5 to 17 years,0.2622165664044424,0.017590436912825465
+"Guilford County, NC",2016,Age,65 years and over,0.1083041827165199,0.01149152003074794
+"Guilford County, NC",2016,Age,Under 5 years,0.28548680618744315,0.02988049165548572
+"Guilford County, NC",2017,Age,18 to 34 years,0.18577268012933928,0.014393102605675162
+"Guilford County, NC",2017,Age,35 to 64 years,0.11199064183713427,0.007076185142381064
+"Guilford County, NC",2017,Age,5 to 17 years,0.1726809212436557,0.014954822441534817
+"Guilford County, NC",2017,Age,65 years and over,0.09002840797517903,0.009366896456532417
+"Guilford County, NC",2017,Age,Under 5 years,0.22478701173444784,0.029856333617399124
+North Carolina,2006,Age,18 to 34 years,0.1858763704539682,0.00321073455716417
+North Carolina,2006,Age,35 to 64 years,0.10230029501110356,0.0017359087578421883
+North Carolina,2006,Age,5 to 17 years,0.18923845442179724,0.0037516912368689113
+North Carolina,2006,Age,65 years and over,0.11245012477962112,0.0028852670938558454
+North Carolina,2006,Age,Under 5 years,0.23602842747495947,0.0069513060302222665
+North Carolina,2007,Age,18 to 34 years,0.1834566027536812,0.0031693835748333276
+North Carolina,2007,Age,35 to 64 years,0.10013454697197746,0.0015912565708217496
+North Carolina,2007,Age,5 to 17 years,0.18305898486680205,0.0033067184929367424
+North Carolina,2007,Age,65 years and over,0.1100460569370953,0.0027861130576646307
+North Carolina,2007,Age,Under 5 years,0.22621325559593677,0.006639134991160968
+North Carolina,2008,Age,18 to 34 years,0.18705058734311064,0.0036062019542284214
+North Carolina,2008,Age,35 to 64 years,0.10065924253482467,0.0017074084149641985
+North Carolina,2008,Age,5 to 17 years,0.18743467694607005,0.0036675491706461595
+North Carolina,2008,Age,65 years and over,0.11440057268835963,0.002655678437651697
+North Carolina,2008,Age,Under 5 years,0.22700006729359257,0.00655230925607029
+North Carolina,2009,Age,18 to 34 years,0.2188287090035585,0.0035520590914509234
+North Carolina,2009,Age,35 to 64 years,0.11276226715536064,0.0017761405056911442
+North Carolina,2009,Age,5 to 17 years,0.20867378023008773,0.003630446638822077
+North Carolina,2009,Age,65 years and over,0.09952298827876442,0.0024061124539296735
+North Carolina,2009,Age,Under 5 years,0.26714303720451826,0.005939538442209984
+North Carolina,2010,Age,18 to 34 years,0.2309116477448837,0.0034682050472527514
+North Carolina,2010,Age,35 to 64 years,0.12505278770316533,0.0017476758444985763
+North Carolina,2010,Age,5 to 17 years,0.2325408275606858,0.003734224123837175
+North Carolina,2010,Age,65 years and over,0.09908572315119808,0.002619634412939915
+North Carolina,2010,Age,Under 5 years,0.29059303819852866,0.006301315173702677
+North Carolina,2011,Age,18 to 34 years,0.2334100119858803,0.003370850017164664
+North Carolina,2011,Age,35 to 64 years,0.1301639743815417,0.0018997329734170803
+North Carolina,2011,Age,5 to 17 years,0.23813354053127303,0.004107984458559077
+North Carolina,2011,Age,65 years and over,0.09653847462212208,0.00242047887882655
+North Carolina,2011,Age,Under 5 years,0.30304475841607453,0.007212449029585596
+North Carolina,2012,Age,18 to 34 years,0.2349341101028619,0.0030527747938042184
+North Carolina,2012,Age,35 to 64 years,0.1313124079917515,0.0017010833594511452
+North Carolina,2012,Age,5 to 17 years,0.24481570588534587,0.0036072068551514474
+North Carolina,2012,Age,65 years and over,0.10031159573041029,0.0022822667440331084
+North Carolina,2012,Age,Under 5 years,0.30155546567831165,0.005694080451872667
+North Carolina,2013,Age,18 to 34 years,0.232049571909377,0.0033135189462085014
+North Carolina,2013,Age,35 to 64 years,0.1349544054027205,0.0017865227233790585
+North Carolina,2013,Age,5 to 17 years,0.24208825776000398,0.0039967219164949485
+North Carolina,2013,Age,65 years and over,0.10011439509471488,0.0021418480303126704
+North Carolina,2013,Age,Under 5 years,0.2795080631203612,0.006082896429678705
+North Carolina,2014,Age,18 to 34 years,0.222228534858508,0.00293572908192992
+North Carolina,2014,Age,35 to 64 years,0.13130971222725063,0.001609971825504633
+North Carolina,2014,Age,5 to 17 years,0.23204257783084672,0.0037324400012277853
+North Carolina,2014,Age,65 years and over,0.0965383464469909,0.0022153700264807737
+North Carolina,2014,Age,Under 5 years,0.27279102502507563,0.0062620668613155165
+North Carolina,2015,Age,18 to 34 years,0.2116818228960529,0.003069593521373718
+North Carolina,2015,Age,35 to 64 years,0.1245529314811899,0.0018006441388400912
+North Carolina,2015,Age,5 to 17 years,0.22400211583601068,0.0037566864627955653
+North Carolina,2015,Age,65 years and over,0.09214976066715938,0.0021496497624314973
+North Carolina,2015,Age,Under 5 years,0.265769228164512,0.006637006754118574
+North Carolina,2016,Age,18 to 34 years,0.19435740028737356,0.003269714470378343
+North Carolina,2016,Age,35 to 64 years,0.1193888153244899,0.0017577280972319556
+North Carolina,2016,Age,5 to 17 years,0.20745347255372068,0.00370718423844433
+North Carolina,2016,Age,65 years and over,0.09351633933840893,0.0021080851378311705
+North Carolina,2016,Age,Under 5 years,0.2430895628186624,0.007177887534644861
+North Carolina,2017,Age,18 to 34 years,0.17471617181558707,0.0031778313257156115
+North Carolina,2017,Age,35 to 64 years,0.11702997137904624,0.0018358306018814974
+North Carolina,2017,Age,5 to 17 years,0.20296400813219342,0.0038215533276620703
+North Carolina,2017,Age,65 years and over,0.09102029182116719,0.0021025003441363104
+North Carolina,2017,Age,Under 5 years,0.23733913822907995,0.0061145692508341514
+United States,2006,Age,18 to 34 years,0.1667583757377791,5.816304481226887e-4
+United States,2006,Age,35 to 64 years,0.09325633049210902,2.766234100531532e-4
+United States,2006,Age,5 to 17 years,0.1731190853432938,6.220527961253064e-4
+United States,2006,Age,65 years and over,0.09886267987537974,4.355318991130336e-4
+United States,2006,Age,Under 5 years,0.20986785488021892,0.0010701360629146784
+United States,2007,Age,18 to 34 years,0.16314457299326368,5.879131731204585e-4
+United States,2007,Age,35 to 64 years,0.0902562357812437,2.7474084033103733e-4
+United States,2007,Age,5 to 17 years,0.16950342151876402,6.311404350990004e-4
+United States,2007,Age,65 years and over,0.09539496314572532,4.680257152033493e-4
+United States,2007,Age,Under 5 years,0.20783447390055906,0.0011866117815739032
+United States,2008,Age,18 to 34 years,0.1669945001147442,6.035005322474797e-4
+United States,2008,Age,35 to 64 years,0.09245006185600886,2.9250627291577125e-4
+United States,2008,Age,5 to 17 years,0.1698717505596506,6.402833311552562e-4
+United States,2008,Age,65 years and over,0.09923931539998507,5.095459325738363e-4
+United States,2008,Age,Under 5 years,0.21209818873587588,0.0013305981561375696
+United States,2009,Age,18 to 34 years,0.1824122449831289,6.20116055619324e-4
+United States,2009,Age,35 to 64 years,0.10196596947330354,2.822253374751921e-4
+United States,2009,Age,5 to 17 years,0.18690944667853104,6.707046407273454e-4
+United States,2009,Age,65 years and over,0.09471960621392636,4.584006846904727e-4
+United States,2009,Age,Under 5 years,0.23229819882236497,0.0013260925602885541
+United States,2010,Age,18 to 34 years,0.19934551355788235,6.061785855190543e-4
+United States,2010,Age,35 to 64 years,0.11028925729358828,2.952341081690441e-4
+United States,2010,Age,5 to 17 years,0.20276712069017627,6.369867335879403e-4
+United States,2010,Age,65 years and over,0.09040185664587896,4.367739246171845e-4
+United States,2010,Age,Under 5 years,0.2502959117489589,0.0012786678095424583
+United States,2011,Age,18 to 34 years,0.204040486501229,5.923692587649468e-4
+United States,2011,Age,35 to 64 years,0.11714356150380013,3.066426423336619e-4
+United States,2011,Age,5 to 17 years,0.21264247075316106,6.76183896589011e-4
+United States,2011,Age,65 years and over,0.0930607308196154,3.9272938782023586e-4
+United States,2011,Age,Under 5 years,0.2584395252197786,0.001212534738170476
+United States,2012,Age,18 to 34 years,0.20123747127069244,5.386941566379196e-4
+United States,2012,Age,35 to 64 years,0.11794274088016228,2.8584515662916104e-4
+United States,2012,Age,5 to 17 years,0.21477635998426317,6.386808153299497e-4
+United States,2012,Age,65 years and over,0.09485887465885376,3.730207089953348e-4
+United States,2012,Age,Under 5 years,0.25571871283228653,0.0010950144889313783
+United States,2013,Age,18 to 34 years,0.19883647653554223,5.63654413900709e-4
+United States,2013,Age,35 to 64 years,0.11958078176937995,3.000282033775696e-4
+United States,2013,Age,5 to 17 years,0.21296880674112897,6.811926653378675e-4
+United States,2013,Age,65 years and over,0.095625741706559,4.385291932106639e-4
+United States,2013,Age,Under 5 years,0.24752919086109665,0.0012675302768055782
+United States,2014,Age,18 to 34 years,0.19337546535173952,5.512863407805482e-4
+United States,2014,Age,35 to 64 years,0.11869697127832213,2.898175820185779e-4
+United States,2014,Age,5 to 17 years,0.2083342385600906,6.78157182142635e-4
+United States,2014,Age,65 years and over,0.09473675655937729,3.9978073723539266e-4
+United States,2014,Age,Under 5 years,0.23945663312711998,0.001211470871237068
+United States,2015,Age,18 to 34 years,0.1820337114806413,5.811233435955328e-4
+United States,2015,Age,35 to 64 years,0.11347755263240844,3.0021013256074615e-4
+United States,2015,Age,5 to 17 years,0.1992256300832257,7.04221811538911e-4
+United States,2015,Age,65 years and over,0.09028223752506245,3.923333648108831e-4
+United States,2015,Age,Under 5 years,0.22823742873177946,0.0012898853449122055
+United States,2016,Age,18 to 34 years,0.17044006627199082,5.333797620984593e-4
+United States,2016,Age,35 to 64 years,0.10986529579421817,2.961072421597816e-4
+United States,2016,Age,5 to 17 years,0.18797627037332418,6.853751064884413e-4
+United States,2016,Age,65 years and over,0.09246246191646817,4.10044884081807e-4
+United States,2016,Age,Under 5 years,0.2134640411380089,0.0013286045000657878
+United States,2017,Age,18 to 34 years,0.16097806851807975,5.442525643472203e-4
+United States,2017,Age,35 to 64 years,0.10560968627024142,2.857281267862836e-4
+United States,2017,Age,5 to 17 years,0.177756743121121,6.704577424786134e-4
+United States,2017,Age,65 years and over,0.09256015482193616,4.114721542326409e-4
+United States,2017,Age,Under 5 years,0.20212768691125285,0.0012776976126765997

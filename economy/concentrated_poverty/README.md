@@ -1,0 +1,5 @@
+# Overview of Concentrated Poverty files and data sets
+
+There are two data cleaning file within the `concentrated_poverty` folder, and two subsequent cleaned data sets in the `cleaned_data` folder. One file, `concentrated_poverty_demographics.R` calculates the percentage of residents living in census tracts labels as concentrated poverty census tracts (greater than 40% pvoerty rate). This file also breaks down results by demographic.  The corollary data set is `conc_poverty_demographic.csv`.
+
+The other file is `concentrated_poverty_perc_in_pov.R` and it calculates the percentage of all residents in the geographic area who are in poverty that live within a concentrated poverty census tract. In other words, it is the sum of those living in poverty AND in a concentrated poverty census tract divided by the total number of people in poverty within the greater geographic area, whether state or county. One way of sting the results is that "25% of all Forsyth County residents living in poverty also live in census tracts designated as concentrated poverty census tracts." The data set produced from this file is at `conc_poverty_in_poverty.csv`.

@@ -1,0 +1,33 @@
+geo_description,year,type,subtype,estimate,se
+NC,2013,Concentrated Poverty,Total Population,0.0438495777743275,3.044545076098321e-4
+NC,2018,Concentrated Poverty,Total Population,0.026630019637108183,2.2794188346886984e-4
+"Durham County, NC",2013,Concentrated Poverty,Total Population,0.08789962134146805,0.0028161192985697156
+"Forsyth County, NC",2013,Concentrated Poverty,Total Population,0.09223172815545247,0.0021614820355216713
+"Guilford County, NC",2013,Concentrated Poverty,Total Population,0.09261378861937236,0.001926059910602853
+"Durham County, NC",2018,Concentrated Poverty,Total Population,0.059537221004622325,0.0022711058292169796
+"Forsyth County, NC",2018,Concentrated Poverty,Total Population,0.06632241987955977,0.0016547865059490107
+"Guilford County, NC",2018,Concentrated Poverty,Total Population,0.05960627122660137,0.0016843107854895376
+NC,2018,Race / Ethnicity,African American,0.06039332407977143,7.935074645652847e-4
+NC,2018,Race / Ethnicity,Hispanic / Latino,0.0380238271580663,0.0014145042143804067
+NC,2018,Race / Ethnicity,"White, non-Hispanic",0.013627365728330216,2.2828356048671829e-4
+"Durham County, NC",2018,Race / Ethnicity,African American,0.076490973114974,0.004853618690594806
+"Durham County, NC",2018,Race / Ethnicity,Hispanic / Latino,0.12294589178356713,0.012406685499987405
+"Durham County, NC",2018,Race / Ethnicity,"White, non-Hispanic",0.01809505508583141,0.0019559012178607437
+"Forsyth County, NC",2018,Race / Ethnicity,African American,0.15446011420661013,0.004264194533208229
+"Forsyth County, NC",2018,Race / Ethnicity,Hispanic / Latino,0.12758316667741867,0.01180547093943355
+"Forsyth County, NC",2018,Race / Ethnicity,"White, non-Hispanic",0.014363990661959059,0.0010752818074088446
+"Guilford County, NC",2018,Race / Ethnicity,African American,0.11620789655090447,0.004293412256207817
+"Guilford County, NC",2018,Race / Ethnicity,Hispanic / Latino,0.06894320274777241,0.008586743718500909
+"Guilford County, NC",2018,Race / Ethnicity,"White, non-Hispanic",0.025417739898746104,0.001622998900770008
+NC,2018,Age,18 to 64 years old,0.028346806447593888,2.83635407427671e-4
+NC,2018,Age,65 years old and over,0.017672423087453207,3.2075308181629024e-4
+NC,2018,Age,18 years old and under,0.028068827151202635,5.301111744178097e-4
+"Durham County, NC",2018,Age,18 to 64 years old,0.06012222793380791,0.0022956141509787816
+"Durham County, NC",2018,Age,65 years old and over,0.033139714341835734,0.003255267722138185
+"Durham County, NC",2018,Age,18 years old and under,0.07233608457757582,0.006372303828605227
+"Forsyth County, NC",2018,Age,18 to 64 years old,0.06387552834863723,0.0016683288671953088
+"Forsyth County, NC",2018,Age,65 years old and over,0.04411605499621089,0.0020896693125173472
+"Forsyth County, NC",2018,Age,18 years old and under,0.08683193930464844,0.004313047649112873
+"Guilford County, NC",2018,Age,18 to 64 years old,0.062409697214959356,0.002136659311915866
+"Guilford County, NC",2018,Age,65 years old and over,0.037879301231924324,0.0021825610370059707
+"Guilford County, NC",2018,Age,18 years old and under,0.06576369074220496,0.004053146050019128
