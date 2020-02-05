@@ -11,6 +11,7 @@ library(tidyverse)
 library(data.table)
 library(glue)
 
+# current year of PUMS dataset
 current_year <- 2018
 
 source('economy/housing_burden/housing_burden_functions.R')
