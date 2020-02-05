@@ -1,0 +1,251 @@
+year,geo_description,type,subtype,estimate,se
+2008,"Durham County, NC",Crime Rate,Violent,760,16.868430153323892
+2008,"Durham County, NC",Crime Rate,Murder,9.9,1.9278520643439905
+2008,"Durham County, NC",Crime Rate,Rape,31.4,3.4270247911425176
+2008,"Durham County, NC",Crime Rate,Robbery,364.1,11.675846272865652
+2008,"Durham County, NC",Crime Rate,Assault,354.6,11.52204136205365
+2009,"Durham County, NC",Crime Rate,Violent,630.5,15.182047572682501
+2009,"Durham County, NC",Crime Rate,Murder,8.2,1.726953863849259
+2009,"Durham County, NC",Crime Rate,Rape,24.5,2.9911718345143026
+2009,"Durham County, NC",Crime Rate,Robbery,279.3,10.104981743613804
+2009,"Durham County, NC",Crime Rate,Assault,318.6,10.791405555763845
+2010,"Durham County, NC",Crime Rate,Violent,646.6,15.199031985746501
+2010,"Durham County, NC",Crime Rate,Murder,10.3,1.9148980382476881
+2010,"Durham County, NC",Crime Rate,Rape,26.6,3.0832787669762585
+2010,"Durham County, NC",Crime Rate,Robbery,258.9,9.616949336070144
+2010,"Durham County, NC",Crime Rate,Assault,350.9,11.196044672983124
+2011,"Durham County, NC",Crime Rate,Violent,671.2,15.251947587871065
+2011,"Durham County, NC",Crime Rate,Murder,11.3,1.980605394116525
+2011,"Durham County, NC",Crime Rate,Rape,27.2,3.0683406827287505
+2011,"Durham County, NC",Crime Rate,Robbery,269.4,9.662431676728312
+2011,"Durham County, NC",Crime Rate,Assault,363.4,11.221488628663824
+2012,"Durham County, NC",Crime Rate,Violent,666,14.954972892473325
+2012,"Durham County, NC",Crime Rate,Murder,7.8,1.6211865845995443
+2012,"Durham County, NC",Crime Rate,Rape,26.5,2.980935151193753
+2012,"Durham County, NC",Crime Rate,Robbery,234.8,8.879604623099278
+2012,"Durham County, NC",Crime Rate,Assault,396.9,11.545112196697696
+2013,"Durham County, NC",Crime Rate,Violent,599.8,14.10547332163936
+2013,"Durham County, NC",Crime Rate,Murder,10.5,1.8649340131855645
+2013,"Durham County, NC",Crime Rate,Rape,24.6,2.8557417262268263
+2013,"Durham County, NC",Crime Rate,Robbery,228.1,8.699196691414272
+2013,"Durham County, NC",Crime Rate,Assault,336.6,10.566698390278646
+2014,"Durham County, NC",Crime Rate,Violent,675.5,14.773737368593066
+2014,"Durham County, NC",Crime Rate,Murder,7.8,1.588899610033716
+2014,"Durham County, NC",Crime Rate,Rape,28.4,3.029912672468118
+2014,"Durham County, NC",Crime Rate,Robbery,236.5,8.742230089237388
+2014,"Durham County, NC",Crime Rate,Assault,402.8,11.407530676243981
+2015,"Durham County, NC",Crime Rate,Violent,785,15.80670555635612
+2015,"Durham County, NC",Crime Rate,Murder,13.5,2.076440291399444
+2015,"Durham County, NC",Crime Rate,Rape,27.8,2.9739395554518326
+2015,"Durham County, NC",Crime Rate,Robbery,263.3,9.154228457007335
+2015,"Durham County, NC",Crime Rate,Assault,480.4,12.365117109798375
+2016,"Durham County, NC",Crime Rate,Violent,795.4,15.68712680801049
+2016,"Durham County, NC",Crime Rate,Murder,14,2.0809295388221996
+2016,"Durham County, NC",Crime Rate,Rape,31.4,3.1171619072245944
+2016,"Durham County, NC",Crime Rate,Robbery,302.4,9.673470412334682
+2016,"Durham County, NC",Crime Rate,Assault,447.5,11.767028153739245
+2017,"Durham County, NC",Crime Rate,Violent,767.9,15.36339782320697
+2017,"Durham County, NC",Crime Rate,Murder,8,1.5707495913809943
+2017,"Durham County, NC",Crime Rate,Rape,28.8,2.9733809878853
+2017,"Durham County, NC",Crime Rate,Robbery,297.3,9.559875029417979
+2017,"Durham County, NC",Crime Rate,Assault,433.8,11.547057344539775
+2008,"Forsyth County, NC",Crime Rate,Violent,750.1,14.622247117792938
+2008,"Forsyth County, NC",Crime Rate,Murder,5.9,1.2987935860946127
+2008,"Forsyth County, NC",Crime Rate,Rape,39.9,3.3743647194906776
+2008,"Forsyth County, NC",Crime Rate,Robbery,237,8.219424214030091
+2008,"Forsyth County, NC",Crime Rate,Assault,467.2,11.540276180585792
+2009,"Forsyth County, NC",Crime Rate,Violent,614,13.16699058403104
+2009,"Forsyth County, NC",Crime Rate,Murder,5,1.1829919851312536
+2009,"Forsyth County, NC",Crime Rate,Rape,39.7,3.3460066191025795
+2009,"Forsyth County, NC",Crime Rate,Robbery,185.1,7.230098337228232
+2009,"Forsyth County, NC",Crime Rate,Assault,384.3,10.41633758775168
+2010,"Forsyth County, NC",Crime Rate,Violent,532.9,12.375212315076794
+2010,"Forsyth County, NC",Crime Rate,Murder,3.7,1.0260737338148422
+2010,"Forsyth County, NC",Crime Rate,Rape,34.7,3.1561631866341724
+2010,"Forsyth County, NC",Crime Rate,Robbery,137.8,6.293052049271323
+2010,"Forsyth County, NC",Crime Rate,Assault,356.8,10.125669478138265
+2011,"Forsyth County, NC",Crime Rate,Violent,553.2,12.433775162918357
+2011,"Forsyth County, NC",Crime Rate,Murder,4.8,1.1630304094105341
+2011,"Forsyth County, NC",Crime Rate,Rape,33.3,3.051121768503351
+2011,"Forsyth County, NC",Crime Rate,Robbery,137.8,6.2056787602182135
+2011,"Forsyth County, NC",Crime Rate,Assault,377.3,10.267732570900613
+2012,"Forsyth County, NC",Crime Rate,Violent,545,12.287389434115804
+2012,"Forsyth County, NC",Crime Rate,Murder,2.3,0.7908852563966441
+2012,"Forsyth County, NC",Crime Rate,Rape,27.7,2.768098397388254
+2012,"Forsyth County, NC",Crime Rate,Robbery,132.1,6.049109033068982
+2012,"Forsyth County, NC",Crime Rate,Assault,383,10.300502453048342
+2013,"Forsyth County, NC",Crime Rate,Violent,497.9,11.688246122137095
+2013,"Forsyth County, NC",Crime Rate,Murder,5,1.1763644368802726
+2013,"Forsyth County, NC",Crime Rate,Rape,27.5,2.7448503527206363
+2013,"Forsyth County, NC",Crime Rate,Robbery,140.9,6.218557103288111
+2013,"Forsyth County, NC",Crime Rate,Assault,324.4,9.435391259381381
+2014,"Forsyth County, NC",Crime Rate,Violent,561,12.326124337809862
+2014,"Forsyth County, NC",Crime Rate,Murder,4.7,1.1310527122398166
+2014,"Forsyth County, NC",Crime Rate,Rape,27.2,2.7156351581901603
+2014,"Forsyth County, NC",Crime Rate,Robbery,131.7,5.972381694334797
+2014,"Forsyth County, NC",Crime Rate,Assault,397.3,10.373526089910785
+2015,"Forsyth County, NC",Crime Rate,Violent,597.2,12.686804008984446
+2015,"Forsyth County, NC",Crime Rate,Murder,5.2,1.186585728938411
+2015,"Forsyth County, NC",Crime Rate,Rape,31.9,2.9319145916866316
+2015,"Forsyth County, NC",Crime Rate,Robbery,133.4,5.995055246127715
+2015,"Forsyth County, NC",Crime Rate,Assault,426.8,10.724280847366643
+2016,"Forsyth County, NC",Crime Rate,Violent,651.3,13.152380526255923
+2016,"Forsyth County, NC",Crime Rate,Murder,7.1,1.373817417856267
+2016,"Forsyth County, NC",Crime Rate,Rape,34.4,3.0243191318826868
+2016,"Forsyth County, NC",Crime Rate,Robbery,141.8,6.137987832585411
+2016,"Forsyth County, NC",Crime Rate,Assault,467.9,11.147929779353321
+2017,"Forsyth County, NC",Crime Rate,Violent,702.2,13.552902722715627
+2017,"Forsyth County, NC",Crime Rate,Murder,7,1.3571183937126146
+2017,"Forsyth County, NC",Crime Rate,Rape,36.3,3.080941569553775
+2017,"Forsyth County, NC",Crime Rate,Robbery,163.6,6.541081074109989
+2017,"Forsyth County, NC",Crime Rate,Assault,495.3,11.382506723202722
+2008,"Guilford County, NC",Crime Rate,Violent,670.7,11.692101005601335
+2008,"Guilford County, NC",Crime Rate,Murder,7.7,1.2557318928693264
+2008,"Guilford County, NC",Crime Rate,Rape,34.8,2.6638096104003597
+2008,"Guilford County, NC",Crime Rate,Robbery,291.6,7.709666605858769
+2008,"Guilford County, NC",Crime Rate,Assault,336.5,8.282120653821664
+2009,"Guilford County, NC",Crime Rate,Violent,589.8,10.90534824440835
+2009,"Guilford County, NC",Crime Rate,Murder,5.9,1.092879223042914
+2009,"Guilford County, NC",Crime Rate,Rape,24.5,2.224447439850677
+2009,"Guilford County, NC",Crime Rate,Robbery,257.7,7.2080335274547265
+2009,"Guilford County, NC",Crime Rate,Assault,301.7,7.7992513480520484
+2010,"Guilford County, NC",Crime Rate,Violent,478.9,9.797756857455095
+2010,"Guilford County, NC",Crime Rate,Murder,5.4,1.041489803405057
+2010,"Guilford County, NC",Crime Rate,Rape,20,2.001262073112899
+2010,"Guilford County, NC",Crime Rate,Robbery,183.4,6.062563529677272
+2010,"Guilford County, NC",Crime Rate,Assault,270.2,7.35877788702435
+2011,"Guilford County, NC",Crime Rate,Violent,474.5,9.820427431675151
+2011,"Guilford County, NC",Crime Rate,Murder,6.6,1.1607733109993974
+2011,"Guilford County, NC",Crime Rate,Rape,24.3,2.222711667821803
+2011,"Guilford County, NC",Crime Rate,Robbery,168.9,5.859876215166572
+2011,"Guilford County, NC",Crime Rate,Assault,274.6,7.470930587679368
+2012,"Guilford County, NC",Crime Rate,Violent,449.3,9.496841685784906
+2012,"Guilford County, NC",Crime Rate,Murder,5.6,1.0573045435458162
+2012,"Guilford County, NC",Crime Rate,Rape,18.7,1.937247056239554
+2012,"Guilford County, NC",Crime Rate,Robbery,151,5.504805398896603
+2012,"Guilford County, NC",Crime Rate,Assault,274.1,7.417297383173285
+2013,"Guilford County, NC",Crime Rate,Violent,424.2,9.173417627008584
+2013,"Guilford County, NC",Crime Rate,Murder,5.9,1.0815984911269254
+2013,"Guilford County, NC",Crime Rate,Rape,22.8,2.126838140973064
+2013,"Guilford County, NC",Crime Rate,Robbery,135.8,5.190921593004325
+2013,"Guilford County, NC",Crime Rate,Assault,259.7,7.177229841720789
+2014,"Guilford County, NC",Crime Rate,Violent,392,8.773492774093693
+2014,"Guilford County, NC",Crime Rate,Murder,5.4,1.0329418031583
+2014,"Guilford County, NC",Crime Rate,Rape,16.9,1.8207757655729473
+2014,"Guilford County, NC",Crime Rate,Robbery,124.8,4.949967237560282
+2014,"Guilford County, NC",Crime Rate,Assault,244.9,6.934681438029032
+2015,"Guilford County, NC",Crime Rate,Violent,483.8,9.696241690105744
+2015,"Guilford County, NC",Crime Rate,Murder,7.3,1.1913891009847
+2015,"Guilford County, NC",Crime Rate,Rape,24.6,2.1865872394223507
+2015,"Guilford County, NC",Crime Rate,Robbery,144.5,5.299937458515652
+2015,"Guilford County, NC",Crime Rate,Assault,307.3,7.72833708524787
+2016,"Guilford County, NC",Crime Rate,Violent,541.4,10.15687242363058
+2016,"Guilford County, NC",Crime Rate,Murder,8.8,1.2917370529040324
+2016,"Guilford County, NC",Crime Rate,Rape,27.4,2.2854748550151887
+2016,"Guilford County, NC",Crime Rate,Robbery,154.6,5.427167381998078
+2016,"Guilford County, NC",Crime Rate,Assault,350.7,8.174101278485086
+2017,"Guilford County, NC",Crime Rate,Violent,596.6,10.639979165850752
+2017,"Guilford County, NC",Crime Rate,Murder,13.3,1.5913528663439118
+2017,"Guilford County, NC",Crime Rate,Rape,25.4,2.194341418749575
+2017,"Guilford County, NC",Crime Rate,Robbery,168.2,5.650005024268962
+2017,"Guilford County, NC",Crime Rate,Assault,389.7,8.598782568957809
+2008,North Carolina,Crime Rate,Violent,477,2.2100401171011326
+2008,North Carolina,Crime Rate,Violent,477,2.2100401171011326
+2008,North Carolina,Crime Rate,Murder,6.8,0.263775636083482
+2008,North Carolina,Crime Rate,Murder,6.8,0.263775636083482
+2008,North Carolina,Crime Rate,Rape,25.2,0.5075985635975088
+2008,North Carolina,Crime Rate,Rape,25.2,0.5075985635975088
+2008,North Carolina,Crime Rate,Robbery,158.9,1.275741161504459
+2008,North Carolina,Crime Rate,Robbery,158.9,1.275741161504459
+2008,North Carolina,Crime Rate,Assault,286.1,1.711586375291105
+2008,North Carolina,Crime Rate,Assault,286.1,1.711586375291105
+2009,North Carolina,Crime Rate,Violent,417.2,2.042723393918249
+2009,North Carolina,Crime Rate,Violent,417.2,2.042723393918249
+2009,North Carolina,Crime Rate,Murder,5.5,0.23377499066491014
+2009,North Carolina,Crime Rate,Murder,5.5,0.23377499066491014
+2009,North Carolina,Crime Rate,Rape,25.1,0.5011904350407042
+2009,North Carolina,Crime Rate,Rape,25.1,0.5011904350407042
+2009,North Carolina,Crime Rate,Robbery,130.2,1.1411935873529353
+2009,North Carolina,Crime Rate,Robbery,130.2,1.1411935873529353
+2009,North Carolina,Crime Rate,Assault,256.4,1.601422324625444
+2009,North Carolina,Crime Rate,Assault,256.4,1.601422324625444
+2010,North Carolina,Crime Rate,Violent,373.9,1.9263487145669769
+2010,North Carolina,Crime Rate,Violent,373.9,1.9263487145669769
+2010,North Carolina,Crime Rate,Murder,5.1,0.22571048102428357
+2010,North Carolina,Crime Rate,Murder,5.1,0.22571048102428357
+2010,North Carolina,Crime Rate,Rape,21.4,0.46122261279907806
+2010,North Carolina,Crime Rate,Rape,21.4,0.46122261279907806
+2010,North Carolina,Crime Rate,Robbery,105,1.0207460513233713
+2010,North Carolina,Crime Rate,Robbery,105,1.0207460513233713
+2010,North Carolina,Crime Rate,Assault,242.3,1.5508788956653474
+2010,North Carolina,Crime Rate,Assault,242.3,1.5508788956653474
+2011,North Carolina,Crime Rate,Violent,356.7,1.8908546356186915
+2011,North Carolina,Crime Rate,Violent,356.7,1.8908546356186915
+2011,North Carolina,Crime Rate,Murder,5.3,0.2299282275511473
+2011,North Carolina,Crime Rate,Murder,5.3,0.2299282275511473
+2011,North Carolina,Crime Rate,Rape,20.8,0.4570495736085627
+2011,North Carolina,Crime Rate,Rape,20.8,0.4570495736085627
+2011,North Carolina,Crime Rate,Robbery,101.2,1.0071437096221356
+2011,North Carolina,Crime Rate,Robbery,101.2,1.0071437096221356
+2011,North Carolina,Crime Rate,Assault,229.4,1.5163217002498766
+2011,North Carolina,Crime Rate,Assault,229.4,1.5163217002498766
+2012,North Carolina,Crime Rate,Violent,358.9,1.890913653965045
+2012,North Carolina,Crime Rate,Violent,358.9,1.890913653965045
+2012,North Carolina,Crime Rate,Murder,5.2,0.227518649757715
+2012,North Carolina,Crime Rate,Murder,5.2,0.227518649757715
+2012,North Carolina,Crime Rate,Rape,20.6,0.45283539975122106
+2012,North Carolina,Crime Rate,Rape,20.6,0.45283539975122106
+2012,North Carolina,Crime Rate,Robbery,98.3,0.9894472345753917
+2012,North Carolina,Crime Rate,Robbery,98.3,0.9894472345753917
+2012,North Carolina,Crime Rate,Assault,234.8,1.5296156319438965
+2012,North Carolina,Crime Rate,Assault,234.8,1.5296156319438965
+2013,North Carolina,Crime Rate,Violent,340.4,1.8314192174345933
+2013,North Carolina,Crime Rate,Violent,340.4,1.8314192174345933
+2013,North Carolina,Crime Rate,Murder,5,0.22280176386158468
+2013,North Carolina,Crime Rate,Murder,5,0.22280176386158468
+2013,North Carolina,Crime Rate,Rape,18.6,0.4278808937392246
+2013,North Carolina,Crime Rate,Rape,18.6,0.4278808937392246
+2013,North Carolina,Crime Rate,Robbery,96.7,0.9762049862888746
+2013,North Carolina,Crime Rate,Robbery,96.7,0.9762049862888746
+2013,North Carolina,Crime Rate,Assault,220.1,1.472547958311228
+2013,North Carolina,Crime Rate,Assault,220.1,1.472547958311228
+2014,North Carolina,Crime Rate,Violent,332.9,1.802549262254701
+2014,North Carolina,Crime Rate,Violent,332.9,1.802549262254701
+2014,North Carolina,Crime Rate,Murder,5.5,0.23065238212314465
+2014,North Carolina,Crime Rate,Murder,5.5,0.23065238212314465
+2014,North Carolina,Crime Rate,Rape,18.1,0.42002745425231036
+2014,North Carolina,Crime Rate,Rape,18.1,0.42002745425231036
+2014,North Carolina,Crime Rate,Robbery,87.7,0.9251870380673338
+2014,North Carolina,Crime Rate,Robbery,87.7,0.9251870380673338
+2014,North Carolina,Crime Rate,Assault,221.6,1.470914410746731
+2014,North Carolina,Crime Rate,Assault,221.6,1.470914410746731
+2015,North Carolina,Crime Rate,Violent,356.2,1.853733621095912
+2015,North Carolina,Crime Rate,Violent,356.2,1.853733621095912
+2015,North Carolina,Crime Rate,Murder,5.7,0.2354414195486294
+2015,North Carolina,Crime Rate,Murder,5.7,0.2354414195486294
+2015,North Carolina,Crime Rate,Rape,19.5,0.43422404848585294
+2015,North Carolina,Crime Rate,Rape,19.5,0.43422404848585294
+2015,North Carolina,Crime Rate,Robbery,91.4,0.939124862951182
+2015,North Carolina,Crime Rate,Robbery,91.4,0.939124862951182
+2015,North Carolina,Crime Rate,Assault,239.5,1.5199965932349213
+2015,North Carolina,Crime Rate,Assault,239.5,1.5199965932349213
+2016,North Carolina,Crime Rate,Violent,375,1.891663251459079
+2016,North Carolina,Crime Rate,Violent,375,1.891663251459079
+2016,North Carolina,Crime Rate,Murder,7,0.25806353478496574
+2016,North Carolina,Crime Rate,Murder,7,0.25806353478496574
+2016,North Carolina,Crime Rate,Rape,21.2,0.4493584451076587
+2016,North Carolina,Crime Rate,Rape,21.2,0.4493584451076587
+2016,North Carolina,Crime Rate,Robbery,95.8,0.9562031480706623
+2016,North Carolina,Crime Rate,Robbery,95.8,0.9562031480706623
+2016,North Carolina,Crime Rate,Assault,251.1,1.547755018200621
+2016,North Carolina,Crime Rate,Assault,251.1,1.547755018200621
+2017,North Carolina,Crime Rate,Violent,383.7,1.894637711522193
+2017,North Carolina,Crime Rate,Violent,383.7,1.894637711522193
+2017,North Carolina,Crime Rate,Murder,6.5,0.24573410959465597
+2017,North Carolina,Crime Rate,Murder,6.5,0.24573410959465597
+2017,North Carolina,Crime Rate,Rape,20.6,0.43921577943840645
+2017,North Carolina,Crime Rate,Rape,20.6,0.43921577943840645
+2017,North Carolina,Crime Rate,Robbery,95.8,0.9466306381847441
+2017,North Carolina,Crime Rate,Robbery,95.8,0.9466306381847441
+2017,North Carolina,Crime Rate,Assault,260.8,1.56212891249283
+2017,North Carolina,Crime Rate,Assault,260.8,1.56212891249283
