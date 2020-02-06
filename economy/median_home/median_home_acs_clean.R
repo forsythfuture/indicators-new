@@ -73,5 +73,12 @@ median_home_census_tract <- get_acs(geography = "tract",
                                     state = "NC",
                                     county = "Forsyth",
                                     survey = "acs5",
-                                    year = current_year,
-                                    geometry = TRUE)
+                                    year = current_year)
+
+median_home_census_tract <- median_home_census_tract %>%
+  mutate(variable = "Median Home Value",
+         moe = round(moe / 1.96, 3)) %>%
+  rename(geo_description = NAME, type = variable, se = moe)
+
+write_csv(median_home_census_tract, "economy/median_home/cleaned_data/median_home_tract.csv")
+
