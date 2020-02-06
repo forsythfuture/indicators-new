@@ -5,13 +5,19 @@
 #  1) income quintiels by race;
 #  2) percentage of people in each race residing in quintiles
 #
+# The 'current_year' object is the only section that needs to be updated
+#
 ###############################################################################
 
 library(tidyverse)
+library(glue)
 library(FFtools)
 
 # update to current year
 current_year <- 2018
+
+# to year to enter into file name, convert year to last two digits
+yr_two <- str_extract(current_year, "[0-9]{2}$")
 
 # get race quintiles from PUMS -------------------------------
   
@@ -43,7 +49,7 @@ replicate_weights <- c('WGTP', paste0(weight_names, seq(1, 80)))
 house_yr_vars <- c(house_vars, replicate_weights)
 
 # import and clean population variables
-pop <- read_csv('https://censuspums.s3.amazonaws.com/oneyear/nc_pop/ss18pnc.csv.gz',
+pop <- read_csv(glue('https://censuspums.s3.amazonaws.com/oneyear/nc_pop/ss{yr_two}pnc.csv.gz'),
                 col_types = cols(.default = "c")) %>%
   # only keep needed variables
   select(!!pop_vars)
@@ -60,7 +66,7 @@ pop <- pop %>%
   ff_pums_ethnicity()
 
 # import housing variables
-house <- read_csv('https://censuspums.s3.amazonaws.com/oneyear/nc_housing/ss18hnc.csv.gz',
+house <- read_csv(glue('https://censuspums.s3.amazonaws.com/oneyear/nc_housing/ss{yr_two}hnc.csv.gz'),
                   col_types = cols(.default = "c")) %>%
   # only keep needed variables
   select(!!house_yr_vars)

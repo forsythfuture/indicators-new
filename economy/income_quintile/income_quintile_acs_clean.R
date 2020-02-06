@@ -3,6 +3,8 @@
 # This file imports and cleans the ACS data for quintiles, which is the
 # US, NC, and county totals
 #
+# The 'current_year' object is the only part that needs to be updated
+#
 ####################################################################################
 
 library(tidyverse)
@@ -11,7 +13,10 @@ library(FFtools)
 
 # update total income quintiles for latest year -----------------
 
+# only part that needs to be updated
 current_year <- 2018
+
+
 comparison_counties <- c("United States", "North Carolina", "Forsyth County, NC", "Guilford County, NC", "Durham County, NC")
 
 parameters <- list(geography = c('us', 'state', 'county'),
