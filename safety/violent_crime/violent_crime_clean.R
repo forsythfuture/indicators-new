@@ -1,6 +1,7 @@
 library(tidyverse)
 library(glue)
 
+# read in crime and population data
 crime <- read_csv("safety/violent_crime/raw_data/crime_raw.csv") %>%
   select(-index_rate)
 
