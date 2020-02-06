@@ -1,94 +1,94 @@
-GEOID,NAME,variable,estimate,moe
-37067000100,"Census Tract 1, Forsyth County, North Carolina",S2301_C03_001,46.6,6.3
-37067000200,"Census Tract 2, Forsyth County, North Carolina",S2301_C03_001,43.6,8.5
-37067000301,"Census Tract 3.01, Forsyth County, North Carolina",S2301_C03_001,35.7,6.8
-37067000302,"Census Tract 3.02, Forsyth County, North Carolina",S2301_C03_001,42.6,7.7
-37067000400,"Census Tract 4, Forsyth County, North Carolina",S2301_C03_001,50.4,8.1
-37067000500,"Census Tract 5, Forsyth County, North Carolina",S2301_C03_001,42.2,7.1
-37067000600,"Census Tract 6, Forsyth County, North Carolina",S2301_C03_001,36.4,5.1
-37067000700,"Census Tract 7, Forsyth County, North Carolina",S2301_C03_001,47.8,7.3
-37067000801,"Census Tract 8.01, Forsyth County, North Carolina",S2301_C03_001,28.7,6
-37067000802,"Census Tract 8.02, Forsyth County, North Carolina",S2301_C03_001,44,6.2
-37067000900,"Census Tract 9, Forsyth County, North Carolina",S2301_C03_001,48.6,5.3
-37067001000,"Census Tract 10, Forsyth County, North Carolina",S2301_C03_001,60,7.4
-37067001100,"Census Tract 11, Forsyth County, North Carolina",S2301_C03_001,60.1,7.5
-37067001200,"Census Tract 12, Forsyth County, North Carolina",S2301_C03_001,50.4,4.9
-37067001300,"Census Tract 13, Forsyth County, North Carolina",S2301_C03_001,27.7,4
-37067001400,"Census Tract 14, Forsyth County, North Carolina",S2301_C03_001,37.9,6.4
-37067001500,"Census Tract 15, Forsyth County, North Carolina",S2301_C03_001,55.7,5.7
-37067001601,"Census Tract 16.01, Forsyth County, North Carolina",S2301_C03_001,48,6.6
-37067001602,"Census Tract 16.02, Forsyth County, North Carolina",S2301_C03_001,43.2,9.5
-37067001700,"Census Tract 17, Forsyth County, North Carolina",S2301_C03_001,56.3,5.7
-37067001800,"Census Tract 18, Forsyth County, North Carolina",S2301_C03_001,52.2,6.6
-37067001901,"Census Tract 19.01, Forsyth County, North Carolina",S2301_C03_001,56.3,6
-37067001902,"Census Tract 19.02, Forsyth County, North Carolina",S2301_C03_001,60.2,6.3
-37067002001,"Census Tract 20.01, Forsyth County, North Carolina",S2301_C03_001,50.3,6.1
-37067002002,"Census Tract 20.02, Forsyth County, North Carolina",S2301_C03_001,59.2,6.6
-37067002100,"Census Tract 21, Forsyth County, North Carolina",S2301_C03_001,59.6,5.3
-37067002200,"Census Tract 22, Forsyth County, North Carolina",S2301_C03_001,67.8,4.5
-37067002501,"Census Tract 25.01, Forsyth County, North Carolina",S2301_C03_001,55.5,4.7
-37067002502,"Census Tract 25.02, Forsyth County, North Carolina",S2301_C03_001,55.9,4.2
-37067002601,"Census Tract 26.01, Forsyth County, North Carolina",S2301_C03_001,48.3,7.5
-37067002603,"Census Tract 26.03, Forsyth County, North Carolina",S2301_C03_001,64.7,6.1
-37067002604,"Census Tract 26.04, Forsyth County, North Carolina",S2301_C03_001,56.6,6.8
-37067002701,"Census Tract 27.01, Forsyth County, North Carolina",S2301_C03_001,60.8,6
-37067002702,"Census Tract 27.02, Forsyth County, North Carolina",S2301_C03_001,50.6,6.3
-37067002703,"Census Tract 27.03, Forsyth County, North Carolina",S2301_C03_001,49.5,6
-37067002801,"Census Tract 28.01, Forsyth County, North Carolina",S2301_C03_001,59.2,4.6
-37067002804,"Census Tract 28.04, Forsyth County, North Carolina",S2301_C03_001,55.3,4.5
-37067002806,"Census Tract 28.06, Forsyth County, North Carolina",S2301_C03_001,53,6.3
-37067002807,"Census Tract 28.07, Forsyth County, North Carolina",S2301_C03_001,56.8,6.2
-37067002808,"Census Tract 28.08, Forsyth County, North Carolina",S2301_C03_001,65,5.5
-37067002809,"Census Tract 28.09, Forsyth County, North Carolina",S2301_C03_001,58.4,4.7
-37067002901,"Census Tract 29.01, Forsyth County, North Carolina",S2301_C03_001,51.9,5
-37067002903,"Census Tract 29.03, Forsyth County, North Carolina",S2301_C03_001,50.1,6.7
-37067002904,"Census Tract 29.04, Forsyth County, North Carolina",S2301_C03_001,54.9,5.4
-37067003002,"Census Tract 30.02, Forsyth County, North Carolina",S2301_C03_001,52.4,5.1
-37067003003,"Census Tract 30.03, Forsyth County, North Carolina",S2301_C03_001,57.2,6.3
-37067003004,"Census Tract 30.04, Forsyth County, North Carolina",S2301_C03_001,59,4.7
-37067003103,"Census Tract 31.03, Forsyth County, North Carolina",S2301_C03_001,65.7,5.2
-37067003105,"Census Tract 31.05, Forsyth County, North Carolina",S2301_C03_001,57.5,5.9
-37067003106,"Census Tract 31.06, Forsyth County, North Carolina",S2301_C03_001,61.9,5
-37067003107,"Census Tract 31.07, Forsyth County, North Carolina",S2301_C03_001,59.5,4.1
-37067003108,"Census Tract 31.08, Forsyth County, North Carolina",S2301_C03_001,49.6,6.5
-37067003201,"Census Tract 32.01, Forsyth County, North Carolina",S2301_C03_001,57.3,5.7
-37067003202,"Census Tract 32.02, Forsyth County, North Carolina",S2301_C03_001,59.4,6.3
-37067003307,"Census Tract 33.07, Forsyth County, North Carolina",S2301_C03_001,64,5.4
-37067003308,"Census Tract 33.08, Forsyth County, North Carolina",S2301_C03_001,67.3,3.9
-37067003309,"Census Tract 33.09, Forsyth County, North Carolina",S2301_C03_001,60.5,5.6
-37067003310,"Census Tract 33.10, Forsyth County, North Carolina",S2301_C03_001,67.7,5.4
-37067003311,"Census Tract 33.11, Forsyth County, North Carolina",S2301_C03_001,70.6,5.3
-37067003312,"Census Tract 33.12, Forsyth County, North Carolina",S2301_C03_001,57.6,4.7
-37067003313,"Census Tract 33.13, Forsyth County, North Carolina",S2301_C03_001,46.8,9.4
-37067003314,"Census Tract 33.14, Forsyth County, North Carolina",S2301_C03_001,67.2,5.1
-37067003315,"Census Tract 33.15, Forsyth County, North Carolina",S2301_C03_001,64.2,4.6
-37067003402,"Census Tract 34.02, Forsyth County, North Carolina",S2301_C03_001,55.8,4.1
-37067003403,"Census Tract 34.03, Forsyth County, North Carolina",S2301_C03_001,69.3,6.2
-37067003404,"Census Tract 34.04, Forsyth County, North Carolina",S2301_C03_001,56.2,6.7
-37067003500,"Census Tract 35, Forsyth County, North Carolina",S2301_C03_001,53.3,6.7
-37067003600,"Census Tract 36, Forsyth County, North Carolina",S2301_C03_001,64.9,5.5
-37067003701,"Census Tract 37.01, Forsyth County, North Carolina",S2301_C03_001,63.9,6.8
-37067003702,"Census Tract 37.02, Forsyth County, North Carolina",S2301_C03_001,67.8,5.9
-37067003703,"Census Tract 37.03, Forsyth County, North Carolina",S2301_C03_001,69.1,4.7
-37067003803,"Census Tract 38.03, Forsyth County, North Carolina",S2301_C03_001,63.7,4.8
-37067003804,"Census Tract 38.04, Forsyth County, North Carolina",S2301_C03_001,64.8,5.3
-37067003805,"Census Tract 38.05, Forsyth County, North Carolina",S2301_C03_001,60,7.9
-37067003806,"Census Tract 38.06, Forsyth County, North Carolina",S2301_C03_001,60.1,4.8
-37067003903,"Census Tract 39.03, Forsyth County, North Carolina",S2301_C03_001,67.5,5.5
-37067003904,"Census Tract 39.04, Forsyth County, North Carolina",S2301_C03_001,58.1,6
-37067003905,"Census Tract 39.05, Forsyth County, North Carolina",S2301_C03_001,64.5,4.3
-37067003906,"Census Tract 39.06, Forsyth County, North Carolina",S2301_C03_001,57.2,5.5
-37067003908,"Census Tract 39.08, Forsyth County, North Carolina",S2301_C03_001,57.5,4.8
-37067003909,"Census Tract 39.09, Forsyth County, North Carolina",S2301_C03_001,65.2,5.4
-37067004005,"Census Tract 40.05, Forsyth County, North Carolina",S2301_C03_001,60,3.9
-37067004007,"Census Tract 40.07, Forsyth County, North Carolina",S2301_C03_001,58.2,4.5
-37067004009,"Census Tract 40.09, Forsyth County, North Carolina",S2301_C03_001,64,4
-37067004010,"Census Tract 40.10, Forsyth County, North Carolina",S2301_C03_001,66.5,4.3
-37067004011,"Census Tract 40.11, Forsyth County, North Carolina",S2301_C03_001,65.3,5.2
-37067004012,"Census Tract 40.12, Forsyth County, North Carolina",S2301_C03_001,65.3,5
-37067004013,"Census Tract 40.13, Forsyth County, North Carolina",S2301_C03_001,60.8,4.8
-37067004014,"Census Tract 40.14, Forsyth County, North Carolina",S2301_C03_001,55.9,5.7
-37067004015,"Census Tract 40.15, Forsyth County, North Carolina",S2301_C03_001,63.4,4.5
-37067004102,"Census Tract 41.02, Forsyth County, North Carolina",S2301_C03_001,53.8,5.4
-37067004103,"Census Tract 41.03, Forsyth County, North Carolina",S2301_C03_001,58.2,5.1
-37067004104,"Census Tract 41.04, Forsyth County, North Carolina",S2301_C03_001,54.7,4.8
+GEOID,geo_description,type,estimate,se
+37067000100,"Census Tract 1, Forsyth County, North Carolina",Employment Rate,46.6,3.214
+37067000200,"Census Tract 2, Forsyth County, North Carolina",Employment Rate,43.6,4.337
+37067000301,"Census Tract 3.01, Forsyth County, North Carolina",Employment Rate,35.7,3.469
+37067000302,"Census Tract 3.02, Forsyth County, North Carolina",Employment Rate,42.6,3.929
+37067000400,"Census Tract 4, Forsyth County, North Carolina",Employment Rate,50.4,4.133
+37067000500,"Census Tract 5, Forsyth County, North Carolina",Employment Rate,42.2,3.622
+37067000600,"Census Tract 6, Forsyth County, North Carolina",Employment Rate,36.4,2.602
+37067000700,"Census Tract 7, Forsyth County, North Carolina",Employment Rate,47.8,3.724
+37067000801,"Census Tract 8.01, Forsyth County, North Carolina",Employment Rate,28.7,3.061
+37067000802,"Census Tract 8.02, Forsyth County, North Carolina",Employment Rate,44,3.163
+37067000900,"Census Tract 9, Forsyth County, North Carolina",Employment Rate,48.6,2.704
+37067001000,"Census Tract 10, Forsyth County, North Carolina",Employment Rate,60,3.776
+37067001100,"Census Tract 11, Forsyth County, North Carolina",Employment Rate,60.1,3.827
+37067001200,"Census Tract 12, Forsyth County, North Carolina",Employment Rate,50.4,2.5
+37067001300,"Census Tract 13, Forsyth County, North Carolina",Employment Rate,27.7,2.041
+37067001400,"Census Tract 14, Forsyth County, North Carolina",Employment Rate,37.9,3.265
+37067001500,"Census Tract 15, Forsyth County, North Carolina",Employment Rate,55.7,2.908
+37067001601,"Census Tract 16.01, Forsyth County, North Carolina",Employment Rate,48,3.367
+37067001602,"Census Tract 16.02, Forsyth County, North Carolina",Employment Rate,43.2,4.847
+37067001700,"Census Tract 17, Forsyth County, North Carolina",Employment Rate,56.3,2.908
+37067001800,"Census Tract 18, Forsyth County, North Carolina",Employment Rate,52.2,3.367
+37067001901,"Census Tract 19.01, Forsyth County, North Carolina",Employment Rate,56.3,3.061
+37067001902,"Census Tract 19.02, Forsyth County, North Carolina",Employment Rate,60.2,3.214
+37067002001,"Census Tract 20.01, Forsyth County, North Carolina",Employment Rate,50.3,3.112
+37067002002,"Census Tract 20.02, Forsyth County, North Carolina",Employment Rate,59.2,3.367
+37067002100,"Census Tract 21, Forsyth County, North Carolina",Employment Rate,59.6,2.704
+37067002200,"Census Tract 22, Forsyth County, North Carolina",Employment Rate,67.8,2.296
+37067002501,"Census Tract 25.01, Forsyth County, North Carolina",Employment Rate,55.5,2.398
+37067002502,"Census Tract 25.02, Forsyth County, North Carolina",Employment Rate,55.9,2.143
+37067002601,"Census Tract 26.01, Forsyth County, North Carolina",Employment Rate,48.3,3.827
+37067002603,"Census Tract 26.03, Forsyth County, North Carolina",Employment Rate,64.7,3.112
+37067002604,"Census Tract 26.04, Forsyth County, North Carolina",Employment Rate,56.6,3.469
+37067002701,"Census Tract 27.01, Forsyth County, North Carolina",Employment Rate,60.8,3.061
+37067002702,"Census Tract 27.02, Forsyth County, North Carolina",Employment Rate,50.6,3.214
+37067002703,"Census Tract 27.03, Forsyth County, North Carolina",Employment Rate,49.5,3.061
+37067002801,"Census Tract 28.01, Forsyth County, North Carolina",Employment Rate,59.2,2.347
+37067002804,"Census Tract 28.04, Forsyth County, North Carolina",Employment Rate,55.3,2.296
+37067002806,"Census Tract 28.06, Forsyth County, North Carolina",Employment Rate,53,3.214
+37067002807,"Census Tract 28.07, Forsyth County, North Carolina",Employment Rate,56.8,3.163
+37067002808,"Census Tract 28.08, Forsyth County, North Carolina",Employment Rate,65,2.806
+37067002809,"Census Tract 28.09, Forsyth County, North Carolina",Employment Rate,58.4,2.398
+37067002901,"Census Tract 29.01, Forsyth County, North Carolina",Employment Rate,51.9,2.551
+37067002903,"Census Tract 29.03, Forsyth County, North Carolina",Employment Rate,50.1,3.418
+37067002904,"Census Tract 29.04, Forsyth County, North Carolina",Employment Rate,54.9,2.755
+37067003002,"Census Tract 30.02, Forsyth County, North Carolina",Employment Rate,52.4,2.602
+37067003003,"Census Tract 30.03, Forsyth County, North Carolina",Employment Rate,57.2,3.214
+37067003004,"Census Tract 30.04, Forsyth County, North Carolina",Employment Rate,59,2.398
+37067003103,"Census Tract 31.03, Forsyth County, North Carolina",Employment Rate,65.7,2.653
+37067003105,"Census Tract 31.05, Forsyth County, North Carolina",Employment Rate,57.5,3.01
+37067003106,"Census Tract 31.06, Forsyth County, North Carolina",Employment Rate,61.9,2.551
+37067003107,"Census Tract 31.07, Forsyth County, North Carolina",Employment Rate,59.5,2.092
+37067003108,"Census Tract 31.08, Forsyth County, North Carolina",Employment Rate,49.6,3.316
+37067003201,"Census Tract 32.01, Forsyth County, North Carolina",Employment Rate,57.3,2.908
+37067003202,"Census Tract 32.02, Forsyth County, North Carolina",Employment Rate,59.4,3.214
+37067003307,"Census Tract 33.07, Forsyth County, North Carolina",Employment Rate,64,2.755
+37067003308,"Census Tract 33.08, Forsyth County, North Carolina",Employment Rate,67.3,1.99
+37067003309,"Census Tract 33.09, Forsyth County, North Carolina",Employment Rate,60.5,2.857
+37067003310,"Census Tract 33.10, Forsyth County, North Carolina",Employment Rate,67.7,2.755
+37067003311,"Census Tract 33.11, Forsyth County, North Carolina",Employment Rate,70.6,2.704
+37067003312,"Census Tract 33.12, Forsyth County, North Carolina",Employment Rate,57.6,2.398
+37067003313,"Census Tract 33.13, Forsyth County, North Carolina",Employment Rate,46.8,4.796
+37067003314,"Census Tract 33.14, Forsyth County, North Carolina",Employment Rate,67.2,2.602
+37067003315,"Census Tract 33.15, Forsyth County, North Carolina",Employment Rate,64.2,2.347
+37067003402,"Census Tract 34.02, Forsyth County, North Carolina",Employment Rate,55.8,2.092
+37067003403,"Census Tract 34.03, Forsyth County, North Carolina",Employment Rate,69.3,3.163
+37067003404,"Census Tract 34.04, Forsyth County, North Carolina",Employment Rate,56.2,3.418
+37067003500,"Census Tract 35, Forsyth County, North Carolina",Employment Rate,53.3,3.418
+37067003600,"Census Tract 36, Forsyth County, North Carolina",Employment Rate,64.9,2.806
+37067003701,"Census Tract 37.01, Forsyth County, North Carolina",Employment Rate,63.9,3.469
+37067003702,"Census Tract 37.02, Forsyth County, North Carolina",Employment Rate,67.8,3.01
+37067003703,"Census Tract 37.03, Forsyth County, North Carolina",Employment Rate,69.1,2.398
+37067003803,"Census Tract 38.03, Forsyth County, North Carolina",Employment Rate,63.7,2.449
+37067003804,"Census Tract 38.04, Forsyth County, North Carolina",Employment Rate,64.8,2.704
+37067003805,"Census Tract 38.05, Forsyth County, North Carolina",Employment Rate,60,4.031
+37067003806,"Census Tract 38.06, Forsyth County, North Carolina",Employment Rate,60.1,2.449
+37067003903,"Census Tract 39.03, Forsyth County, North Carolina",Employment Rate,67.5,2.806
+37067003904,"Census Tract 39.04, Forsyth County, North Carolina",Employment Rate,58.1,3.061
+37067003905,"Census Tract 39.05, Forsyth County, North Carolina",Employment Rate,64.5,2.194
+37067003906,"Census Tract 39.06, Forsyth County, North Carolina",Employment Rate,57.2,2.806
+37067003908,"Census Tract 39.08, Forsyth County, North Carolina",Employment Rate,57.5,2.449
+37067003909,"Census Tract 39.09, Forsyth County, North Carolina",Employment Rate,65.2,2.755
+37067004005,"Census Tract 40.05, Forsyth County, North Carolina",Employment Rate,60,1.99
+37067004007,"Census Tract 40.07, Forsyth County, North Carolina",Employment Rate,58.2,2.296
+37067004009,"Census Tract 40.09, Forsyth County, North Carolina",Employment Rate,64,2.041
+37067004010,"Census Tract 40.10, Forsyth County, North Carolina",Employment Rate,66.5,2.194
+37067004011,"Census Tract 40.11, Forsyth County, North Carolina",Employment Rate,65.3,2.653
+37067004012,"Census Tract 40.12, Forsyth County, North Carolina",Employment Rate,65.3,2.551
+37067004013,"Census Tract 40.13, Forsyth County, North Carolina",Employment Rate,60.8,2.449
+37067004014,"Census Tract 40.14, Forsyth County, North Carolina",Employment Rate,55.9,2.908
+37067004015,"Census Tract 40.15, Forsyth County, North Carolina",Employment Rate,63.4,2.296
+37067004102,"Census Tract 41.02, Forsyth County, North Carolina",Employment Rate,53.8,2.755
+37067004103,"Census Tract 41.03, Forsyth County, North Carolina",Employment Rate,58.2,2.602
+37067004104,"Census Tract 41.04, Forsyth County, North Carolina",Employment Rate,54.7,2.449

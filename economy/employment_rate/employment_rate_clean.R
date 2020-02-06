@@ -87,8 +87,13 @@ emp_tract <- get_acs(geography = "tract",
                      survey = "acs5",
                      year = current_year)
 
-write_csv(emp_tract, "economy/employment_rate/cleaned_data/employment_update_tract.csv")
+emp_tract <- emp_tract %>%
+  mutate(variable = "Employment Rate",
+         moe = round(moe / 1.96, 3)) %>%
+  rename(geo_description = NAME, type = variable, se = moe)
 
+write_csv(emp_tract, "economy/employment_rate/cleaned_data/employment_update_tract.csv")
+  
 # rgdal::writeOGR(emp_tract, 
 #                 "economy/employment_rate/cleaned_data/employment_update_tract",
 #                 driver="ESRI Shapefile")
