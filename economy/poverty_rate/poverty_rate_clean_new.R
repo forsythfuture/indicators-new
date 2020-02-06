@@ -113,5 +113,6 @@ poverty_tract <- get_acs(geography = "tract",
                      state = "NC",
                      county = "Forsyth",
                      survey = "acs5",
-                     year = current_year,
-                     geometry = TRUE)
+                     year = current_year)
+
+
