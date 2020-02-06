@@ -85,10 +85,9 @@ emp_tract <- get_acs(geography = "tract",
                      state = "NC",
                      county = "Forsyth",
                      survey = "acs5",
-                     year = current_year,
-                     geometry = TRUE)
+                     year = current_year)
 
-write_rds(emp_tract, "economy/employment_rate/cleaned_data/employment_update_tract.rds")
+write_csv(emp_tract, "economy/employment_rate/cleaned_data/employment_update_tract.csv")
 
 # rgdal::writeOGR(emp_tract, 
 #                 "economy/employment_rate/cleaned_data/employment_update_tract",
