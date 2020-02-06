@@ -115,4 +115,9 @@ poverty_tract <- get_acs(geography = "tract",
                      survey = "acs5",
                      year = current_year)
 
+poverty_tract <- poverty_tract %>%
+  mutate(variable = "Poverty Rate",
+         moe = round(moe / 1.96, 3)) %>%
+  rename(geo_description = NAME, type = variable, se = moe)
 
+write_csv(poverty_tract, "economy/poverty_rate/cleaned_data/poverty_update_tract.csv")
