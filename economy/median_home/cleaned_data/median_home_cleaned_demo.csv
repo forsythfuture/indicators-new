@@ -1,0 +1,25 @@
+subtype,geo_description,estimate,se,type
+African American,"Durham County, NC",194022.7272727273,12807.201158527008,Race / Ethnicity
+African American,"Forsyth County, NC",120000,9726.298363368835,Race / Ethnicity
+African American,"Guilford County, NC",120000,6250,Race / Ethnicity
+Hispanic / Latino,"Durham County, NC",159191.9191919192,30396.713273513527,Race / Ethnicity
+Hispanic / Latino,"Forsyth County, NC",78764.01869158879,24704.209867169764,Race / Ethnicity
+Hispanic / Latino,"Guilford County, NC",114846.15384615384,13218.255424652729,Race / Ethnicity
+"White, non-Hispanic","Durham County, NC",244890.10989010992,5000,Race / Ethnicity
+"White, non-Hispanic","Forsyth County, NC",175000,5000,Race / Ethnicity
+"White, non-Hispanic","Guilford County, NC",190000,6250,Race / Ethnicity
+African American,North Carolina,125000,1750,Race / Ethnicity
+Hispanic / Latino,North Carolina,130000,3250,Race / Ethnicity
+"White, non-Hispanic",North Carolina,190000,1250,Race / Ethnicity
+25 to 44,"Durham County, NC",236620.37037037036,8635.156513250091,Age
+25 to 44,"Forsyth County, NC",160000,6250,Age
+25 to 44,"Guilford County, NC",160000,8750,Age
+45 to 64,"Durham County, NC",220000,7500,Age
+45 to 64,"Forsyth County, NC",160000,5000,Age
+45 to 64,"Guilford County, NC",170000,7500,Age
+Over 65 years of age,"Durham County, NC",200000,5000,Age
+Over 65 years of age,"Forsyth County, NC",152896.55172413797,2500,Age
+Over 65 years of age,"Guilford County, NC",160000,6250,Age
+25 to 44,North Carolina,185000,2500,Age
+45 to 64,North Carolina,180000,1250,Age
+Over 65 years of age,North Carolina,167000,3000,Age

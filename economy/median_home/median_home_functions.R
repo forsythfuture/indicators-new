@@ -96,5 +96,41 @@ create_pums_pop <- function(population_file) {
   
   pop$AGEP <- cut(pop$AGEP, breaks = c(25, 44, 64, 120), labels = age_categories, include.lowest = T)
   
+  pop$AGEP <- as.character(pop$AGEP)
+  
   return(pop)
+}
+calc_med_housing <- function(housing_survey, demo_col, county, type_text) {
+  
+  # function that calculates medina oncome of demogrpahics for both state and counties
+  
+  # parameters:
+  #  housing_survey: survey object of the housing data
+  #  demo_col: demographic column in housing_survey dataset
+  #  county: boolean, whether to calculate for counties or whole state
+  #  type_text: text to display in the type column
+  
+  # set grouping variables, based on whether grouping on county or not
+  if (county == T) {
+    grouping_var <- c(demo_col, 'cntyname')
+  } else if (county == F) {
+    grouping_var <- demo_col
+  } else {
+    stop('county must be TRUE or FALSE')
+  }
+  
+  df <- housing_survey %>%
+    group_by_at(grouping_var) %>%
+    summarize(median_housing = survey_median(valp, na.rm = T, vartype = 'se')) %>%
+    mutate(type = !!type_text) %>%
+    rename(estimate = median_housing, se = median_housing_se, subtype = !!demo_col)
+  
+  if (county == T) {
+    df <- rename(df, geo_description = cntyname)
+  } else {
+    df$geo_description <- 'North Carolina'
+  }
+  
+  return(df)
+  
 }
